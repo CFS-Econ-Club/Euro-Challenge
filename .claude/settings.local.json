@@ -1,0 +1,36 @@
+{
+  "permissions": {
+    "allow": [
+      "WebSearch",
+      "mcp__puppeteer__puppeteer_navigate",
+      "mcp__puppeteer__puppeteer_screenshot",
+      "mcp__filesystem__directory_tree",
+      "mcp__filesystem__read_multiple_files",
+      "mcp__filesystem__write_file",
+      "mcp__filesystem__create_directory",
+      "mcp__filesystem__edit_file",
+      "mcp__filesystem__read_file",
+      "Bash(ls 02-research/*/)",
+      "mcp__puppeteer__puppeteer_click",
+      "WebFetch(domain:www.ecb.europa.eu)",
+      "mcp__puppeteer__puppeteer_evaluate",
+      "mcp__jina-mcp-server__search_web",
+      "mcp__jina-mcp-server__primer",
+      "mcp__jina-mcp-server__guess_datetime_url",
+      "mcp__jina-mcp-server__read_url",
+      "mcp__jina-mcp-server__parallel_read_url"
+    ]
+  },
+  "enableAllProjectMcpServers": true,
+  "enabledMcpjsonServers": [
+    "fetch",
+    "filesystem",
+    "git",
+    "memory",
+    "sequential-thinking",
+    "puppeteer",
+    "sqlite",
+    "kagi",
+    "jina-mcp-server"
+  ]
+}
