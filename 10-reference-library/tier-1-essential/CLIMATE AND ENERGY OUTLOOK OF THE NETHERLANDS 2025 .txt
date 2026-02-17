@@ -1,0 +1,719 @@
+CLIMATE AND ENERGY OUTLOOK OF THE
+NETHERLANDS 2025
+16 September 2025
+Colophon
+Climate and Energy Outlook of the Netherlands 2025
+© PBL Netherlands Environmental Assessment Agency
+The Hague, 2025
+PBL publication number: 5797
+Corresponding author
+kev@pbl.nl
+www.pbl.nl/kev
+Authors, project team, and substantial contributions
+PBL: Martijn van Sebille, Marian Abels-van Overveld, Filip de Blois, Lennart Bours, Corjan Brink,
+Dick van Dam, William van Dijk, Gerben Geilenkirchen, Maarten ’t Hoen, Marije Hoff, Marit van
+Hout, Robert Koelemeijer, Gabriël Koole, Paul Koutstaal, Sander Lensink, Angela Mahabir, Nico van
+Maaswaal, Astrid Martens, Jordy van Meerkerk, Jelle van Minnen, Matthijs Mugge, Amber
+Nusteling, Eline Ooms, Wim Paas, Jeroen Peters, Arjan Plomp, Marc Schouten, Lena SchulteUebbing, Gerald Schut, Shruti Setty, Michel Traa, Roel van der Veen, Paul Vethman, Cees Volkers,
+Wouter Wetzels, Henk Westhoek, Cees de Wit, Rutger Woolthuis, and Emma van der Zanden.
+TNO: Marijke Menkveld, Joost Gerdes, Kim Ferdández Gómez, Robin Niessink, Yasmin Obbink,
+Koen Smekens, Joost van Stralen, Caspar Tigchelaar, and Thije Teunis.
+CBS: Reinoud Segers, Cor van Bruggen, Sander Brummelkamp, Arthur Denneman, Laura Geurts,
+Maria José Linders, Sebastiaan Mantel, Mark Mangnus, Robbie Vrenken, and Bart van Wezel.
+RIVM: Erik Honig, Loes van der Net, and Margreet van Zanten.
+RVO: various experts from RVO.
+WUR: Sven van Baren, Yonah Berger Barnett, Twan Cals, and Gerard Velthof.
+Advisory panel
+Frans Duijnhouwer (KGG), Sander Kes (KGG), Kim Hermans (LVVN), Martin Bottema (VRO), Sabine
+Jansen (VRO), Laure van Kessel (IenW), Paul Rijke (IenW), Fabrice van Hoof (FIN), Sjors van
+Wickeren (FIN), Chiel Bakker (RvS), Bart Klein Nulent (RvS), Koen Schoots (PBL), Jaco Stremler (PBL
+& chair), Martin Scheepers (TNO), Henk Verduin (CBS), Margreet van Zanten (RIVM), and Bert Stuij
+(RVO).
+Visualisations
+Beeldredactie PBL.
+Production coordination
+PBL Publishers
+PBL | 3
+Accessibility
+PBL attaches great importance to the accessibility of its products. Should you encounter any
+access-related problems when reading them, please contact us at info@pbl.nl, stating the title of
+the publication and the issue you are experiencing.
+Parts of this publication may be reproduced, providing the source is stated, in the form:
+PBL, Climate and Energy Outlook of the Netherlands 2025, The Hague: PBL Netherlands
+Environmental Assessment Agency.
+PBL Netherlands Environmental Assessment Agency is the national institute for strategic policy
+analysis in the fields of the environment, nature and spatial planning. We contribute to improving
+the quality of political and administrative decision-making by conducting outlook studies, analyses
+and evaluations in which an integrated approach is considered paramount. Policy relevance is the
+prime concern in all of our studies. We conduct solicited and unsolicited research that is both
+independent and scientifically sound.
+The KEV consortium
+The Climate and Energy Outlook 2025 (KEV) is the result of collaboration between PBL Netherlands
+Environmental Assessment Agency, TNO, Statistics Netherlands (CBS), the Netherlands Enterprise
+Agency (RV), and the National Institute for Public Health and Environment (RIVM). Wageningen
+University & Research (WUR) has, at the request of PBL, made the projections for livestock farming,
+arable farming, and land use. PBL also consulted various consultants. In this publication, the
+integrated results have been incorporated and, therefore, it is not individually traceable which
+contribution belongs to which institute. Regardless, each institute bears its own responsibility,
+which we elaborate on below.
+PBL has, as project coordinator, final responsibility for the KEV. PBL contributes to practically every
+aspect of the KEV and manages an important part of the KEV computational toolkit. PBL also
+contributes the more comprehensive analyses, including those about developments abroad or
+about the progress of the Climate Agreement. Finally, PBL has sole responsibility for the evaluative
+statements about policy that are included in this KEV.
+CBS delivers and describes the data related to energy that CBS itself also composes. These include
+data about energy statistics, pricing statistics, and economic statistics.
+TNO supports PBL with determining and indicating the projections. TNO also contributes
+knowledge about the various themes in the KEV, including the built environment, mobility,
+industry, gas- and oil refinery and greenhouse horticulture, energy savings, and renewable energy.
+PBL | 4
+RIVM delivers all monitoring data from the emissions registration and also contributes to the
+projections for non-CO2 greenhouse gas emissions such as methane, nitrous oxide, and F-gases
+from industry.
+RVO has monitored and delivers data from various policy instruments concerning CO2 emissions
+reduction, energy efficiency, and renewable energy (e.g. SDE++ and ISDE). This concerns
+information about the trends over the past few years, realised projections, and, where possible,
+about proposed activities.
+Wageningen University & Research (WUR) sets up the projections, at the request of PBL, for
+livestock farming, arable farming, and land use.
+PBL | 5
+Contents
+Summary 6
+Findings: Climate and Energy Outlook 2025 8
+Core data Climate and Energy Outlook 2025 19
+PBL | 6
+Summary
+The probability of reaching the climate goal of 2030 are very small
+Standing at less than 5%, the probability that the Netherlands will reach the target of 55%
+reduction in emissions by 2030 is extremely small. With current implemented policy per January 1st,
+2025 (‘baseline projection’), we are on track towards 45-53% fewer greenhouse gas emissions in
+2030 compared to 1990. Other calculable plans (‘scheduled policy measures’) add just 2 percentage
+points to this figure, amounting to 47% ranging to just below 55% reduction. As such, the goal lies
+outside of the bandwidth and the chance of reaching it is less than 5%.
+Strong, structural policy is increasingly urgent
+The goal for 2030 was originally formulated in the Dutch Climate Act as a long-term climate target.
+However, in policy terms, this objective is no longer that distant. For investment agendas, many
+decisions for 2030 have already been taken. To reach the goal of a 55% reduction compared to 1990
+with 50% or 95% certainty, 13 or 22 megatonnes CO2 equivalents additional greenhouse gas
+reductions, respectively, are necessary compared to the baseline projection. There are fewer and
+fewer policy options that would realise this 55% emission reduction by 2030 without generating
+serious economic damages or garnering societal resistance, nor are there many concrete plans to
+realise further emission reductions after this date. It is therefore very important to take more
+serious measures, which would support a structural transition towards a climate-neutral
+Netherlands in the long term.
+Delay will make future challenges greater and more expensive
+It is also important to realise that the goal of 55% reduction in emissions by 2030 is in line with
+climate neutrality in 2050. If the goal of 2030 is not met, the challenge towards neutrality will only
+be greater.
+Energy dependence is decreasing due to increased sustainability efforts
+Due to delays in realising offshore wind farms, renewable sources will contribute less to the energy
+supply in 2030 than previously projected in the Climate and Energy Outlook (KEV) of 2024: 29-36%.
+The goal of 39% is therefore not reached. Still, this share is still significantly higher than the current
+20%. As such, renewable energy significantly contributes to Dutch energy independence, which is
+included in this KEV 2025 for the first time. Energy independence is now at a record high: nearly
+80% of Dutch energy use comes from abroad. Because of the roll-out of renewable sources, this
+figure will decline to under 70% in 2030, a level that was more common before the cutback of
+natural gas extraction in the province of Groningen. Simultaneously, stagnation in sustainability
+efforts after 2030 will hinder further decreases in energy dependence.
+Specific policy is needed for energy savings
+It would be useful to develop more policy specifically aimed at energy savings. This not only
+contributes to a reduction in emissions and import dependencies, but can also lower energy bills
+for households and businesses. Policy is more often aimed at emission reductions rather than
+energy savings in particular. After years of decline, energy use by end users rose slightly again in
+2024. It is expected that this will be at roughly the same level in 2030. As such, the probability of
+reaching the European goal for decreasing final energy use, as established in the baseline
+projection, is very small: circa 10%.
+PBL | 7
+PBL | 8
+Findings: Climate and Energy Outlook
+of the Netherlands 2025
+The Dutch Climate Act prescribes that PBL Netherlands Environmental Assessment Agency
+publishes an annual Climate and Energy Outlook (KEV) (EZK 2023). In the KEV, PBL reflects on how
+greenhouse gas emissions and the energy system in the Netherlands are developing.
+In this KEV 2025, we present two projections: a baseline projection with existing and additional
+policy measures as known on January 1st, 2025, and a projection with scheduled policy measures,
+taking as reference date May 1st, 2025.
+The KEV 2025 is a general outlook, which means that we make projections for the year 2030 by
+updating the preceding KEV (2024) along general lines. Here, we focus on policy changes up to and
+including May 1st, 2025, and other developments that have a substantial effect on our projections.
+Additionally, we only discuss the most important climate and energy goals. These include the
+national climate goals for 2030, the indicative sectoral residual emissions goals for 2030, and
+several European climate and energy goals which the Netherlands contributes to. We calculate the
+projected emissions in so-called CO2 equivalents, for which we include both CO2 as well as other
+greenhouse gas emissions (e.g. methane and laughing gas).
+Chapter 1 in the full-length Dutch KEV provides more information about the categorisation of policy
+in our projections, an overview of the most important policy changes, as well as an overview of the
+goals we discuss and the methodology we use. The most important data are included in this English
+KEV, in Tables 1, 2, and 3 at the end of the Findings below. There you will also find Diagram 1, which
+shows the probabilities of the Netherlands reaching the most important climate and energy goals.
+In this section (‘Findings’), we provide the most important findings of the Dutch KEV 2025, as
+translated from Dutch.
+1) It is extremely unlikelythat the Netherlands will reach the national climate goal of 55%
+greenhouse gas emission reductions in 2030
+The Dutch Climate Act contains the goal that greenhouse gas emissions must decrease by 55% in
+2030 relative to 1990. In our baseline projection, the emissions between 1990 and 2030 decline by
+45-53%. The probability of the Netherlands reaching this national climate goal is therefore less
+than 5%; in other words, it is extremely unlikely that this goal will be reached. Expressed in
+absolute emissions, the projection of greenhouse gas emissions in 2030 is 107-125 megatonnes CO2
+equivalents. To reach the climate goal of 2030, these emissions need to be 102 megatonnes CO2
+equivalents or fewer. To have a 50% or 95% probability of reaching the climate goal of 2030,
+greenhouse gas emissions would need to decline by circa 13 and 22 megatonnes CO2 equivalents,
+respectively, compared to the projected emissions in the baseline projection.
+Projections do bring certain uncertainties with them. One significant uncertainty for the projections
+of greenhouse gas emissions is the structural uncertainty about how the European electricity
+market will develop. When considering the year 2030, other uncertainties include the timely
+realisation and scope of CO2 storage project Aramis, the sustainability efforts of Tata Steel, the
+production level of energy-intensive industry, the spatial development of greenhouse horticulture,
+PBL | 9
+household heating behaviour, the development of energy prices, economic growth, household
+investment behaviour, application of combined heat and power in greenhouse horticulture, and
+the weather. Several of these uncertainties can only be reduced (are manageable) to a limited
+extent by government policy.
+Figure 1
+Emission reductions in the baseline projection compared to the KEV 2024 are not the result of new policy of the
+past year
+If we compare the emission projections in the baseline projection of the KEV 2025 with the KEV
+2024, then the projected greenhouse gas emissions in 2030 are circa 2-3 megatonnes lower (see
+Figure 2). This is largely due to lower emissions in the sectors industry, electricity, and land use (see
+Figure 3). We do not, however, see this decline as a direct consequence of new policy. This decline
+in calculated emissions is the consequence of shifting and changing external factors, among other
+things. We also assume lower expected production volumes in industry. This way, the projections
+for related greenhouse gas emissions in the sectors industry and electricity for 2030 are lower.
+Production has decreased over the past few years in the Netherlands, especially in the chemical
+sector. Several businesses have announced closures or have already closed numerous large
+factories. Additionally, there was a methodological change in the projection of the land use
+emissions, meaning the greenhouse gas emissions by land use in 2030 in this KEV are circa 1
+megatonne CO2 equivalents lower than in the KEV of last year. This is caused by several
+methodological adjustments that were established by a task group of the Emission Registration
+(governmental body that collects data about annual Dutch emissions).
+PBL | 10
+Figure 2
+Figure 3
+PBL | 11
+Even with additional policy that can be included in the calculations, there is an extremely low probability that the
+Netherlands will reach the national climate goal of 2030
+Scheduled policy measures that have been worked out concretely enough to allow a projection of
+their effects, deliver circa 4 megatonnes CO2 equivalents extra reduction in 2030 relative to the
+baseline projection. With these scheduled measures, the reduction comes to 47% to just under 55%
+relative to 1990.1 The intended emission reduction of 55% lies just outside of the bandwidth. As
+such, the probability of a 55% reduction in 2030 compared to 1990 is less than 5%.
+The most significant reduction caused by scheduled policy measures in the baseline projection
+takes place in the sectors industry, mobility, and greenhouse horticulture. Additional emission
+reductions in industry are caused by the increased CO2 levy on waste incineration plants and by the
+budget in the Dutch Climate Fund available for tailor-made agreements with large industrial
+businesses, among other things. In relation to the baseline projection, emissions decline in
+mobility. This is mainly caused by the current (demissionary) Cabinet wanting to accelerate the
+electrification of corporate cars and raise the fuel transition obligation. The latter mandates fuel
+suppliers to deliver a determined amount of renewable energy to transport. Additionally, there are
+increased discounts on road taxes for electric passenger cars. This all contributes to lower
+emissions in the sector mobility compared to the baseline projection. The emission reductions in
+greenhouse horticulture are due to the sub-sector being brought under the second European
+Emissions Trading System (ETS2) through an opt-in with compensation. Because of this,
+horticulturalists pay a maximum of 42.50 Euros per emitted tonne of CO2 from 2027 onwards.
+These scheduled policy measures lead to a reduction in emissions. However, circa 1 megatonne of
+this reduction is cancelled out by an increase in emissions in the sub-sectors of livestock and arable
+farming, as well as in the sector electricity. As in the KEV 2024, concerning scheduled policy
+measures for livestock and arable farming, we included a potential new derogation of the European
+Nitrates Directive, as well as the measure to allow processed animal fertiliser as a fertiliser
+substitute (RENURE, REcovered Nitrogen from manURE). As such, the amount of dairy cattle does
+not have to decline as significantly as expected in the baseline projection, which means greenhouse
+gases reduce less towards 2030 (see also paragraph 2.3.6 in the full-length Dutch report).
+Additionally, emissions decline less in the electricity sector when scheduled policy measures are
+included, because of a small increase in electricity demand by other sectors.
+There are also scheduled policy measures which are not yet sufficiently developed to make a
+projection of, and which were thus excluded from this KEV. These measures could lead to
+additional reductions in emissions by 2030. To make sure this happens, however, it is necessary to
+develop and implement these measures on time. We also included an overview of such scheduled
+policy measures in Table 1.4, in Chapter 1 of the full-length Dutch version.
+2) Strong additional policy is needed to get the energy transition on track
+The Dutch National Climate Agreement was struck in 2019 with as main goal a 49% reduction in
+emissions in 2030 compared to 1990. The probability that the Netherlands reaches this goal, based
+on the baseline projection, is approximately 50%. When including scheduled policy measures, this
+probability increases to circa 75%.
+1 To be precise: 46.8 – 54.5%.
+PBL | 12
+In 2021, the European goal for 2030, as formulated in the European Climate Law, was tightened to
+55%. Following this, in 2023 then-Cabinet Rutte-IV also adjusted the National Climate Agreement
+towards 55%. These adjustments were paired with insufficiently robust measures to realise this
+higher ambition for 2030 in such a short period of time.
+In the Outline Agreement of Cabinet-Schoof, it was decided that the climate and energy goals
+would remain unchanged. However, several measures have been abolished, weakened, or reversed
+since. For example, the available budget for the SDE++ subsidiary scheme was lowered, which leads
+us to expect that this subsidy will no longer be open to new applications from 2027 onwards.
+Additionally, the Rural Development Programme of the Netherlands was halted and the national
+CO2 levy for industry was suspended. Furthermore, tailor-made agreements with big businesses are
+only slowly taking shape; several of these discussions about such agreements have been halted
+entirely.
+There have been significant economic and geopolitical changes over the last few years and there
+are concerns among businesses about licensing and infrastructure. It is because of this, among
+other things, that electrification in industry is stagnating. This means that future demand for
+renewable electricity is decreasing and the roll-out of renewable energy projects is being delayed.
+The roll-out of offshore wind energy is taking longer than originally planned. It is also uncertain
+whether the upcoming tenders for offshore wind farms will be successful. In agriculture, emission
+reductions are largely dependent on nitrogen policy, which is insufficiently clear.
+The combination of these factors is worsening the investment climate for emission reductions,
+leading to stagnation in the energy transition. Right now, the remaining time to make any changes
+up to 2030 is becoming very limited. As such, opportunities are rapidly declining to bring the
+intended emission reduction of 55% any closer. To have a probability of circa 50% or circa 95% of
+reaching the goal, 13-22 additional megatonnes CO2 equivalents need to be reduced compared to
+the baseline projection. Measures to achieve this will be drastic and will most likely generate
+damages, both economic as well as social. To continue as we are, however, does not only mean
+that it will become more difficult to realise the energy transition in the long run, but costs will also
+be passed on to future generations and it will be more difficult to reduce Dutch energy dependence.
+This is why strong additional policy measures are needed to get the energy transition back on track
+soon, both at a European as well as a national level. Here, it is important that such policy is not only
+aimed at 2030, but that it also leads to structural reductions in emissions. This way, we can
+effectively support the energy transition in both the short and long term.
+Policy is needed for a long-term, structural reduction in emissions
+The Netherlands has no national climate goal for 2040, but if we assume a 90% reduction in
+greenhouse gas emissions in 2040 relative to 1990, as the European Commission has advised (EC
+2025) – and as is incorporated in the Climate Plan 2025-2035 (KGG 2025a) – then extra effort will
+be needed over the next 15 years to structurally lower emissions.2 This pathway is also necessary to
+become climate-neutral by 2050. In most sectors, however, there is a lack of climate and energy
+2 Since the collapse of Cabinet-Schoof, the Climate Plan 2025-2035 has been deemed controversial.
+PBL | 13
+policy measures for the period after 2030, or there remain significant uncertainties about the
+implementation of scheduled European and national policy measures in the long run. Current
+policy is insufficient for structural reductions in emissions in the long term.
+In the sector electricity, offshore wind energy is important for sustainability efforts. Currently,
+however, it is unclear whether offshore wind energy is an attractive investment option, since the
+uncertainties surroundings costs and profits are significant. In July, the demissionary Cabinet
+announced that the ambitions for offshore wind energy in 2040 will be adjusted downwards from
+50 gigawatt to 30-40 gigawatt (KGG 2025b).
+Given the uncertainties surrounding the ongoing development of electricity demand, and therefore
+the revenues of offshore wind energy, it is uncertain whether the upcoming tenders (bidding
+rounds) for new offshore wind farms will be successful. If they are not, this will lead to a delay in
+the roll-out of further offshore wind energy. Because offshore wind energy will be the most
+important source of renewable energy in the future, this delay will have a significant effect on the
+sustainability efforts of the electricity sector. Additionally, it will have a lot of impact on the security
+of supply and the availability of renewable electricity to electrify other sectors.
+A large part of emission reductions in the sectors electricity and industry that have already been
+realised, can be attributed to the SDE++ subsidy scheme. With this scheme, the government
+provides exploitation subsidies to projects that will reduce CO2. Subsidy applicants are usually
+businesses in industry or electricity. They can be granted a subsidy for the production of sustainable
+energy or for a reduction in CO2 emissions. In the government programme by Cabinet-Schoof, the
+available resources for the SDE++ scheme have been reduced to 2.2 billion Euros per year (PVV,
+VVD, NSC & BBB 2024). This means that, after 2026, the SDE++ will no longer be open to new
+applications, unless an upcoming Cabinet allocates extra money. In this case, businesses, from 2027
+onwards, will have to finance emission reduction measures for new projects themselves. This can
+lead to further stagnation in the energy transition, since this will likely hinder emission reductions
+after 2030, especially in the sectors industry and electricity.
+The emissions by the sector built environment are expected to decline after 2030, but will do so less
+rapidly than before. Any further reductions after this year are mostly attributable to an increase in
+the number of heating pumps, replacement of buildings by natural gas-free new buildings, postinsulation in existing housing and buildings, and warmer winters as a consequence of climate
+change. The implementation of the natural gas-free neighbourhood approach is delayed, though,
+just like the expansion of the heating networks and the standardisation for sustainability efforts in
+utility buildings. Additionally, there are still significant uncertainties about the implementation of
+European and national policy following 2030. This means that, as of yet, there is insufficient policy
+to accelerate emission reductions in the long term.
+For the sector mobility, it is expected that the estimated decline in greenhouse gas emissions will
+continue after 2030. This is mainly due to a substantial increase in the number of zero-emission
+vehicles as a result of the European CO2 standards for road vehicles. European policy prescribes
+that, for all new passenger cars and vans from 2035 onwards, exhaust emissions will no longer be
+allowed. The CO2 emissions of new trucks have to be reduced by 65% in 2035 relative to 2019, a
+percentage that increases to 90% by 2040.
+PBL | 14
+The sector agriculture consists of livestock farming, arable farming, and greenhouse horticulture.3
+In livestock and arable farming, the emissions after 2030 will hardly decline, since there are few
+policy measures that extend beyond this year. The decision-making about nature and nitrogen
+policy partly determines livestock numbers and therefore partly determines the reduction of
+greenhouse gas emissions in livestock farming. It is expected that greenhouse horticulture
+emissions will further decrease after 2030, particularly because fewer (fossil) fuels will be used for
+combined heat and power systems, instead using more renewable energy. The goal to realise
+climate-neutral greenhouse horticulture in 2040 (LNV 2022b) remains, however, out of view.
+Finally, in the period after 2030, we discern a slight decrease in the projected emissions from land
+use. This decrease is mainly caused by the estimation that forests will capture more carbon, partly
+because of their increased age, and because the effects of forest area expansion measures will
+continue until 2035.
+These trends in the different sectors illustrate the necessity of strong additional policy, on both a
+European as well as a national level, to get the Netherlands back on track in the energy transition.
+3) European goals for the reduction of greenhouse gas emissions in 2030 are within reach
+In Europe, there are national goals for greenhouse gas emissions, which include the Effort Sharing
+Regulation (ESR). The ESR concerns mandated goals for nearly all emissions in mobility, built
+environment, and agriculture, as well as emissions from non-energy-intensive industry, including
+waste processing. This relates to emissions that do not fall under the first European emission
+trading system ETS1 nor those related to land use.
+With the Effort Sharing Regulation, EU Member States are granted a specific amount of emission
+rights per year, for the period 2021-2030. If too little or too much is emitted in a given year,
+countries can compensate with emission rights of a following year. The annual emission rights
+amount to a so-called maximum cumulative emission. This allocation will be definitively
+established by the European Commission in 2025 and, for time being, is set at 829 megatonnes CO2
+equivalents for the Netherlands. This means that, from 2021 until 2030, the Netherlands is allowed
+to emit829 megatonnes CO2 equivalents. This emission limit is based on the goal to achieve a 48%
+emission reduction in 2030 relative to 2005. For cumulative emissions, the speed with which policy
+is implemented is important. The sooner policy measures lead to a structural reduction in
+emissions in 2021-2030, the more years this reduction can contribute to reducing cumulative
+emissions. There is a difference here between the ESR target and other climate goals. In the
+cumulative ESR emissions, years with lower emissions can compensate for years with higher
+emissions. The national emission goal for 2030 as established in the Dutch Climate Law, on the
+other hand, only concerns emissions for the year 2030.
+The cumulative emissions in the KEV 2025, in the baseline projection, are 800 [781-816]
+megatonnes CO2 equivalents in the period 2021-2030. This is the sum of the realised annual
+emissions of 2021-2024 and the estimated ESR emissions between 2025-2030, based on the policy
+included in the baseline projection. In the first years of the ESR (2021-2023), greenhouse gas
+emissions were relatively low. This was mostly due to lower energy use as the result of, primarily,
+3 Livestock farming and arable farming also cover the emissions from non-greenhouse horticulture.
+PBL | 15
+the COVID-19 pandemic and the high natural gas prices following Russia’s invasion of Ukraine.
+These years compensate for the projected higher use in later years of the ESR. In the years 2026-
+2030, we estimate that ESR emissions will be approximately at the annual emission ceilings. From
+the difference between the cumulative emissions and the maximum allowed emission allowance of
+829 megatonnes, there will be a surplus of 28.4 [12.4-47.7] megatonnes CO2 equivalents. The
+probability that emissions between 2021 and 2030 will stay below the limit of 829 megatonnes, is
+higher than 95%. It is therefore extremely likely that the ESR goal will be reached.
+When we also include scheduled policy measures, the cumulative ESR emissions in 2030 are
+projected to be 722-808 megatonnes CO2 equivalents. As such, the difference with the maximum
+emission allowance is even larger and the probability of reaching the goal remains extremely high.
+For the sector land use, there is a European emission target set for the Netherlands in 2030. This
+concerns a maximum net emission of 4.0 megatonnes CO2 equivalents. This is derived from the
+European regulation for Land Use, Land-Use Change and Forestry (LULUCF). In the baseline
+projection, the probability is approximately 35% that the Netherlands will reach this land userelated goal. When including scheduled policy measures, emissions by land use will decrease. An
+important aspect here is that the (now demissionary) Cabinet aims to reverse the phasing out of
+the derogation of the European Nitrates Directive and gain new permission for a region-specific
+derogation. This would lead to more emission reduction than in the baseline projection, because a
+new derogation would, for example, mean fewer conversions of grassland to farmland than
+expected (grassland captures more carbon in soil than farmland does). Additionally, measures in
+peat meadow areas, forest expansion, and improving existing forests (or revitalisation) also
+contribute to scheduled measures. With these scheduled measures, the probability of reaching
+then goal rises to circa 60%.
+4) The methane goal remains out of sight as there is hardly any progress in reducing methane
+emissions
+In the National Methane Strategy, Cabinet Rutte-IV established a target to reduce methane
+emissions in 2030 by 30% relative to 2020 (LNV 2022a). This strategy contributes to the Global
+Methane Pledge, which the Netherlands is a signatory of. In 2020, methane emissions constituted
+19.5 megatonnes CO2 equivalents, 74% of which was due to agriculture and 19% due to industry.
+The target for 2030 is to emit a maximum of 13.7 megatonnes CO2 equivalents.
+In the baseline projection, methane emissions in 2030 will be 15.7 [14.9-16.7] megatonnes CO2
+equivalents. That is a decline of 20% [15-23] relative to 2020. Approximately 63% of this decline is
+the result of a reduction in agricultural emissions, while another 33% is due to a reduction in
+industrial emissions. The probability of reaching the methane goal for 2030 as established in the
+National Methane Strategy is less than 5%. To have a 50% or 95% probability of reaching the goal,
+emissions (relative to the baseline projection) must decline with a further 2.1 and 3.0 megatonnes
+CO2 equivalents, respectively. This corresponds to an additional 11-15 percentage points additional
+reduction in 2030 relative to 2020.
+When we also include scheduled policy measures, methane emissions in 2030 will be 15.3-17.4
+megatonnes CO2 equivalents. This is a reduction of 11-22% relative to 2020. The probability of
+reaching the methane goal is therefore even smaller than in the baseline projection. The current
+demissionary Cabinet keeps striving for a new derogation, for which they submitted a request to
+PBL | 16
+the European Commission. This potential new derogation, which we included in scheduled policy
+measures, is a significant contributor to the rise in emissions compared to the baseline projection.
+The projected methane emissions for 2030 in the baseline projection are almost the same as the
+projection made in the previous KEV (2024). The projection that includes scheduled policy
+measures is approximately 0.3 megatonnes lower than in the previous KEV. The only new
+scheduled measure that we included in the KEV 2025 that has a significant effect on methane
+emissions, is the ETS2 opt-in by greenhouse horticulture. This reduces the methane slip from the
+use of gas-fired combined heat and power systems. We have not been able to include the results of
+the Ministerial Commission Economy and Nature Recovery, since the nitrogen policy was not
+sufficiently concrete by May 1st, 2025 (this KEV’s reference date).
+5) More specific policy for energy savings is needed
+The renewed European Energy Efficiency Directive (EED) of 2023 includes a goal to reduce final
+energy use in Europe by 11.7% relative to the reference scenario for energy use in 2030. Final energy
+use, as defined in the EED, is energy use by end users in the sectors industry, built environment,
+agriculture, and mobility (including international aviation).
+The goal for reducing final energy use in the EED is binding on the EU-level. Member States
+contribute to this EU-wide goal with target values for maximum energy use in 2030. For the
+Netherlands, this constitutes a final energy use of 1.609 petajoules in 2030. To ensure that the final
+energy use goal is met, the European Commission can impose measures on Member States that are
+not on track.
+Final energy use
+In 2024, final energy use rose slightly compared to the year before, from 1.716 to 1.728 petajoules,
+mainly as the result of an increase in energy use in agriculture and international aviation.
+In the baseline projection, final energy use declines to circa 1.716 [1.575-1.803] petajoules by 2030.
+The probability, then, that the target value of 1.609 petajoules for reducing final energy use is met,
+is approximately 10% (see Table 3). Energy use declines between 2024 and 2030 mostly because of
+electrification in industry, mobility, and the built environment. Simultaneously, we expect an
+increase in electricity used by data centres and an increase in use of bunker fuels by aviation.
+Important uncertainties here include the production in industry and the development of emission
+reduction projects through tailor-made agreements between energy-intensive industry and the
+Dutch government.
+If we include those scheduled policy measures which are sufficiently developed to use for a
+projection, final energy use in 2030 consists of 1.556 to 1.784 petajoules. Therefore, the probability
+that the target value for reducing final energy use is met is circa 20% (see Table 3). The projection
+that includes scheduled policy measures is approximately 20 petajoules lower than the baseline
+projection without these measures. Of these 20 petajoules, circa 10 petajoules are the effect of
+scheduled measures in the built environment, and the other 10 petajoules are the effect of
+scheduled measures in greenhouse horticulture. In the built environment, energy use is lower
+because of the application of extra post-insulation in the existing building stock, which is made
+possible by an additional 1.3 billion Euros in the Climate Fund budget through the sustainable
+energy investment subsidy (ISDE) scheme. There is also 1.65 billion Euros subsidy budget for the
+insulation approach for buildings in the provinces of Groningen and North Drenthe, as well as
+PBL | 17
+energy prestation requirements for utility buildings and private rental housing (see paragraph 2.3.3
+in the full-length Dutch version). For greenhouse horticulture, scheduled policy measures include
+the intention to bring greenhouse horticulture into the ETS2 system via an opt-in. Because of
+higher natural gas prices, more and more heating pumps are used instead of combined heating and
+power systems for heating production in greenhouse horticulture.
+To reduce energy use, specific policy aimed at energy saving will be needed
+Much climate policy is aimed at the sustainability of energy carriers. To reduce energy use, specific
+policy is needed which is aimed at energy saving. In the built environment, there is attention in
+policy for heating pumps and post-insulation, but less so for economical heating, ventilating, and
+cooling. In the sector mobility, there is policy aimed at electrification and bio-fuels, but not
+anything aimed at decreased driving of cars and increased use of public transport and bicycles, car
+parts, and purchase or use of smaller cars. Policy for industry is more aimed at emission reduction
+than on energy saving. Because of the high energy demand for heat in the production process, heat
+recovery could play an important role in this. In greenhouse horticulture, the programme ‘The New
+Growing’ (‘Het Nieuwe Telen’) offers courses and knowledge exchanges about energy efficient
+cultivation, but there are, as of yet, no subsidies for farmers to do so in practice.
+Alongside a direct contribution to the EED-goals for energy saving themselves, the reduction in
+energy use also contributes to an affordable, sustainable, and reliable energy supply. Energy
+savings lower the energy bill for both households and businesses and it also contributes to a more
+sustainable energy system. A lower energy demand also means that less renewable energy is
+needed to meet this demand. Therefore, energy savings contribute to meeting the targets for
+renewable energy. Additionally, a reduction in energy use also helps the climate goals, since fewer
+greenhouse gases are emitted during the burning of the fossil part of the used energy. This also
+reduces the air pollution that is the result of this burning. Energy savings also contribute to a more
+reliable energy supply by reducing Dutch energy dependence. If less energy is used in the
+Netherlands, then the country becomes less dependent on energy imports from abroad.
+6) The goal for the share of renewable energy in 2030 is further out of sight
+In the revised European directive for renewable energy, Member States agree to raise the share of
+renewable energy in total European energy use to a minimum of 42.5%, and to strive for 45% in
+2030. The European Commission expects the Netherlands to contribute a minimum of 39% in
+renewable energy.
+In 2024, the share of renewable energy in the Netherlands was 20%. That is almost 3 percentage
+points higher than in 2023, and more than double compared to 2019. The increase in 2024 can
+mostly be attributed to increased offshore wind energy and a doubling in the use of biodiesel for
+road transport.
+In the baseline projection in this KEV, we project a share of renewable energy of 32% [29-36] in
+2030. The goal for the Netherlands of 39% is therefore outside of the bandwidth of the projection,
+resulting in a probability of less than 5% of reaching the goal for renewable energy. Half of the
+increase in the share of renewable energy between 2024 and 2030 can be attributed to wind
+energy, especially offshore wind energy. Additionally, we expect a growth in the use of bio-fuels,
+solar energy, heating pumps, geothermal energy, and the production of biogas (through
+fermentation and gasification of manure and biomass). The most important uncertainty for the
+PBL | 18
+projection of the share of renewable energy is due to the question of how many offshore wind
+projects can be realised before 2030.
+If we include scheduled policy measures in these projections, we arrive at a share of renewable
+energy of 30-37% in 2030. Even with this small increase, the probability of reaching the goal of 2030
+remains less than 5%. This small increase is mainly due to increased use of bio-fuels which is due to
+an increase in fuel transition obligation in mobility, as well as an increased use of heating pumps
+because of higher natural gas prices related to the opt-in of greenhouse horticulture in ETS2.
+The current projection of the share of renewable energy in total Dutch energy use is 1 percentage
+point lower than the projection in the KEV 2024. This is mainly the result of delays in the roll-out of
+offshore wind energy.
+Because 2030 is rapidly approaching, reaching this goal is getting further and further out of sight.
+Investments in renewable energy projects usually have a long lead time, which is why policy
+measures that are only implemented after 2026, will have a limited contribution to the share of
+renewable energy in 2030.
+7) Energy dependence declines in 2030; the United States is expected to remain the most important
+non-European supplier of natural gas and oil
+Energy dependence is one the benchmarks of Statistics Netherlands (CBS). It provides the extent to
+which energy used in the Netherlands comes from foreign nations. Energy dependence is energy
+imports divided by the sum of imports and production, where energy carriers are weighted by their
+share in total energy consumption. If the share of an energy carrier (of which part must be
+imported) increases, then its dependence also increases. Since 2015, energy dependence has risen
+to a record high of 79% in 2023, decreasing slightly again to 78% in 2024. This is the result of the
+reduction in natural gas extraction in the province of Groningen, meaning more natural gas has to
+be imported from abroad.
+In the projection in this KEV, energy dependence in the baseline projection declines from 78% in
+2024 to 68% in 2030. The level has not been this low since 2015. The decline in dependence is
+primarily the result of an increase in electricity production from solar and wind power in the
+Netherlands as well as the growth in ambient heat extraction using heating pumps.
+Simultaneously, the share of imported fossil fuels in the Dutch energy supply is decreasing.
+In terms of energy dependence on natural gas, we see little difference in the baseline projection of
+2025 compared to the one of 2024. While natural gas use is declining, the extraction in the
+Netherlands is also declining, meaning that overall energy dependence decreases only marginally.
+The most important supplier of natural gas and oil in 2024 was the United States. Given the
+expected trends in global production of natural gas and oil, it is expected that the United States will
+continue to be the country from which the Netherlands imports most of its natural gas and oil in
+2030.
+PBL | 19
+Core data Climate and Energy Outlook 2025
+Table 1
+Greenhouse gas emissions per sector1,2,3,4 in megatonnes CO2 equivalents
+Sector 1990 2024* Projection
+2030
+Bandwidth
+projection
+2030
+Bandwidth
+projection
+2030 including
+scheduled
+policy
+measures
+Reduction national
+greenhouse gas
+emissions since
+1990 (percentage)
+- 36 50 45 - 53 46,8 - 54,5
+Total 228 145 114 107 - 125a 103 - 121
+Electricity 39,6 23,1 12,1 9,0 - 19,8 9,1 - 20,0
+Industry 87,0 47,4b 37,2 32,8 - 41,8 30,6 - 39,6
+Built environment 29,8 17,2 15,5 12,5 -18,2 11,9 - 17,6
+Mobility 33,6 29,2 23,5 20,6 - 25,5 19,5 - 24,5
+Agriculture 33,2 24,8 21,9 19,9 - 24,4 19,7 - 24,7
+Land use 4,42 3,1 4,1 3,4 - 4,9 3,1 - 4,7
+ESR sectors - 81,8 68,5 63,1 - 73,1 59,7 - 69,8
+Cumulative ESR
+sectors 2021-2030
+- - 800 781 - 816 772 - 808
+Methane emissions 36,5 18,0 15,7 14,9 - 16,7 15,3 -17,4
+1) The statistics for the years 1990 and 2024 are not corrected for temperature (Emissieregistratie
+2025).
+2) Because of rounding, small differences can arise between totals and underlying numbers.
+3) The projections for 2030 are based on the baseline projection.
+4) See Appendix 1 in the full-length Dutch report for the sector classification of the KEV.
+a) The sectoral bandwidths cannot be added up to the national total bandwidth, because of the
+applied methodology which takes into account interactions between uncertainties in sectors.
+b) In the projections of the fluorocarbon emissions, we have corrected a mistake which had not
+been incorporated in the statistical data of 2024. This correction concerns the fluorocarbon
+emissions from stationary cooling; this would raise the 2024 emissions by circa 0.4 megatonnes.
+* Provisional emissions (Emissieregistratie 2025).
+PBL | 20
+Table 2
+Energy use and share renewable energy1
+2019a 2024* Projection
+2030
+Bandwidth
+projection
+2030
+Bandwidth
+projection
+2030
+including
+scheduled
+policy
+measures
+Final energy use
+according to EED
+2023 (petajoules)
+2.001 1.728 1.716 1.575 - 1.803 1.556 - 1.784
+Primary energy use
+according to EED
+2023 (petajoules)
+2.668 2.261 2.211 2.052 - 2.308 2.043 - 2.297
+Share of renewable
+energy (percentage)
+9 20 32 29 - 36 30 - 37
+1) The projections for 2030 are based on the baseline projection.
+a) In this table, 2019 is included because this was before the Russian invasion of Ukraine and the
+COVID-19 pandemic, which had higher energy prices and lower activities as a result.
+* Provisional statistics (CBS 2025).
+PBL | 21
+Table 3
+Probabilities of reaching the most important national and European climate and energy goals
+Description goal Goal Probability of
+reaching the goal in
+the baseline
+projection
+Probability of
+reaching the goal in
+the baseline
+projection with
+scheduled policy
+measures
+National target for
+reduction of
+greenhouse gas
+emissions in 2030
+relative to 1990
+55% less than 5% less than 5%
+Target reduction of
+methane emissions in
+2030 relative to 2020
+30% less than 5% less than 5%
+Emissions in ESR
+sectors, cumulative
+allowance 2021-2030
+(binding)
+829 megatonne CO2
+equivalents
+more than 95% more than 95%
+Land use emissions,
+national target for
+2030 (binding)
+0.435 megatonnes CO2
+equivalents reduction
+relative to the average
+of 2016-2018. We can
+deduce a provisional
+residual emissions
+target for 2030 of 4.0
+megatonnes CO2
+equivalents
+circa 35% circa 60%
+Contribution to EU
+goal renewable
+energy in 2030
+(binding)
+39% of total gross end
+use
+less than 5% less than 5%
+Target reduction final
+energy use (article 4
+EED, binding goal EU)
+Maximum of 1.609
+petajoules final energy
+use in 2030
+circa 10% circa 20%
+Intended contribution
+to reduction primary
+energy use (article 4
+EED, indicative goal
+EU)
+Maximum of 1.935
+petajoules primary
+energy use in 2030
+less than 5% less than 5%
+Electricity, indicative
+residual emission goal
+2030
+13.0 megatonnes CO2
+equivalents
+circa 40% circa 40%
+PBL | 22
+Description goal Goal Probability of
+reaching the goal in
+the baseline
+projection
+Probability of
+reaching the goal in
+the baseline
+projection with
+scheduled policy
+measures
+Industry, indicative
+residual emissions
+goal 2030a
+28.8 megatonnes CO2
+equivalents
+less than 5% less than 5%
+Built environment,
+indicative residual
+emissions goal 2030
+13.2 megatonnes CO2
+equivalents
+circa 10% circa 15%
+Mobility, indicative
+residual emissions
+goal 2030b
+21.3 megatonnes CO2
+equivalents
+circa 10% circa 30%
+Agriculture, indicative
+residual emissions
+goal 2030
+17.9 megatonnes CO2
+equivalents
+less than 5% less than 5%
+Land use, indicative
+residual emissions
+goal 2030
+1.8 megatonnes CO2
+equivalents
+less than 5% less than 5%
+Greenhouse
+horticulture,
+indicative residual
+emissions goal 2030
+4.3 megatonnes CO2
+equivalents
+circa 15% circa 30%
+a) The indicative residual emissions goal for industry has been lowered from 29.1 to 28.8
+megatonnes CO2 equivalents (KGG 2025c).
+b) The indicative residual emissions goal for mobility has been raised from 21.0 to 21.3 megatonnes
+CO2 equivalents (KGG 2025c).
+PBL | 23
+Diagram 1 
