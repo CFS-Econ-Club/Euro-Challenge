@@ -25,7 +25,7 @@ Let me explain each one."
 
 "Our first policy is the **Grid Modernization Fund**—€10 billion over five years to expand transmission capacity, deploy smart grid technology, and build energy storage.
 
-The problem is clear: 75% of renewable projects can't connect because the grid is full.
+The problem is clear: over 14,000 projects representing 9 gigawatts of capacity are stuck on waiting lists—some for 7-10 years.
 
 Our solution: €10 billion public investment that will unlock an estimated €25 billion in total investment (every €1 public brings €2-3 private).
 

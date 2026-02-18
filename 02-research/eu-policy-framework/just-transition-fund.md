@@ -2,17 +2,19 @@
 
 ## Summary
 
-The EU Just Transition Fund (JTF) is the first pillar of the Just Transition Mechanism, designed to support regions and workers most affected by the transition to climate neutrality. With €17.5 billion in funding, it provides grants for economic diversification, worker retraining, and sustainable investment in coal, peat, and oil shale regions. The Netherlands receives approximately €175 million from the JTF, primarily supporting the Groningen region as it transitions away from natural gas extraction. For our Policy 3 (Green Skills), the JTF provides critical financing for workforce reskilling, directly enabling our recommendation to retrain 50,000 workers in green industries Data Points
+The EU Just Transition Fund (JTF) is the first pillar of the Just Transition Mechanism, designed to support regions and workers most affected by the transition to climate neutrality. With €17.5 billion in funding, it provides grants for economic diversification, worker retraining, and sustainable investment in coal, peat, and oil shale regions. The Netherlands receives €623 million from the JTF for investments in Groningen, IJmond, Groot-Rijnmond, Zeeland, West-Noord-Brabant and Zuid-Limburg—regions with significant industrial activity dependent on coal, oil, and gas. For our Policy 3 (Green Skills), the JTF provides critical financing for workforce reskilling, directly enabling our recommendation to retrain 50,000 workers in green industries.
 
 -.
 
 ---
 
-## Key **JTF Total Budget:** €17.5 billion (2021-2027)
-- **Netherlands Allocation:** ~€175 million [VERIFY]
+## Key Data Points
+
+- **JTF Total Budget:** €17.5 billion (2021-2027) ✅
+- **Netherlands Allocation:** €623 million ✅ (Green European Journal, Dec 2022)
 - **Eligible Regions:** Coal, peat, and oil shale regions plus those with high fossil fuel dependence
 - **Climate Requirement:** 100% of funds must go to climate objectives
-- **Groningen Allocation:** Primary Dutch recipient region
+- **Dutch Regions:** Groningen, IJmond, Groot-Rijnmond, Zeeland, West-Noord-Brabant, Zuid-Limburg
 - **Implementation Period:** 2021-2027 (funds available through 2029)
 - **Co-Financing:** Member states provide national matching (typically 15-25%)
 
@@ -81,7 +83,7 @@ The transition to climate neutrality creates both opportunities and challenges:
 - Infrastructure investment
 
 **Allocation:**
-- Approximately €175 million for Netherlands
+- €623 million for Netherlands (six regions)
 - Co-financed by national government
 - Program runs through 2027
 
@@ -169,7 +171,7 @@ The JTF directly funds workforce transition:
 
 The JTF directly enables our Policy 3:
 
-1. **Financing:** €175 million available for Dutch workforce transition.
+1. **Financing:** €623 million available for Dutch workforce transition across six regions.
 
 2. **Framework:** Provides institutional framework for training programs we recommend.
 
@@ -182,7 +184,7 @@ The JTF directly enables our Policy 3:
 ## Key Quotes / Talking Points
 
 - "The Just Transition Fund is the EU's commitment that no one gets left behind in the green transition—€17.5 billion specifically for regions and workers most affected by moving away from fossil fuels."
-- "For the Netherlands, the JTF provides €175 million for Groningen and other affected regions, funding the worker retraining that our Green Skills Initiative builds upon."
+- "For the Netherlands, the JTF provides €623 million for six regions including Groningen, IJmond, and Rotterdam, funding the worker retraining that our Green Skills Initiative builds upon."
 - "Our Green Skills policy takes the JTF's philosophy further—we're not just supporting workers in declining industries, we're proactively building the workforce for the green economy of tomorrow."
 - "The euro makes this possible: only through EU-level fiscal solidarity can we mobilize €17.5 billion for just transition. A single country, especially a small one, couldn't fund such comprehensive support."
 
@@ -212,4 +214,4 @@ The JTF directly enables our Policy 3:
 
 **Just Transition Fund (JTF):** The grant component of the JTM, specifically supporting most affected regions.
 
-*[VERIFY - Netherlands allocation and disbursement status]*
+*Verified 2026-02-17: Netherlands JTF allocation confirmed at €623 million from Green European Journal/EU sources.*

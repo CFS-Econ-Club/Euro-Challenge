@@ -12,7 +12,7 @@
 
 ## Speaker 2 → Speaker 3
 
-**What was covered:** "The Netherlands has a strong economy—1.7% growth, 3.7% unemployment, and fiscal headroom with just 45% debt."
+**What was covered:** "The Netherlands has a strong economy—1.9% growth in 2025, 4.0% unemployment, and fiscal headroom with just 43% debt."
 
 **Speaker name:** "[Name]"
 
@@ -22,7 +22,7 @@
 
 ## Speaker 3 → Speaker 4
 
-**What was covered:** "We've seen the challenges: 165 million tonnes of emissions, nitrogen crisis, grid bottleneck. The existential stakes are clear."
+**What was covered:** "We've seen the challenges: 143 million tonnes of emissions, nitrogen crisis, grid bottleneck. The existential stakes are clear."
 
 **Speaker name:** "[Name]"
 

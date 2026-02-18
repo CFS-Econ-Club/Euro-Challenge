@@ -137,11 +137,11 @@ We're addressing permitting specifically through fast-track legislation included
 Why not just raise the carbon tax? That's more efficient than complex programs.
 
 **Our Response:**
-We already have substantial carbon pricing—the Dutch carbon tax at €125-150/tonne is among the highest in the world. The problem isn't the price signal; it's structural bottlenecks (grid, land use, skills) that no amount of carbon pricing can fix. Our policies address those real constraints.
+We already have substantial carbon pricing—the Dutch carbon tax at €78.67-87.90/tonne combined with EU ETS (~€70/tonne) creates an effective price of €150-180/tonne for Dutch industry—among the highest in the world. The problem isn't the price signal; it's structural bottlenecks (grid, land use, skills) that no amount of carbon pricing can fix. Our policies address those real constraints.
 
 **Evidence:**
-- Dutch carbon tax: €125-150/tonne
-- EU ETS: €60-75/tonne
+- Dutch carbon tax: €78.67-87.90/tonne (plus EU ETS ~€70/tonne = ~€150-180/tonne effective)
+- EU ETS: ~€70/tonne
 - Grid congestion blocks action even with high carbon price
 
 **Bridge:** "Carbon pricing is necessary but not sufficient—we're addressing what carbon prices can't fix."

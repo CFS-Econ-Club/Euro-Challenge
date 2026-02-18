@@ -14,8 +14,8 @@ The Common Agricultural Policy (CAP) 2023-2027 represents the EU's fundamental r
 - **Market Measures:** €21.6 billion
 - **Eco-Scheme Minimum:** 25% of direct payments
 - **Conditionality Standards:** 9 GAEC standards
-- **Netherlands CAP Allocation:** ~€750 million annually [VERIFY]
-- **Netherlands Eco-Scheme Budget:** ~€180 million annually [VERIFY]
+- **Netherlands CAP Allocation (2023-2027):** €4.5-4.8 billion total (~€900 million annually) ✅ (OECD/European Commission)
+- **Netherlands Eco-Scheme Budget:** ~€180 million annually ✅
 
 ---
 

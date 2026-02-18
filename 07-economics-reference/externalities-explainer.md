@@ -71,7 +71,7 @@ The factory only considers its private costs, not the full social cost. Therefor
 - Carbon tax: €100/tonne
 - Now polluter faces true cost
 
-**Our context:** Dutch carbon tax at €125-150/tonne
+**Our context:** Dutch carbon tax at €78.67-87.90/tonne (plus EU ETS ~€70/tonne = €150-180/tonne effective price)
 
 ### 2. Cap and Trade (EU ETS)
 **Concept:** Set quantity limit, let market find price

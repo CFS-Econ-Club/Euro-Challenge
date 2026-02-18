@@ -8,13 +8,13 @@ The EU Taxonomy for Sustainable Activities is the EU's classification system def
 
 ## Key Data Points
 
-- **EU Green Bond Market:** €500+ billion cumulative issuance [VERIFY]
-- **Netherlands Sovereign Green Bonds:** €40+ billion issued since 2019 [VERIFY]
-- **Green Bond Issuance (2024):** ~€150 billion in EU [VERIFY]
+- **EU ESG Bond Issuance (2024):** €689 billion ✅ (AFME, 2024)
+- **Global Green Bond Issuance (2024):** ~$622 billion ✅ (S&P/DSTA, 2024)
+- **Netherlands Sovereign Green Bonds Outstanding:** €24.9 billion ✅ (DSTA, May 2025)
+- **Dutch Green Bond Issuance (2024):** €4.27 billion raised ✅ (DSTA, 2024)
 - **Taxonomy Objectives:** 6 (climate mitigation, climate adaptation, water, circular economy, pollution, biodiversity)
 - **Taxonomy Coverage:** ~40% of EU economy
 - **Green Bond Standard:** Adopted June 2023
-- **Greenium (yield differential):** 2-10 basis points [VERIFY]
 
 ---
 
@@ -120,7 +120,7 @@ The EU Taxonomy for Sustainable Activities is the EU's classification system def
 ### Green Bond Market Overview
 
 **Global Context:**
-- Global green bond issuance: ~$500 billion annually [VERIFY]
+- Global green bond issuance: ~$622 billion in 2024 ✅ (S&P/DSTA)
 - EU dominates: ~30% of global issuance
 - Growing from sovereign, corporate, financial sector
 
@@ -131,8 +131,9 @@ The EU Taxonomy for Sustainable Activities is the EU's classification system def
 - Strong pipeline of projects
 
 **Netherlands:**
-- Early and active sovereign issuer
-- Largest sovereign green bond in Europe
+- Early and active sovereign issuer (first AAA sovereign with green bond, 2019)
+- €24.9 billion outstanding in green bonds ✅ (DSTA, May 2025)
+- €4.27 billion raised in 2024 ✅ (DSTA)
 - Strong corporate green bond market
 - Amsterdam as green finance center
 
@@ -165,9 +166,10 @@ Eligible categories include:
 - Selection committee for projects
 
 **Performance:**
-- Trading in line with conventional bonds [VERIFY]
+- Trading in line with conventional bonds
 - "Greenium" (green premium) limited
 - Strong investor demand maintained
+- Moody's awarded "Best Practice" label to 2024 Green Bond Report
 
 ### Corporate Green Bonds
 
@@ -236,9 +238,9 @@ Green bonds are central to our financing strategy:
 
 ## Sources
 
+- Dutch State Treasury Agency Green Bond Report 2024: https://english.dsta.nl/latest/news/2025/05/28/dutch-state-publishes-the-2024-green-bond-report (Accessed 2026-02-17)
 - EU Taxonomy: https://finance.ec.europa.eu/sustainable-finance/tools-and-databases/eu-taxonomy_en
 - European Commission Green Bonds: https://finance.ec.europa.eu/sustainable-finance/tools-and-databases/green-bonds_en
-- Netherlands Green Bond: https://www.dutchstate.nl/ (Dutch State Treasury Agency)
 - Climate Bonds Initiative: https://www.climatebonds.net/
 
 ---
@@ -260,5 +262,3 @@ Green bonds are central to our financing strategy:
 **Greenium:** Yield differential (typically lower) between green and conventional bonds.
 
 **SFDR (Sustainable Finance Disclosure Regulation):** EU regulation requiring financial market participants to disclose sustainability risks.
-
-*[VERIFY - Current green bond market data and greenium estimates]*

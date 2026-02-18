@@ -15,16 +15,16 @@
 
 | Indicator | Euro Area | Netherlands |
 |-----------|-----------|-------------|
-| GDP Growth (2024) | ~1.0% | ~1.0% |
-| GDP Growth (2025) | 1.3-1.5% | 1.7% |
-| Inflation (2024) | ~2.4% | ~3.3% |
-| Unemployment | 6.4% | 3.7% |
-| Public Debt (% GDP) | 88% | 45% |
+| GDP Growth (2024) | 0.9% | 1.1% |
+| GDP Growth (2025) | 1.5% | 1.9% |
+| Inflation (2024) | 2.0% | ~3.3% |
+| Unemployment | 6.2% | 4.0% |
+| Public Debt (% GDP) | 88% | 43% |
 | Current Account | ~2% | 9% |
-| ECB Deposit Rate | 2.5% | (euro area) |
+| ECB Deposit Rate | 2.00% | (euro area) |
 
 **ECB Policy Summary:**
-The ECB has shifted from fighting inflation to supporting growth. With rates now falling from their 4% peak and inflation near the 2% target, the environment supports green infrastructure investment.
+The ECB has shifted from fighting inflation to supporting growth. With rates now at 2.00% and inflation at the 2% target, the environment supports green infrastructure investment.
 
 ---
 
@@ -35,8 +35,8 @@ The ECB has shifted from fighting inflation to supporting growth. With rates now
 - **26% below sea level** — existential flood risk requiring continuous investment
 - **9 tonnes CO2 per capita** — above EU average of 7.5 tonnes
 - **Nitrogen crisis** — halted construction and worsened housing shortage
-- **75%+ of renewable projects** waiting for grid connection
-- **G Groningen gas field closing** — must replace with clean energy
+- **14,000+ projects** on grid waiting lists (9 GW capacity)
+- **Groningen gas field closing** — must replace with clean energy
 - **€10+ billion** in annual adaptation costs by 2050 without action
 
 ### Emissions by Sector

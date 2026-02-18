@@ -1,0 +1,130 @@
+# Block ALL robots/crawlers from accessing anything
+User-agent: *
+Disallow: /
+
+# Explicitly block common bots by name
+User-agent: Googlebot
+Disallow: /
+
+User-agent: Googlebot-Image
+Disallow: /
+
+User-agent: Googlebot-News
+Disallow: /
+
+User-agent: Googlebot-Video
+Disallow: /
+
+User-agent: Bingbot
+Disallow: /
+
+User-agent: BingPreview
+Disallow: /
+
+User-agent: DuckDuckBot
+Disallow: /
+
+User-agent: YandexBot
+Disallow: /
+
+User-agent: YandexImages
+Disallow: /
+
+User-agent: Baiduspider
+Disallow: /
+
+User-agent: FacebookExternalHit
+Disallow: /
+
+User-agent: Twitterbot
+Disallow: /
+
+User-agent: Applebot
+Disallow: /
+
+User-agent: Slackbot
+Disallow: /
+
+User-agent: Discordbot
+Disallow: /
+
+User-agent: LinkedInBot
+Disallow: /
+
+User-agent: Pinterestbot
+Disallow: /
+
+User-agent: telegram bot
+Disallow: /
+
+User-agent: WhatsApp
+Disallow: /
+
+User-agent: GPTBot
+Disallow: /
+
+User-agent: ChatGPT-User
+Disallow: /
+
+User-agent: CCBot
+Disallow: /
+
+User-agent: anthropic-ai
+Disallow: /
+
+User-agent: Bytespider
+Disallow: /
+
+User-agent: Google-Extended
+Disallow: /
+
+User-agent: GPTBot-Extended
+Disallow: /
+
+User-agent: OAI-SearchBot
+Disallow: /
+
+User-agent: PerplexityBot
+Disallow: /
+
+User-agent: YouBot
+Disallow: /
+
+User-agent: curl
+Disallow: /
+
+User-agent: wget
+Disallow: /
+
+User-agent: Python-urllib
+Disallow: /
+
+User-agent: Apache-HttpClient
+Disallow: /
+
+User-agent: Java
+Disallow: /
+
+User-agent: libwww-perl
+Disallow: /
+
+User-agent: LWP::Simple
+Disallow: /
+
+User-agent: Go-http-client
+Disallow: /
+
+User-agent: HttpClient
+Disallow: /
+
+User-agent: Scrapy
+Disallow: /
+
+User-agent: cURL
+Disallow: /
+
+User-agent: Wget
+Disallow: /
+
+# Block all crawling
+Crawl-delay: 1000

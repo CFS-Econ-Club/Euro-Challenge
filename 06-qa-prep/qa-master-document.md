@@ -35,7 +35,7 @@ This document contains a comprehensive set of questions judges may ask, organize
 ---
 
 ### Q6: What is the euro area unemployment rate?
-**Model Answer:** "The euro area unemployment rate is approximately 6.4%—near historic lows and down from 12% during the 2013 crisis. The Netherlands has even lower unemployment at 3.7%, among the lowest in Europe."
+**Model Answer:** "The euro area unemployment rate is 6.2% as of December 2025—near historic lows and down from 12% during the 2013 crisis. The Netherlands has unemployment at 4.0%, still among the lowest in Europe. (Eurostat, December 2025. Accessed 2026-02-17.)"
 
 ---
 
@@ -45,7 +45,7 @@ This document contains a comprehensive set of questions judges may ask, organize
 ---
 
 ### Q8: What is the current ECB deposit rate?
-**Model Answer:** "The current ECB deposit facility rate is approximately 2.5%, down from its 4% peak in 2023. This represents a significant shift from fighting inflation to supporting economic growth."
+**Model Answer:** "The current ECB deposit facility rate is 2.00% as of June 2025, down from its 4% peak in September 2023. This represents a significant shift from fighting inflation to supporting economic growth. (ECB Official Rates. Accessed 2026-02-17.)"
 
 ---
 
@@ -216,7 +216,7 @@ This document contains a comprehensive set of questions judges may ask, organize
 ---
 
 ### Q7: Why not just raise carbon tax instead?
-**Model Answer:** "We already have substantial carbon pricing—the Dutch carbon tax is €125-150/tonne, among the highest in the world. The problem isn't the price signal—it's structural bottlenecks (grid, land, skills) that no amount of pricing can fix. Our policies address those real constraints."
+**Model Answer:** "We already have substantial carbon pricing—the Dutch carbon tax is €78.67-87.90/tonne (2024-2025 range), among the highest in Europe. Combined with the EU ETS price (€65-70/tonne), industrial emitters face an effective carbon price above €150/tonne. The problem isn't the price signal—it's structural bottlenecks (grid, land, skills) that no amount of pricing can fix. Our policies address those real constraints. (PwC Netherlands Carbon Tax Guide, Dutch Government. Accessed 2026-02-17.)"
 
 ---
 

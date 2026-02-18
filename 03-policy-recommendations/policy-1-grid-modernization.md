@@ -2,7 +2,7 @@
 
 ## Policy Name and One-Sentence Description
 
-**Accelerated Grid Modernization & Green Infrastructure Fund:** A €10 billion public investment fund (2027-2031) to dramatically expand electricity grid capacity, deploy smart grid technology, and build energy storage infrastructure, directly addressing the grid congestion that blocks 75%+ of renewable energy connection requests.
+**Accelerated Grid Modernization & Green Infrastructure Fund:** A €10 billion public investment fund (2027-2031) to dramatically expand electricity grid capacity, deploy smart grid technology, and build energy storage infrastructure, directly addressing the grid congestion that has left over 14,000 projects waiting for connections.
 
 ---
 
@@ -13,14 +13,18 @@
 The Netherlands faces a severe electricity grid capacity crisis:
 
 **Connection Wait Times:**
-- Average wait for new grid connection: 3-5 years
-- Over 500 renewable projects on waitlists
+- Lead times for new high-voltage infrastructure: 8-12 years (Kamerstukken II, 2024-25)
+- Over 14,000 projects on regional grid waiting lists (9 GW total capacity)
+- TenneT waiting list: 212 requests for 38 GW capacity
 - Some projects waiting since 2020
 
-**Grid Congestion Data:**
-- 75%+ of renewable connection requests cannot be accommodated immediately [VERIFY]
+**Grid Congestion Data (Stibbe/Netbeheer Nederland, February 2026):**
+- 14,044 connection requests on regional grid operators' waiting lists (9 GW)
+- 212 requests on TenneT national grid waiting list (38 GW)
 - North-south transmission bottleneck critical
-- Storage capacity: <1 GWh (negligible)
+- Storage capacity: <1 GWh operational (negligible relative to demand)
+
+Sources: Stibbe, "Parliamentary letter on grid congestion," Feb 2026; NL Times, Oct 2025.
 
 **Economic Impact:**
 - Delayed renewable deployment costs billions annually
@@ -131,7 +135,7 @@ Every €1 public → €2-3 private via:
 ## Metrics of Success
 
 1. **Grid Capacity Added:** 10+ GW new transmission capacity
-2. **Connection Wait Time:** Reduced from 5 years to <2 years
+2. **Connection Wait Time:** Reduced from 8-12 years toward 5 years for new connections
 3. **Renewable Deployment:** Additional 10 GW renewable capacity connected
 4. **Storage Capacity:** 5 GWh operational
 5. **Hydrogen Electrolyzers:** 2 GW connected at Port of Rotterdam
@@ -255,24 +259,23 @@ Every €1 public → €2-3 private via:
 
 ---
 
-## Evidence from Search Results
+## Evidence from Verified Sources
 
-*Note: Web searches should verify current data on:*
-- *TenneT investment plans*
-- *Grid connection wait times*
-- *Storage costs per MWh*
-- *Comparable programs in Germany/Denmark*
-
-[VERIFY - Current data for all statistics above]
+**Grid Congestion Data (Verified 2026-02-17):**
+- 14,044 requests on regional grid waiting lists (9 GW) — Stibbe, "Parliamentary letter on grid congestion," Feb 2026
+- 212 requests on TenneT waiting list (38 GW) — Stibbe, Feb 2026
+- Lead times: 8-12 years for high-voltage infrastructure — Kamerstukken II, 2024-25
+- Government expects measures to free up 5-10 GW by 2030 — Stibbe, Feb 2026
+- Social costs of grid congestion: €10-40 billion — BGC study cited in Stibbe report
 
 ---
 
 ## Sources
 
+- Stibbe, "Parliamentary letter on grid congestion: eight measures for better utilisation," February 2026. https://www.stibbe.com/publications-and-insights/parliamentary-letter-on-grid-congestion-eight-measures-for-better. Accessed 2026-02-17.
+- NL Times, "Over 14,000 businesses on waiting list to connect to congested power grid," October 2025. https://nltimes.nl/2025/10/06/14000-businesses-waiting-list-connect-congested-power-grid. Accessed 2026-02-17.
 - TenneT Grid Development Plans
-- RVO Grid Connection Data
 - Netherlands Climate Fund Documentation
-- EU Green Bond Market Data
 
 ---
 

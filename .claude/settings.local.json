@@ -18,7 +18,10 @@
       "mcp__jina-mcp-server__primer",
       "mcp__jina-mcp-server__guess_datetime_url",
       "mcp__jina-mcp-server__read_url",
-      "mcp__jina-mcp-server__parallel_read_url"
+      "mcp__jina-mcp-server__parallel_read_url",
+      "mcp__sequential-thinking__sequentialthinking",
+      "Bash(find /c/Users/user/Documents/Euro-Challenge -type f -exec wc -l {} ;)",
+      "mcp__jina-mcp-server__parallel_search_web"
     ]
   },
   "enableAllProjectMcpServers": true,
@@ -30,7 +33,6 @@
     "sequential-thinking",
     "puppeteer",
     "sqlite",
-    "kagi",
     "jina-mcp-server"
   ]
 }

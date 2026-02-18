@@ -8,13 +8,11 @@ The EU Emissions Trading System (EU ETS) is the world's first and largest carbon
 
 ## Key Data Points
 
-- **EU ETS Price (2025):** €60-75 per tonne CO2 [VERIFY]
+- **EU ETS Price (Feb 2026):** €69.79 per tonne CO2 ✅ (Trading Economics, Feb 2026)
 - **Cap Reduction:** 2.2% annual decrease (Phase 4, 2021-2030)
 - **Total Covered Emissions:** ~1.5 billion tonnes CO2/year (~40% of EU emissions)
 - **Number of Installations Covered:** ~10,000 across 30 countries
-- **Netherlands Covered Emissions:** ~40-45 million tonnes CO2/year [VERIFY]
-- **Auction Revenue (EU-wide):** ~€40 billion annually [VERIFY]
-- **Netherlands Auction Revenue Share:** ~€1-1.5 billion annually [VERIFY]
+- **Auction Revenue (EU-wide, 2023):** €43.6 billion ✅ (ICAP, 2024)
 - **Free Allowances Phase-Out:** Gradual reduction to 0% by 2034 for aviation, 2030 for sectors covered by CBAM
 
 ---
@@ -75,7 +73,8 @@ The EU ETS has undergone significant transformation:
 - 2017: €5-10 (trough)
 - 2020: €25-30
 - 2022: €80-100 (energy crisis spike)
-- 2024-2025: €60-75 (normalized but elevated)
+- Jan 2026: €90+ (peak)
+- Feb 2026: ~€70 (recent decline) ✅
 
 **Market Drivers:**
 - Tightening cap (2.2% annual reduction)
@@ -184,9 +183,9 @@ The EU ETS is foundational to our presentation:
 ## Sources
 
 - EU ETS Information: https://climate.ec.europa.eu/eu-action/eu-emissions-trading-system-eu-ets_en
+- Trading Economics Carbon Price: https://tradingeconomics.com/commodity/carbon (Accessed 2026-02-17)
+- ICAP Carbon Action: https://icapcarbonaction.com/en/ets/eu-emissions-trading-system-eu-ets
 - European Environment Agency ETS Data: https://www.eea.europa.eu
-- Sandbag ETS Dashboard: https://sandbag.org.uk/carbon-price/
-- Ember Carbon Price Tracker: https://ember-climate.org
 
 ---
 
@@ -208,5 +207,3 @@ The EU ETS is foundational to our presentation:
 **Cap-and-Trade:** System where a declining cap on emissions creates scarcity, with tradable allowances finding the lowest-cost reduction path.
 
 **Market Stability Reserve (MSR):** Mechanism to stabilize carbon prices by adjusting allowance supply.
-
-*[VERIFY - Update prices and revenue figures with latest market data]*
