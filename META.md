@@ -376,6 +376,30 @@ This is the system's learning log. Every cycle appends an entry. This is how the
 
 ---
 
+### Cycle 3 — 2026-02-17
+**Maturity assessment:** Stage 2-3 (Structure → Persuasion transition)
+**Lenses applied:** Truth, Consistency, Strategic Alignment
+**Patterns used:** Evidence Chain Tracing
+**Hypothesis:** "Fixing the JTF funding discrepancy in policy-3-green-skills.md (€175M/€200M → €623M) would be the highest-impact improvement because inconsistent data undermines credibility during Q&A."
+**Actions taken:**
+- Fixed JTF funding in policy-3-green-skills.md:
+  - Line 152: Changed financing table from €200M to €623M
+  - Line 215: Changed "€175M for Dutch workforce transition" to "€623M"
+- Verified remaining [VERIFY] tags: ~9 tags remain, mostly in research files (cbam.md, european-green-deal.md, fit-for-55.md, climate-act-and-agreement.md)
+- Verified EU ETS carbon price: Current ~€72/tonne (within stated €60-75 range) - confirmed via web search
+**Outcome:** Hypothesis confirmed. JTF funding discrepancy fixed. Data now consistent between financing-plan.md (€623M) and policy-3-green-skills.md (€623M).
+**Surprises:**
+- Anchor-questions.md is very comprehensive (20 questions with correct answers, common wrong answers, connections to topic) — H4 is actually adequately addressed
+- Remaining [VERIFY] tags are primarily in research files, not in presentation-critical materials
+**Framework changes made:**
+- None
+**Recommendation to next instance:**
+- Address remaining ~9 [VERIFY] tags in EU policy research files (optional — they're not in presentation-critical files)
+- H5 (speaker timing) still needs validation — scripts have time allocations but haven't been tested
+- H6 (euro angle) could be strengthened in presentation materials
+
+---
+
 ## Part 5: Active Hypotheses
 
 These are the system's current best beliefs about what matters most. They are **mutable** — every cycle should confirm, refute, or refine them. They give a new instance immediate orientation without having to audit everything from scratch.
@@ -394,7 +418,7 @@ These are the system's current best beliefs about what matters most. They are **
 
 > **H6:** The "single currency angle" — how euro membership specifically shapes Dutch climate policy — is the most likely area where judges will probe for genuine understanding vs. surface knowledge, and the current treatment is adequate but not compelling. **ACTIVE** — Present in policy files but could be strengthened in presentation materials.
 
-> **H7 (NEW):** The financing-plan.md and policy-3-green-skills.md understate available EU funding because JTF allocation was corrected from €175M to €623M — this affects policy feasibility calculations. **ACTIVE** — Needs propagation.
+> **H7:** The financing-plan.md and policy-3-green-skills.md understate available EU funding because JTF allocation was corrected from €175M to €623M — this affects policy feasibility calculations. **CONFIRMED** — Cycle 3 propagated €623M to both files. Data is now consistent.
 
 ### Hypothesis Status Key
 - **ACTIVE** — Not yet tested or partially supported

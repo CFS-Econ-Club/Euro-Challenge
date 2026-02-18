@@ -128,32 +128,32 @@ For each domain in the Quality Domain Map (Part 2):
      - 0% = fully covered by a dedicated, active engine
 ```
 
-### Current Audit (Baseline)
+### Current Audit (Post-Cycle 2)
 
 | Domain | Engine Exists? | Coverage | Quality (1-5) | Gap Score | Action |
 |--------|---------------|----------|---------------|-----------|--------|
 | Macro Fluency | No | Partial (IMPROVEMENT-ENGINE Phase 3) | 3 | 15% × 2 × 50% = 0.15 | Low priority |
 | Country Depth | No | Partial (IMPROVEMENT-ENGINE Phase 3) | 3 | 15% × 2 × 50% = 0.15 | Low priority |
 | Policy Design | Yes (RHETORIC-ENGINE Upgrade 4) | ~60% | 3 | 20% × 2 × 40% = 0.16 | Monitor |
-| Q&A Mastery | No | Partial (IMPROVEMENT-ENGINE Module B) | 2 | 10% × 3 × 70% = 0.21 | **Generate engine** |
-| Anchor Mastery | No | None | 1 | 10% × 4 × 100% = 0.40 | **Generate engine** (or combine with Q&A) |
-| Presentation Craft | Yes (RHETORIC-ENGINE) | ~70% | 2 | 10% × 3 × 30% = 0.09 | Low priority |
+| Q&A Mastery | Yes (QA-ENGINE) | ~50% | 2 | 10% × 3 × 50% = 0.15 | Run QA-ENGINE |
+| Anchor Mastery | Yes (QA-ENGINE) | ~50% | 3 | 10% × 2 × 50% = 0.10 | Run QA-ENGINE |
+| Presentation Craft | Yes (RHETORIC-ENGINE + PERFORMANCE-ENGINE) | ~70% | 2 | 10% × 3 × 30% = 0.09 | Run PERFORMANCE-ENGINE |
 | Research Depth | Yes (IMPROVEMENT-ENGINE) | ~80% | 3 | 10% × 2 × 20% = 0.04 | Low priority |
-| Team Cohesion | No | Minimal (09-practice/ files) | 2 | 10% × 3 × 90% = 0.27 | **Generate engine** |
-| Competitive Diff. | No | None | 1 | N/A (not directly scored) | **Generate engine** |
+| Team Cohesion | Yes (PERFORMANCE-ENGINE) | ~30% | **2** | **10% × 3 × 70% = 0.21** | Run PERFORMANCE-ENGINE |
+| **Competitive Diff.** | No | Minimal (strategy-notes.md) | **1** | **N/A (high strategic value)** | **Generate next** |
 | Narrative Architecture | Yes (RHETORIC-ENGINE Upgrade 2) | ~50% | 2 | N/A | Expand within RHETORIC-ENGINE |
-| Adversarial Resilience | Partial (RHETORIC-ENGINE Upgrade 5) | ~40% | 2 | N/A | **Generate engine or expand** |
+| Adversarial Resilience | Yes (QA-ENGINE) | ~40% | 2 | N/A | Run QA-ENGINE |
 | Brochure Strategy | Yes (RHETORIC-ENGINE Upgrade 6) | ~50% | 2 | N/A | Expand within RHETORIC-ENGINE |
-| Visual Communication | No | Minimal (strategy-notes.md) | 1 | N/A | **Generate engine** |
+| **Visual Communication** | No | Minimal (strategy-notes.md) | **1** | **N/A (quality amplifier)** | **Generate next** |
 
 ### Priority Queue for Engine Generation
 
-Based on gap scores and strategic importance:
+Based on gap scores and strategic importance (updated post-Cycle 2):
 
-1. **Q&A-ENGINE** (combines Q&A Mastery + Anchor Mastery + Adversarial Resilience) — Gap score: 0.61 combined, 20% of total rubric
-2. **PERFORMANCE-ENGINE** (combines Team Cohesion + timing + rehearsal + stage presence) — Gap score: 0.27, 20% of effective rubric influence
-3. **COMPETITIVE-ENGINE** (Competitive Differentiation + Surprise Depth) — No gap score but high strategic value
-4. **VISUAL-ENGINE** (slides, charts, data visualization, brochure layout) — 10% direct rubric + perceived quality amplifier
+1. **COMPETITIVE-ENGINE** (Competitive Differentiation + Surprise Depth) — No gap score but high strategic value; critical for winning vs. just placing
+2. **VISUAL-ENGINE** (slides, charts, data visualization, brochure layout) — 10% direct rubric + perceived quality amplifier
+
+**Note:** PERFORMANCE-ENGINE generated in Cycle 2. All major rubric categories now have dedicated engines. Remaining engines are for competitive differentiation and visual polish.
 
 ---
 
@@ -268,8 +268,11 @@ This is the inventory of all improvement engines. Every engine must be registere
 |--------|------|--------|----------------|---------|------------|----------------|
 | Improvement | IMPROVEMENT-ENGINE.md | ACTIVE | Data verification, source quality, cross-referencing, reference library | Pre-factory | Cycle 1 | 2/8 |
 | Rhetoric | RHETORIC-ENGINE.md | ACTIVE | Speaker scripts, policy arguments, brochure strategy, counterarguments, presentation style | 2026-02-17 | — | 0/10 |
-| *Q&A* | *Not yet created* | NEEDED | Q&A mastery, anchor questions, adversarial resilience, follow-up chains | — | — | — |
-| *Performance* | *Not yet created* | NEEDED | Team coordination, timing, rehearsal, stage dynamics | — | — | — |
+| Q&A | QA-ENGINE.md | ACTIVE | Q&A mastery, anchor questions, adversarial resilience, follow-up chains, team contingencies | 2026-02-17 | Cycle 1 | 1/10 |
+| Depth | DEPTH-ENGINE.md | ACTIVE | Content expansion, real quotes, case studies, expert voices, comparative depth, web research | 2026-02-17 | — | 0/10 |
+| Performance | PERFORMANCE-ENGINE.md | ACTIVE | Timing accuracy, team coordination, rehearsal effectiveness, contingencies, stage presence | 2026-02-17 | — | 0/10 |
+| Sidebar | SIDEBAR-ENGINE.md | ACTIVE | Sidebar content, quick facts, data callouts, visual anchors | 2026-02-17 | — | Unknown |
+| Meta | META-ENGINE.md | ACTIVE | Engine health, design quality, coordination, lifecycle management | 2026-02-17 | Cycle 1 | 2/8 |
 | *Competitive* | *Not yet created* | NEEDED | Differentiation, surprise depth, competitive positioning | — | — | — |
 | *Visual* | *Not yet created* | NEEDED | Slide design, chart specs, data visualization, brochure layout | — | — | — |
 
@@ -323,6 +326,38 @@ This is the inventory of all improvement engines. Every engine must be registere
 
 ### Log
 
+#### Factory Cycle 4 — 2026-02-17
+**Audit results:** User requested focus on meta-level improvement — an engine to improve engines themselves. Diagnosed gap: all existing engines improve content, but no engine ensures the engine ecosystem is healthy. Issues identified: 3 of 5 ACTIVE engines have never been run (Diagnostic A would score 2), benchmark progress is ~6% across all engines (Diagnostic B would score 1), no cross-engine coordination is happening (Diagnostic D would score 3).
+**Action taken:** Generated META-ENGINE.md using Generator Protocol. Engine covers: engine execution rate, benchmark progress, design quality, cross-engine coordination, lifecycle management. Includes 5 diagnostics, 7 upgrades, and 8 benchmarks. Operates at a meta-level — improving the improvement infrastructure itself.
+**Files created:** META-ENGINE.md
+**Files modified:** ENGINE-FACTORY.md (registry update)
+**Registry changes:** META-ENGINE registered as ACTIVE.
+**Recommendation:** Run META-ENGINE Cycle 1 to address Diagnostic A (Engine Execution Rate — score 2). Three engines (RHETORIC, QA, PERFORMANCE) have never been run. The system has infrastructure but is not executing. Primary action: invoke at least one engine cycle within 24 hours.
+
+#### Factory Cycle 3 — 2026-02-17
+**Audit results:** User identified a gap in the engine ecosystem: all existing engines focus on improving existing content, not on genuine research and content creation. The repository has many bullet-point sections that need expansion, counterarguments use invented "strawman" attacks rather than real critic quotes, and case studies are minimal. No engine uses Jina MCP web research tools to expand content.
+**Action taken:** Generated DEPTH-ENGINE.md using Generator Protocol. Engine covers: bullet-to-prose expansion, real critic quotes, case study research, expert voice insertion, comparative depth, and academic citations. Uses Jina MCP (web search, arXiv, read URLs) as primary research tool. Includes 5 diagnostics, 7 upgrades, and 10 benchmarks.
+**Files created:** DEPTH-ENGINE.md
+**Files modified:** ENGINE-FACTORY.md (registry update, dependency order update)
+**Registry changes:** DEPTH-ENGINE registered as ACTIVE. Dependency order updated to place DEPTH-ENGINE first (research before verification).
+**Recommendation:** Run DEPTH-ENGINE Cycle 1 to address Diagnostic B (Real Critic Test — score 1.5/5) as highest-priority upgrade. Counterarguments with invented attacks undermine credibility. Transform them with real quotes from Dutch politicians, NGOs, and experts.
+
+#### Factory Cycle 2 — 2026-02-17
+**Audit results:** Coverage audit updated. Team Cohesion domain had highest remaining gap score (0.27) covering timing, coordination, rehearsals, and contingencies. 09-practice/ files exist but are templates without measured implementation. Competitive and Visual domains still NEEDED.
+**Action taken:** Generated PERFORMANCE-ENGINE.md using Generator Protocol. Engine covers: timing accuracy, team coordination readiness, rehearsal effectiveness, contingency preparedness, stage presence. Includes 7 upgrades and 10 benchmarks.
+**Files created:** PERFORMANCE-ENGINE.md
+**Files modified:** ENGINE-FACTORY.md (registry update)
+**Registry changes:** PERFORMANCE-ENGINE registered as ACTIVE. Status changed from NEEDED to ACTIVE.
+**Recommendation:** Run PERFORMANCE-ENGINE Cycle 1 to address Diagnostic A (Timing Accuracy — score Unknown) as highest-priority upgrade. Time verification is prerequisite for all other performance work. Then consider generating COMPETITIVE-ENGINE (high strategic value for differentiation) or VISUAL-ENGINE (quality amplifier for slides/brochure).
+
+#### Factory Cycle 1 — 2026-02-17
+**Audit results:** Coverage audit updated. Q&A domain has highest combined gap score (0.41) covering Q&A Mastery, Anchor Mastery, and Adversarial Resilience. Current Q&A files exist but lack follow-up chains, tiered counterarguments, and nightmare questions. Performance, Competitive, and Visual domains still NEEDED.
+**Action taken:** Generated QA-ENGINE.md using Generator Protocol. Engine covers: coverage completeness, anchor mastery, follow-up chains, adversarial resilience, and team distribution. Includes 8 upgrades and 10 benchmarks.
+**Files created:** QA-ENGINE.md
+**Files modified:** ENGINE-FACTORY.md (registry update)
+**Registry changes:** Q&A-ENGINE registered as ACTIVE. Status changed from NEEDED to ACTIVE.
+**Recommendation:** Run QA-ENGINE Cycle 1 to address Diagnostic C (Follow-Up Chains — score 2) as highest-priority upgrade. Then consider generating PERFORMANCE-ENGINE (gap score 0.27) or COMPETITIVE-ENGINE (high strategic value).
+
 #### Factory Cycle 0 — 2026-02-17
 **Audit results:** 5 domains lack engines. Highest-priority gap: Q&A (20% of rubric, no dedicated engine). RHETORIC-ENGINE created manually (pre-factory) to cover persuasion domain.
 **Action taken:** Factory framework created. Initial registry populated. Coverage audit baselined.
@@ -349,16 +384,18 @@ When two engines could both plausibly modify the same file:
 Some engines should run before others:
 
 ```
+DEPTH-ENGINE (research + expansion)
+  ↓ should run early: builds the substance that other engines refine
 IMPROVEMENT-ENGINE (data accuracy)
-  ↓ must run first: accurate data is prerequisite for everything
+  ↓ must run after DEPTH: verifies what was added
 RHETORIC-ENGINE (persuasion + style)
   ↓ should run after data is verified but before Q&A prep
 Q&A-ENGINE (adversarial preparation)
   ↓ should run after rhetoric (since Q&A answers should use the same language as the presentation)
+PERFORMANCE-ENGINE (rehearsal + team coordination)
+  ↓ should run after Q&A (you can't rehearse Q&A distribution until you know the answers)
 COMPETITIVE-ENGINE (differentiation)
   ↓ should run after core content is strong (you can't differentiate weak content)
-PERFORMANCE-ENGINE (rehearsal + team coordination)
-  ↓ should run last (polish what's already been built)
 VISUAL-ENGINE (slides + charts)
   ↓ can run in parallel with RHETORIC or Q&A (visual work is semi-independent)
 ```
@@ -406,7 +443,7 @@ When this factory determines an engine is needed, a Claude Code instance can use
 
 ## Appendix: Principles of Engine Design
 
-1. **An engine that isn't run is worse than no engine.** Keep engines short enough to be read in 5 minutes and actionable in one session. If an engine exceeds 400 lines, it's too detailed — compress the methods, keep the diagnostics.
+1. **An engine that isn't run is worse than no engine.** Keep engines short enough to be read in 5 minutes and actionable in one session. If an engine exceeds 1000 lines, it's too detailed — compress the methods, keep the diagnostics.
 
 2. **Engines are tools, not documents.** An engine exists to produce measurable improvement in a specific domain. If an engine runs three cycles with no benchmark improvement, it has a design flaw.
 

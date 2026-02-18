@@ -9,11 +9,9 @@
 
 ### [SLIDE 8 - Country Snapshot] [0:00-1:00]
 
-"Thank you, [Speaker 1]. Now let me take you inside the Netherlands.
+"My colleague just showed you that the euro area has the economic capacity to invest. Now let me show you why the Netherlands is uniquely positioned to lead—but also uniquely constrained.
 
-The Netherlands is a small but mighty economy—seventh-largest in the euro area with GDP of approximately €1.1 trillion and a population of 17.9 million.
-
-What makes the Netherlands unique is our combination of economic STRENGTH and specific CHALLENGES.
+Here's the paradox: The Netherlands has the strongest fiscal position in the euro area—just 43% debt-to-GDP—and one of its lowest unemployment rates at 4%. Yet we face three structural bottlenecks that no amount of fiscal strength alone can solve.
 
 [PAUSE]
 
@@ -33,7 +31,9 @@ Third, the **Groningen gas field** is closing—we must replace this energy sour
 
 [PAUSE]
 
-These aren't abstract problems—they directly affect our economy and our ability to meet climate targets."
+These aren't abstract problems—they directly affect our economy and our ability to meet climate targets.
+
+**Fiscal strength buys you time. It doesn't buy you solutions.**"
 
 **[SLIDE 10 - Climate Challenges] [1:45-2:30]**
 
@@ -43,7 +43,7 @@ Our Delta Programme protects 10 million people from flooding. Every year, we inv
 
 [TRANSITION TO SPEAKER 3]
 
-In the face of these existential challenges, my colleague will explain the specific climate problems we face and why our policy recommendations matter."
+So we have fiscal strength—but we have structural bottlenecks that money alone cannot fix. My colleague will now explain exactly what those bottlenecks are, and why they're interlocking in ways that demand a coordinated policy response."
 
 ---
 

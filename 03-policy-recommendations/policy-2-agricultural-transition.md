@@ -289,6 +289,97 @@ ATIP offers voluntary pathways with generous financial support:
 
 ---
 
+## Comparative Evidence: Case Studies
+
+### Case Study 1: Netherlands Peak Polluter Buyout Scheme (2023-2025)
+
+**Program:** The Dutch government's voluntary buyout scheme for "peak polluters"—the 3,000 livestock farms with the highest nitrogen deposition on Natura 2000 sites.
+
+**Budget and Timeline:**
+- €1.81 billion spent as of March 2025
+- 723 farms bought out
+- Projected nitrogen reduction: 8%
+
+**Key Findings (Investigative Research, January 2026):**
+A joint investigation by Omroep Gelderland, NRC, and Follow the Money revealed critical lessons:
+
+> "If the Ministry had followed Johan Remkes' advice and bought out the few hundred largest peak emitters, the same nitrogen savings could have been achieved with only €330 million. Moreover, only 133 livestock farms would have had to close."
+>
+> — NL Times, January 2026 [(NL Times)](https://nltimes.nl/2026/01/13/farm-buyout-scheme-eu15-billion-cheaper-3x-effective)
+
+**What Went Wrong:**
+- The scheme prioritized voluntary participation over targeting efficiency
+- Buying out the 550 most polluting farms yields the same nitrogen gains as buying out nearly 2,500 other peak polluters
+- Many farms that signed up were not among the highest emitters
+- Some participants haven't closed their businesses yet
+
+**Lesson for Our Policy:**
+Our ATIP program incorporates this lesson by:
+1. **Geographic targeting:** Prioritizing farms within 5 km of Natura 2000 sites
+2. **Emissions-based ranking:** Offering highest compensation to highest emitters
+3. **Binding closure requirements:** Ensuring bought-out farms cease operations
+4. **Three pathways:** Giving farmers choice while achieving environmental goals
+
+---
+
+### Case Study 2: EU State Aid Approved Dutch Nitrogen Schemes (2023)
+
+**Program:** The European Commission approved €1.47 billion in Dutch schemes to facilitate voluntary closure of livestock farms with high nitrogen deposition.
+
+**Key Measures:**
+- Two schemes targeting nitrogen reduction
+- Voluntary participation with compensation above market rates
+- Land transferred to nature conservation
+- Compliance with EU state aid rules
+
+**Outcomes:**
+- Demonstrated EU support for voluntary agricultural transition
+- Established precedent for generous compensation (100-120% of market value)
+- Created legal framework for nature-focused land retirement
+
+**Lesson for Our Policy:**
+EU state aid approval confirms that:
+- Voluntary buyouts at above-market rates are permissible
+- Nitrogen reduction qualifies as a valid public policy objective
+- Agricultural transition programs can receive EU funding support
+
+**Source:** European Commission Press Release, July 2023. [(EC)](https://ec.europa.eu/commission/presscorner/detail/ro/ip_23_2507)
+
+---
+
+### Case Study 3: The Guardian's Nitrogen Crisis Investigation (2023)
+
+**Context:** The Guardian's extensive investigation into the Dutch nitrogen crisis provides crucial context for understanding farmer resistance and designing effective policy.
+
+**Key Finding from Alex Datema, Head of Rabobank Agricultural Division:**
+
+> "Farmers had already reduced their nitrogen emissions by almost two-thirds since 1990, mainly through technical advances... A lot had the feeling that the government betrayed them."
+
+**Key Finding from Harold Zoet, BBB Provincial Councilor:**
+
+> "People don't understand what it is to work on the land... If we had started with good legislation 10 years ago, it would have been much, much easier to solve the problem than it is now."
+
+**Lesson for Our Policy:**
+1. **Acknowledge past progress:** Farmers have already made significant reductions
+2. **Offer genuine choice:** Mandatory approaches trigger resistance; voluntary programs with generous terms work better
+3. **Start early:** Our program must begin immediately to avoid further crisis escalation
+
+**Source:** The Guardian, "Nitrogen wars: the Dutch farmers' revolt that turned a nation upside-down," November 2023. [(The Guardian)](https://www.theguardian.com/environment/2023/nov/16/nitrogen-wars-the-dutch-farmers-revolt-that-turned-a-nation-upside-down)
+
+---
+
+## Case Study Summary: What Works
+
+| Approach | Evidence | Our Policy Response |
+|----------|----------|---------------------|
+| Target highest emitters first | €1.5B could have been saved with better targeting | Geographic and emissions-based priority system |
+| Make participation voluntary | Mandatory approaches trigger protests | All three pathways are voluntary |
+| Offer generous compensation | Below-market offers rejected | 120% of market value for buyouts |
+| Ensure closure happens | Some bought-out farms remain open | Binding closure requirements |
+| Provide transition support | Farmers need viable alternatives | Pathways B and C offer real alternatives |
+
+---
+
 ## Sources
 
 - Netherlands Nitrogen Policy Documentation

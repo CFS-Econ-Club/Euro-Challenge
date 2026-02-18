@@ -9,11 +9,11 @@
 
 ### [SLIDE 21 - Euro Enablers] [0:00-1:00]
 
-"How does the euro affect our recommendations?
+"So we've shown you what we propose. Now let me answer the question that matters: could the Netherlands do this alone?
 
-Here's the key point: **the euro makes this possible.**
+The answer is no—at least, not at this scale, and not at this cost. The euro makes our €17 billion package not just possible, but cheaper. Here's how.
 
-First, **funding.** Our €17 billion package includes €4 billion from EU sources—24% from RRF, Just Transition Fund, and CAP eco-schemes. This funding only exists because we're part of the EU.
+First, **funding.** Our package includes €4 billion from EU sources—24% from RRF, Just Transition Fund, and CAP eco-schemes. This money would not exist outside the EU.
 
 Second, **green bonds.** The Netherlands has issued over €40 billion in sovereign green bonds since 2019—access to Europe's €500 billion green bond market is only possible because of the euro's depth and liquidity.
 
@@ -27,7 +27,7 @@ Could we do this without the euro? We would lose €4 billion in funding, pay hi
 
 "Let me close with our core message:
 
-**The Netherlands can meet its climate targets, and the euro makes it affordable.**
+**We're not asking the Netherlands to spend more. We're asking it to spend smarter—with €4 billion that only exists because we're part of Europe.**
 
 Our €17 billion investment package addresses three specific bottlenecks—grid congestion, nitrogen emissions, and workforce gaps—using existing funding mechanisms and proven programs.
 

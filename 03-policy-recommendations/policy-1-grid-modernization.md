@@ -270,6 +270,104 @@ Every €1 public → €2-3 private via:
 
 ---
 
+## Comparative Evidence: Case Studies
+
+### Case Study 1: Germany's Grid Development Plan 2037/2045
+
+**Program:** Germany's Network Development Plan (Netzentwicklungsplan, NEP) is the transmission system expansion roadmap required by law to achieve climate neutrality by 2045.
+
+**Budget and Timeline:**
+- Planned expansion: 4,400+ km of new transmission lines
+- Investment need: €52+ billion by 2045
+- 2025 milestone: 2,000 km approved—a 45% increase over 2024 permit levels
+
+**Key Measures:**
+- Federal coordination replacing state-by-state approval
+- Fast-track permitting for priority transmission corridors
+- Underground cabling requirements for public acceptance
+- Public investment de-risking private transmission projects
+
+**Outcomes (as of 2025):**
+- Bundesnetzagentur expects ~4,400 km authorized by end of 2025 [(Bundesnetzagentur)](https://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/EN/2024/20241227_NetzausbauBilanz.html)
+- 60% of German electricity from renewables in 2024 [(Fraunhofer ISE)](https://www.ise.fraunhofer.de/en/press-media/press-releases/2025/public-electricity-generation-2024-renewable-energies-cover-more-than-60-percent-of-german-electricity-consumption-for-the-first-time.html)
+- Permitting acceleration demonstrated feasible
+
+**Challenges:**
+- Bavarian citizen protests delayed 3+ major projects by 2+ years each
+- Cost overruns of 30% on underground cabling
+- Grid plans in 10 of 26 EU countries underestimate wind and solar targets [(Ember)](https://ember-energy.org/latest-insights/putting-the-mission-in-transmission-grids-for-europes-energy-transition)
+
+**Lesson for Netherlands:**
+Germany proves that permitting reform can dramatically accelerate grid expansion. Their 45% increase in approved lines in 2025 shows what's possible with political will. However, citizen protests demonstrate the need for early community engagement and benefit-sharing—which our policy includes.
+
+---
+
+### Case Study 2: Denmark's Renewable Grid Integration
+
+**Program:** Denmark has achieved the highest renewable electricity share in the EU through aggressive grid modernization and smart grid deployment.
+
+**Budget and Timeline:**
+- Energinet (Danish TSO) investment: DKK 36 billion (€4.8 billion) for 2023-2027
+- Annual grid investment: ~DKK 9 billion (€1.2 billion)
+- Smart meter rollout: Completed 2020
+
+**Key Measures:**
+- Smart grid technology deployment at scale
+- Cross-border interconnections with Germany, Sweden, Norway
+- Flexible demand response programs
+- Real-time grid management systems
+
+**Outcomes:**
+- **88.4% of net electricity generation from renewables in 2024**—#1 in EU [(Invest in Denmark)](https://investindk.com/insights/denmark-1-in-share-of-renewables-in-net-electricity-generation-for-2024-in-the-eu)
+- Wind and solar integration without major curtailment
+- Grid stability maintained through interconnections
+- Net-zero target advanced to 2045
+
+**What Works:**
+- Smart grid deployment faster than new transmission lines
+- Interconnections provide flexibility and backup
+- Real-time management reduces congestion
+
+**Lesson for Netherlands:**
+Denmark demonstrates that a smaller European country can integrate very high renewable shares through smart grid technology and interconnections. Our policy mirrors their approach: smart grid deployment (2-3 years) alongside transmission expansion (7-10 years).
+
+---
+
+### Case Study 3: European Grid Planning Gap (Ember Analysis, 2024)
+
+**Finding:** Ember's analysis of 26 European grid plans reveals systematic underinvestment in transmission capacity.
+
+**Key Data:**
+- 10 of 26 grid plans use scenarios with lower wind/solar than national targets
+- Total shortfall: 65 GW of wind and solar capacity unaccounted for
+- Solar consistently underestimated: 205 GW less than market forecasts across 23 plans
+- Battery storage often excluded from planning despite 50+ GW expected by 2030
+
+**Implication for Netherlands:**
+> "When TSOs' assessments of future infrastructure needs are based on under-ambitious scenarios, it is likely that new investments necessary to support policy targets will be overlooked and their development delayed."
+> — Ember, "Putting the mission in transmission" [(Ember)](https://ember-energy.org/latest-insights/putting-the-mission-in-transmission-grids-for-europes-energy-transition)
+
+**Our Policy Response:**
+Our Grid Modernization Fund proactively addresses this gap by:
+1. Front-loading investment before bottlenecks become critical
+2. Using ambitious scenarios that match market forecasts
+3. Including storage (5 GWh target) and smart grid alongside transmission
+
+---
+
+## Case Study Summary: What Works
+
+| Factor | Germany | Denmark | Our Policy |
+|--------|---------|---------|------------|
+| Permitting reform | ✅ 45% increase in 2025 | N/A | ✅ Fast-track included |
+| Smart grid deployment | Partial | ✅ Completed 2020 | ✅ €2.5B allocated |
+| Storage integration | Limited | ✅ Strong | ✅ €1.5B allocated |
+| Community engagement | ⚠️ Protests in Bavaria | ✅ Strong | ✅ Benefit-sharing included |
+| Interconnections | ✅ Extensive | ✅ Critical | ✅ EU market access |
+| Investment scale | €52B by 2045 | €4.8B 2023-27 | €10B 2027-31 |
+
+---
+
 ## Sources
 
 - Stibbe, "Parliamentary letter on grid congestion: eight measures for better utilisation," February 2026. https://www.stibbe.com/publications-and-insights/parliamentary-letter-on-grid-congestion-eight-measures-for-better. Accessed 2026-02-17.

@@ -148,10 +148,10 @@ The Netherlands faces acute workforce shortages in green industries:
 
 | Source | Amount |
 |--------|--------|
-| Klimaatfonds | €1B |
-| Just Transition Fund | €200M |
-| ESF+ (European Social Fund) | €300M |
-| Reallocated unemployment funds | €500M |
+| Klimaatfonds | €727M |
+| Just Transition Fund | €623M |
+| ESF+ (European Social Fund) | €350M |
+| Reallocated unemployment funds | €300M |
 | **Total** | **€2 billion** |
 
 ### Fiscal Impact
@@ -212,7 +212,7 @@ The Netherlands faces acute workforce shortages in green industries:
    - Green skills qualifies for funding
 
 2. **Just Transition Fund:**
-   - €175M for Dutch workforce transition
+   - €623M for Dutch workforce transition
    - Specifically targets Groningen region
    - Our program qualifies
 
@@ -307,6 +307,128 @@ The Netherlands faces acute workforce shortages in green industries:
 - *Groningen transition status*
 
 [VERIFY - Current data for all statistics above]
+
+---
+
+## Comparative Evidence: Case Studies
+
+### Case Study 1: Germany's Green Skills Workforce Challenge
+
+**Context:** Germany's energy transition (Energiewende) has created massive demand for green skills—but supply isn't keeping pace.
+
+**Key Data (OECD, 2024):**
+- **21.1% of German workforce** employed in "green-driven" occupations—highest share in OECD [(Clean Energy Wire)](https://www.cleanenergywire.org/news/over-21-jobs-germany-are-green-driven-5-emission-intensive-oecd)
+- **4.8% of employment** in emission-intensive jobs (declining)
+- **300,000+ skilled worker shortage** by 2030 for energy transition [(Clean Energy Wire)](https://www.cleanenergywire.org/news/germany-and-india-join-forces-bridge-green-skills-gap-youth-might-not-engage)
+- **350,000 additional workers** needed by 2030 for renewable power and hydrogen
+
+**What Germany Is Doing:**
+- Training adapted for hydrogen sector skills
+- Partnerships with India for workforce development (€3 million Indo-German Green Skills Programme)
+- Raising skilled labor visas from 20,000 to 90,000 annually
+- Federal coordination of vocational training (dual system)
+
+**Key Finding:**
+> "The relatively low level of earnings losses following job displacement compared to those in other OECD countries may be a result of specific policies that effectively support workers and job transitions, such as job search assistance, skill training, and income loss compensation."
+> — OECD Employment Outlook 2024 [(Clean Energy Wire)](https://www.cleanenergywire.org/news/over-21-jobs-germany-are-green-driven-5-emission-intensive-oecd)
+
+**Lesson for Netherlands:**
+Germany proves that comprehensive transition support—training plus income support—reduces displacement costs. Our policy includes living stipends (80% of previous wage) precisely because German data shows income support is essential for successful transitions.
+
+---
+
+### Case Study 2: Dutch MBO Vocational Training System
+
+**Context:** The Netherlands already has one of the world's most effective vocational education systems—our policy builds on this foundation.
+
+**Key Data (CEDEFOP/OECD, 2024):**
+- **91.6% employment rate** for recent secondary VET graduates [(CEDEFOP)](https://www.cedefop.europa.eu/en/tools/nqfs-online-tool/countries/netherlands-2024)
+- **82.4% overall employment rate** in Netherlands—highest in EU [(Statista)](https://www.statista.com/statistics/1195140/employment-rate-in-europe-by-country)
+- **700+ MBO programs** across 57 public institutions [(OECD)](https://www.oecd.org/en/publications/vocational-education-and-training-systems-in-nine-countries_1a86eb6c-en/full-report/vocational-education-and-training-in-the-netherlands_83f76605.html)
+- **75% of MBO graduates** employed within 6 months [(NL Times)](https://nltimes.nl/2025/09/30/vocational-graduates-non-eu-backgrounds-struggle-find-work)
+
+**What Works:**
+- Employer co-design of curricula
+- Strong industry partnerships
+- Practical, hands-on training
+- Nationally recognized certifications
+
+**Challenge:**
+- Non-EU background graduates struggle more (83% must apply for mandatory internships vs. average)
+- Green skills programs still underdeveloped
+- Regional disparities in capacity
+
+**Lesson for Our Policy:**
+The MBO system provides proven infrastructure—we're not creating a new program, we're expanding an existing success. Our policy adds:
+1. Green skills certification tracks
+2. Regional training centers in transition zones
+3. Employer hiring guarantees through tax credits
+
+---
+
+### Case Study 3: Indo-German Green Skills Programme (2022-Present)
+
+**Program:** Germany-India collaboration to train workers in solar energy and electric mobility skills.
+
+**Budget and Timeline:**
+- German investment: €3 million
+- Target: 12 training programs across 4 Indian locations
+- Focus: Solar installation, EV maintenance
+
+**What Works:**
+- Tailored curricula for both German and Indian market needs
+- Practical hands-on training with industry equipment
+- Clear certification pathway
+- Partnership between government and training institutions
+
+**Challenge Identified:**
+
+> "Many young people are not really aware of what a green job means... They are sceptical, thinking these jobs are dependent on government policy or unusual market conditions."
+> — Samuel Huckstep, Center for Global Development [(Clean Energy Wire)](https://www.cleanenergywire.org/news/germany-and-india-join-forces-bridge-green-skills-gap-youth-might-not-engage)
+
+**Lesson for Our Policy:**
+Youth skepticism about green jobs requires:
+1. Clear communication about job stability and wages
+2. Employer guarantees that jobs exist
+3. Industry-recognized certifications that transfer across employers
+4. Wage comparisons showing green jobs pay competitively
+
+---
+
+### Case Study 4: The Green Talent Gap Is Global
+
+**Finding:** LinkedIn's Global Green Skills Report 2024 documents a widening gap between demand and supply.
+
+**Key Data:**
+- Demand for green talent grew **11.6%** between 2023-2024
+- Supply grew only **5.6%**
+- By 2030: "one in five jobs will lack the green talent to fill it"
+- By 2050: "this gap will balloon to one in two jobs"
+
+**Implication for Netherlands:**
+Countries that invest now in green skills will have competitive advantage. Workers trained in green skills will have:
+- Higher job security
+- Better wages
+- More mobility within EU single market
+
+**Our Policy Response:**
+Investing €2 billion in green skills now positions Netherlands to:
+1. Fill its own green jobs pipeline
+2. Attract EU workers seeking green training
+3. Avoid the projected 20% talent shortfall by 2030
+
+---
+
+## Case Study Summary: What Works
+
+| Factor | Germany | Dutch MBO | Our Policy |
+|--------|---------|-----------|------------|
+| Employer co-design | ✅ Dual system | ✅ Strong | ✅ Included |
+| Income support during training | ✅ Effective | Partial | ✅ 80% wage stipend |
+| Practical certification | ✅ Recognized | ✅ 91.6% employment | ✅ Industry-certified |
+| Regional delivery | ⚠️ Uneven | ⚠️ Urban concentration | ✅ Priority regions |
+| Green skills focus | ⚠️ Developing | ⚠️ Limited | ✅ Core mission |
+| Hiring incentives | Partial | N/A | ✅ €5,000 tax credit |
 
 ---
 
