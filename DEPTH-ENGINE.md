@@ -611,6 +611,35 @@ For each new claim, quote, or statistic added:
 
 **Next priority:** Upgrade 2 (Bullet to Prose) for research files in 02-research/ — expand skeletal bullet sections into substantive prose with research-backed content.
 
+### Cycle 2 — 2026-02-17
+**Diagnostics before:** A: 2.5, B: 4.5, C: 4.5, D: 3.0, E: 3.5
+**Upgrade applied:** Upgrade 2 (Expand Bullet Sections into Prose) to fit-for-55.md
+**Research conducted:**
+- Searched for Fit for 55 implementation challenges Netherlands
+- Searched for ETS2 carbon price impact on Dutch households
+- Read Rabobank detailed analysis of ETS2 costs and implementation
+
+**Key research findings:**
+- ETS2 launches 2027 with price cap €45-62/tonne through 2029
+- Expected household cost: €80-100/year for average Dutch home
+- Netherlands can claim €720M from Social Climate Fund
+- Petrol +€0.12/liter, diesel +€0.14/liter at €55 carbon price
+
+**Content transformed:**
+- "Key Legislative Components" section: 13 bullet lists → 9 substantive prose paragraphs
+- Added expert analysis: Rabobank ETS2 cost calculations with specific numbers
+- Added contextual explanations connecting each Fit for 55 component to Dutch policy
+- Integrated source links within prose (Rabobank, EU sources)
+- Connected Fit for 55 components to our three policies explicitly
+
+**Diagnostics after:** A: 3.5, B: 4.5, C: 4.5, D: 3.5, E: 3.5
+**Remaining weaknesses:**
+- Diagnostic A (Bullet Test): Other research files still have bullet-heavy sections
+- Diagnostic D (Expert Voices): Some research files need more direct quotes
+- Diagnostic E (Comparative Depth): International comparisons could be deeper
+
+**Next priority:** Continue Upgrade 2 for other high-bullet research files (current-government-position.md, hydrogen-economy.md) or proceed to Upgrade 4 (Expert Quotes) if prose expansion is sufficient.
+
 ### Cycle 0 — 2026-02-17 (Baseline)
 **Diagnostics before:** Not yet assessed
 **Action:** Baseline assessment of all diagnostics

@@ -93,6 +93,10 @@ ENGINE-FACTORY.md    (operational: creates/manages engines)
 *-ENGINE.md files    (tactical: improves specific domains)
   ↓ modifies
 content files        (scripts, policies, brochure, Q&A, etc.)
+
+STATE-ENGINE.md      (meta-tactical: audits state, routes actions)
+  ↓ reads/updates
+ENGINE-FACTORY.md + META.md + all *-ENGINE.md files
 ```
 
 **Engine dependency order:**
