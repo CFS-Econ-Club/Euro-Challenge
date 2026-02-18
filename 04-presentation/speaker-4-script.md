@@ -9,13 +9,11 @@
 
 ### [SLIDE 16 - Our Three Policies] [0:00-0:30]
 
-"Based on this analysis, we recommend three interconnected policies totaling €17 billion over 5-7 years.
+"You've now heard the three bottlenecks: a grid that can't connect clean energy, a nitrogen crisis that blocks construction, and a workforce gap that slows everything down.
 
-Each policy addresses a specific bottleneck:
+We didn't start with policies and look for problems. We started with bottlenecks and designed a key for each lock.
 
-1. **Grid Modernization** (€10B): Fix the grid bottleneck
-2. **Agricultural Transition** (€5B): Address nitrogen and emissions
-3. **Green Skills** (€2B): Build the workforce for the transition
+Three policies. €17 billion. Each one targets a specific constraint:
 
 [PAUSE]
 
@@ -60,13 +58,13 @@ This addresses the jobs question: the transition creates as many jobs as it chan
 
 **[SLIDE 20 - Synergies] [3:00-3:30]**
 
-"These policies work together:
+"**A farmer in Gelderland, a grid worker in Groningen, a solar installer in Rotterdam—our three policies connect their futures.**
 
-Grid expansion enables farm solar (Policy 2). Grid construction needs the workforce we train (Policy 3). Agricultural workers transition to green jobs (Policy 3). Combined impact is 40% greater than the sum.
+Grid expansion enables farm solar. Grid construction needs the workforce we train. Agricultural workers transition to green jobs. These policies are not three separate programs—they're three parts of one system.
 
 [TRANSITION TO SPEAKER 5]
 
-Now let me hand to my colleague to explain why the euro makes this possible."
+We've shown you what we propose and how the pieces fit together. But there's one more question: could the Netherlands do this alone? My colleague will explain why the answer is no—and why that's actually good news for our policy."
 
 ---
 

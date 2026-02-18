@@ -11,11 +11,15 @@
 
 ### [SLIDE 1 - Title Slide] [0:00-0:30]
 
-"Good morning/afternoon, and thank you for the opportunity to present our research on Climate Change and Going Green in the Netherlands.
+[EYE CONTACT]
 
-Our team has spent months researching one central question: How can the Netherlands achieve its climate goals while maintaining economic strength within the euro area?
+"Imagine a country where 26 percent of the land lies below sea level—where climate change isn't a future threat, but a daily calculation in water management.
 
-Today, we'll show you that the answer lies in three interconnected policies totaling €17 billion—policies that are possible because of the euro, not despite it."
+[PAUSE]
+
+That country is the Netherlands. And today, we'll show you how the euro makes our climate response not just possible, but affordable.
+
+Our team has spent months researching one question: How can the Netherlands meet its legally binding climate targets while maintaining economic strength? [SLOW DOWN] The answer is three interconnected policies totaling €17 billion—designed specifically for the bottlenecks holding us back."
 
 **[PAUSE - Transition to Speaker 1]**
 
@@ -25,17 +29,19 @@ Today, we'll show you that the answer lies in three interconnected policies tota
 
 "Let's begin with the euro area economy—the economic foundation we operate on.
 
-As you can see, the euro area has shown remarkable resilience since the COVID-19 pandemic. After the 6.1% contraction in 2020, we saw strong recovery in 2021 with 5.3% growth, followed by 3.4% in 2022.
+As you can see, the euro area has shown remarkable resilience since the COVID-19 pandemic. [SPEED UP] After the 6.1% contraction in 2020, we saw strong recovery in 2021 with 5.3% growth, followed by 3.4% in 2022.
 
 [PAUSE for emphasis]
 
-2023 was a challenging year—only 0.4% growth as the energy crisis took hold. But 2024 showed recovery with 0.9% growth, and 2025 came in stronger at 1.5%.
+2023 was a challenging year—only 0.4% growth as the energy crisis took hold. But 2024 showed recovery with 0.9% growth, and 2025 came in stronger at [SLOW DOWN] 1.5%.
+
+[EYE CONTACT]
 
 **Key takeaway:** The euro area economy is growing steadily. We have the fiscal and economic capacity to invest in climate action."
 
 **[SLIDE 4 - Unemployment] [1:15-1:45]**
 
-"Perhaps the most remarkable story is unemployment. The euro area unemployment rate stands at just 6.2%—near historic lows.
+"Perhaps the most remarkable story is unemployment. [DROP VOLUME] The euro area unemployment rate stands at just 6.2%—near historic lows.
 
 Compare this to the 12% peak during the 2013 crisis. The European labor market has proven remarkably flexible.
 
@@ -45,11 +51,13 @@ For our climate policies, this tight labor market is actually important: it mean
 
 "Inflation has been the dominant economic story. We all remember the 10.6% peak in October 2022—the highest in euro history.
 
-But look at the trajectory since: disinflation has been dramatic. Inflation now stands at just 2.0%—exactly at the ECB's 2% target.
+But look at the trajectory since: disinflation has been dramatic. [SLOW DOWN] Inflation now stands at just 2.0%—exactly at the ECB's 2% target.
 
 [PAUSE for emphasis]
 
 Why does this matter for climate? Lower inflation means the ECB can shift from fighting inflation to supporting growth. And crucially, we've achieved this disinflation **without** a recession—the famous 'soft landing.'
+
+[EYE CONTACT]
 
 **Our policies are being designed in an environment of price stability—not in a crisis.**
 
@@ -57,7 +65,7 @@ Why does this matter for climate? Lower inflation means the ECB can shift from f
 
 "The European Central Bank has been pivotal in this recovery. After the most aggressive tightening cycle in ECB history—rates from -0.5% to 4%—the ECB has been cutting rates.
 
-The current deposit facility rate stands at 2.00%, down significantly from the 4% peak in September 2023.
+The current deposit facility rate stands at [SLOW DOWN] 2.00%, down significantly from the 4% peak in September 2023.
 
 For our policies, this matters: lower rates mean cheaper borrowing for our €17 billion investment. Green bonds benefit from ECB support for sustainable finance. And the stability the ECB provides creates the certainty investors need for long-term climate infrastructure."
 
@@ -65,16 +73,25 @@ For our policies, this matters: lower rates mean cheaper borrowing for our €17
 
 "So, what is the euro area context for our recommendations?
 
+[SPEED UP]
 1. **Growing economy:** 1.5% growth in 2025
 2. **Tight labor market:** Near-record low unemployment at 6.2%
 3. **Stable prices:** Inflation at 2% target
 4. **Supportive monetary policy:** ECB rates at 2.00%
 
-This is the foundation on which we build our climate recommendations. The Netherlands doesn't face an economic crisis—it faces an opportunity to invest in our future.
+This is the foundation on which we build our climate recommendations.
+
+[DROP VOLUME]
+
+**The euro area doesn't give us permission to act—it gives us the capacity to act.**
+
+[EYE CONTACT]
+
+The Netherlands doesn't face an economic crisis. It faces a rare window where the macroeconomics align with the climate urgency.
 
 [TRANSITION TO SPEAKER 2]
 
-Now, let me hand to my teammate to explain how the Netherlands fits into this picture."
+We've established the euro area has the capacity to act. But capacity alone doesn't guarantee action—you also need the right conditions at the national level. Let me hand to my colleague to show you why the Netherlands is both uniquely ready and uniquely constrained."
 
 ---
 

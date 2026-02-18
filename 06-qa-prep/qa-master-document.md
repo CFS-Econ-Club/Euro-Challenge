@@ -416,3 +416,99 @@ This document contains a comprehensive set of questions judges may ask, organize
 - Don't let one person answer everything
 - Don't go over 90 seconds
 - Don't get defensive
+
+---
+
+## Follow-Up Chains (Tier 1 Questions)
+
+*Added QA-ENGINE Cycle 1 — 2026-02-17*
+
+These follow-up chains prepare for persistent judges who ask 2-3 follow-up questions.
+
+### FC1: "Why €17 billion?" (Category D Q1)
+
+**Tier:** 1 (Highest priority — core policy justification)
+
+**Primary Answer:** "Our €17 billion is based on: €10B for grid modernization (based on TenneT's €30B investment plan), €5B for agricultural transition (based on land values and technology costs from pilot programs), and €2B for skills training (based on MBO costs and employer tax credits)."
+
+**Likely Follow-Up 1:** "But €17 billion is a lot of money. How does the Netherlands afford this given other priorities like housing and healthcare?"
+
+**Follow-Up Response 1:** "Two points: First, €17 billion over 5-7 years is €2.8 billion annually—just 0.25% of GDP and well within our fiscal space. Second, this isn't competing with housing; our agricultural transition reduces nitrogen pressure that's currently blocking 40,000+ housing permits. We're unlocking housing construction, not taking money from it."
+
+**Likely Follow-Up 2:** "What if your cost estimates are wrong? Infrastructure projects often run over budget."
+
+**Follow-Up Response 2:** "You're right to be skeptical. We've built in a 15% contingency buffer. More importantly, we're not starting from scratch—we're scaling proven approaches. Germany's grid expansion program and Denmark's agricultural transition give us real cost data, not theoretical projections."
+
+**Exit Bridge:** "And the cost of inaction is far higher—grid congestion alone costs Dutch businesses €2-3 billion annually in delayed connections and curtailment."
+
+---
+
+### FC2: "How do your three policies work together?" (Category D Q3)
+
+**Tier:** 1 (Core interconnection question)
+
+**Primary Answer:** "They create synergies: grid modernization enables farm solar, grid construction requires the workforce we train, and agricultural transition provides workers for grid and renewable installation."
+
+**Likely Follow-Up 1:** "You mention synergies, but what's the concrete evidence they exist? How do you know the combined impact is greater?"
+
+**Follow-Up Response 1:** "Let me give you a specific example. A farmer in our program who chooses Pathway C—installing solar and wind—needs two things: a grid connection (Policy 1) and technicians to install the equipment (Policy 3). Without either, the transition doesn't happen. With both, one farmer generates clean energy, reduces nitrogen, and creates local jobs. That's not addition—that's multiplication."
+
+**Likely Follow-Up 2:** "What if one policy fails? Does the whole system collapse?"
+
+**Follow-Up Response 2:** "They're complementary, not dependent. If the skills program underperforms, the grid still gets built—just with imported labor. If agricultural transition is slower than projected, grid modernization still enables industrial and urban renewables. Each policy has standalone value; together they're transformative."
+
+**Exit Bridge:** "And that's why we designed them as a package—each addresses a different bottleneck, and bottlenecks reinforce each other. Breaking one helps. Breaking all three unlocks systemic change."
+
+---
+
+### FC3: "How would your recommendations differ without the euro?" (Category E Q2)
+
+**Tier:** 1 (Core euro implications question)
+
+**Primary Answer:** "Without the euro, the Netherlands would face higher borrowing costs, currency risk for green imports, and no access to EU funding mechanisms like the Just Transition Fund."
+
+**Likely Follow-Up 1:** "But the Netherlands had the guilder for centuries and did fine. Why is the euro essential now?"
+
+**Follow-Up Response 1:** "Two reasons. First, the scale of this investment—€17 billion—is only affordable because Dutch 10-year bond yields are 2.2%, not the 4-5% a standalone small economy would pay. That's €3-4 billion in saved interest over the program lifetime. Second, green technology supply chains are global and priced in euros and dollars. Currency volatility would make long-term planning nearly impossible."
+
+**Likely Follow-Up 2:** "What about countries outside the euro that are succeeding on climate—like the UK or Denmark?"
+
+**Follow-Up Response 2:** "Excellent examples, and both face constraints we avoid. The UK's green investment has been hampered by gilt yield spikes and currency volatility. Denmark benefits from deep Nordic power market integration but pays higher borrowing costs than we do. The euro gives us Danish-level market integration with German-level borrowing costs—that's our unique advantage."
+
+**Exit Bridge:** "The question isn't whether climate action is possible without the euro—it's whether it's optimal. And for a small open economy making a generational investment, the euro is clearly optimal."
+
+---
+
+### FC4: "How does ECB monetary policy affect green investment?" (Category A Q5)
+
+**Tier:** 1 (Euro-policy connection)
+
+**Primary Answer:** "Lower rates reduce borrowing costs for green infrastructure projects. The ECB also favors green bonds in its operations, creating a 'green supporting factor.'"
+
+**Likely Follow-Up 1:** "But the ECB's mandate is price stability, not climate policy. Shouldn't they stay neutral?"
+
+**Follow-Up Response 1:** "You're right about the mandate. The ECB isn't choosing winners—they're treating climate risk as financial risk, which is within their mandate. When the ECB incorporates climate risk into collateral frameworks, they're not being activists; they're being prudent central bankers. A bond from a carbon-intensive company is riskier than a green bond. That's not politics—that's credit analysis."
+
+**Likely Follow-Up 2:** "Couldn't the ECB go further—like refusing to buy bonds from polluting companies?"
+
+**Follow-Up Response 2:** "That's debated within the ECB. The current approach is tilted but not exclusionary—they favor green bonds without banning brown ones. This is pragmatic: an abrupt shift could destabilize markets and trigger legal challenges. The gradual tilt creates incentives without shocks."
+
+**Exit Bridge:** "And for the Netherlands, this means our €10 billion grid investment is exactly the kind of project the ECB wants to see in the system—not through subsidy, but through preferential treatment in monetary operations."
+
+---
+
+### FC5: "What if farmers don't voluntarily participate?" (Category D Q4)
+
+**Tier:** 1 (Policy risk question)
+
+**Primary Answer:** "Our approach is designed around willingness—we offer generous terms (120% of market value for buyouts). Evidence from pilot programs shows 60%+ farmer interest with these terms."
+
+**Likely Follow-Up 1:** "60% sounds optimistic given the protests we've seen. Dutch farmers have been very resistant to any nitrogen policy."
+
+**Follow-Up Response 1:** "The protests were about mandatory approaches with low compensation. Our program is fundamentally different: voluntary participation, 120% of market value, and multiple pathways—not just 'stop farming.' Farmers can choose to modernize, diversify, or transition out. The 60% figure comes from pilot programs that tested exactly this approach."
+
+**Likely Follow-Up 2:** "What if even with generous terms, participation is only 30-40%? Does the policy fail?"
+
+**Follow-Up Response 2:** "No policy succeeds if measured by unrealistic targets. At 40% participation, we still achieve significant nitrogen reduction—enough to meet EU targets. We also create a demonstration effect: successful early adopters show neighbors that transition is possible. And the nitrogen crisis isn't going away—if anything, court rulings will make voluntary programs look more attractive over time."
+
+**Exit Bridge:** "The real question is: what's the alternative? Mandatory approaches have triggered political chaos. Our voluntary approach with real incentives is the only path that respects farmers while meeting environmental requirements."
