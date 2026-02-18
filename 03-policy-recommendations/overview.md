@@ -34,13 +34,13 @@ We selected these policies based on four criteria:
 ### Our Analysis
 
 **The Grid Bottleneck:**
-- Grid congestion blocks 75%+ of renewable connection requests
+- Over 14,000 projects (9 GW) on grid waiting lists
 - €10-15 billion in investment needed by 2030
 - Current pace insufficient to meet renewable targets
 - This is our highest-impact intervention
 
 **The Nitrogen Crisis:**
-- Agriculture accounts for ~15% of Dutch emissions
+- Agriculture accounts for ~13% of Dutch emissions (RIVM 2024)
 - Nitrogen deposition destroying Natura 2000 sites
 - Construction halted, housing crisis worsened
 - Voluntary approach + financial support = feasible
@@ -55,7 +55,7 @@ We selected these policies based on four criteria:
 
 We considered but did not recommend:
 
-- **Higher Carbon Tax:** Already exists (Dutch carbon tax at €125-150/tonne)
+- **Higher Carbon Tax:** Already exists (Dutch carbon tax at €78.67-87.90/tonne, plus EU ETS ~€65-70/tonne)
 - **Nuclear New Build:** Too slow (10-15 years), too expensive
 - **ICE Ban Acceleration:** Already 2035 under EU rules
 - **Building Renovation Mandate:** Too politically contentious now

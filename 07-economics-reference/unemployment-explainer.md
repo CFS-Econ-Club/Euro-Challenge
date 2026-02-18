@@ -90,7 +90,7 @@ This shows what share of working-age population is in labor force.
 - Current: Near historic lows
 
 **Key feature:** Uneven across countries
-- Netherlands: ~3.7% (very low)
+- Netherlands: 4.0% (low, rising from 3.7% in early 2025)
 - Spain: ~11% (high)
 - Germany: ~3-4%
 
@@ -98,7 +98,7 @@ This shows what share of working-age population is in labor force.
 
 ## Netherlands Unemployment
 
-**Current rate:** ~3.7%
+**Current rate:** 4.0% (Dec 2025, CBS ✅)
 
 **Key characteristics:**
 - Among lowest in euro area

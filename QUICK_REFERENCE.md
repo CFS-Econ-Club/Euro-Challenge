@@ -3,28 +3,28 @@
 ## The 25 Numbers to Memorize
 
 ### Euro Area Economy
-- GDP Growth 2024: ~1%
-- GDP Growth 2025: 1.3-1.5%
-- Unemployment: 6.4%
-- Inflation: ~2.4%
-- ECB Rate: 2.5%
+- GDP Growth 2024: 0.9%
+- GDP Growth 2025: 1.5%
+- Unemployment: 6.2%
+- Inflation: 2.0%
+- ECB Rate: 2.00%
 - Public Debt: 88% GDP
 
 ### Netherlands Economy
-- GDP: €1.1 trillion
-- Growth 2024: 1.0%
-- Growth 2025: 1.7%
-- Unemployment: 3.7%
+- GDP: €1.2 trillion
+- Growth 2024: 1.1%
+- Growth 2025: 1.9%
+- Unemployment: 4.0%
 - Inflation: ~3.3%
-- Public Debt: 45% GDP
+- Public Debt: 43% GDP
 - Current Account: 9% surplus
 
 ### Climate
-- Emissions: 165 Mton/year
-- Per Capita: 9 tonnes
-- Target 2030: 55% reduction
-- EU ETS: €60-75/tonne
-- Dutch Carbon Tax: €125-150/tonne
+- Emissions: 143 Mton/year (2023)
+- Per Capita: ~8 tonnes
+- Target 2030: 55% reduction (103 Mton)
+- EU ETS: ~€70/tonne
+- Dutch Carbon Tax: €78.67-87.90/tonne
 - Below Sea Level: 26%
 
 ### Our Policies

@@ -8,15 +8,13 @@ The Netherlands is the world's second-largest agricultural exporter by value, a 
 
 ## Key Data Points
 
-- **Agricultural Exports:** ~€120 billion annually [VERIFY]
+- **Agricultural Exports:** €137.5 billion (2025), €128.9 billion (2024) ✅ (CBS/WUR, Jan 2026)
 - **World Ranking:** #2 agricultural exporter (after US)
 - **Agricultural GDP Share:** ~2% (but supports larger value chain)
 - **Employment:** ~250,000 direct farm workers
 - **Livestock Units:** ~4 million cattle, ~12 million pigs, ~100 million poultry
-- **Nitrogen Emissions:** Agriculture contributes ~40% of total Netherlands emissions
+- **Nitrogen Emissions:** Agriculture contributes ~40% of total Netherlands nitrogen emissions
 - **Natura 2000 Sites:** ~50% affected by nitrogen deposition from agriculture
-
-*[VERIFY - All figures should be updated with latest CBS/Agricultural Census data]*
 
 ---
 
@@ -150,7 +148,7 @@ Agriculture is central to our presentation:
 
 ## Sources
 
-- CBS Netherlands Agricultural Statistics: https://www.cbs.nl/en-gb
+- CBS/WUR Agricultural Exports 2025: https://www.cbs.nl/en-gb/news/2026/03/value-of-agricultural-exports-up-by-over-8-percent-in-2025 (Accessed 2026-02-17)
 - Wageningen University: https://www.wur.nl
 - Dutch Ministry of Agriculture: https://www.rijksoverheid.nl/ministeries/ministerie-van-landbouw-natuur-en-voedselkwaliteit
 - PBL Netherlands: https://www.pbl.nl/en
@@ -171,5 +169,3 @@ Agriculture is central to our presentation:
 **Circular Agriculture:** Minimizing waste and maximizing resource efficiency through recycling nutrients, water, and materials within the agricultural system.
 
 **Alternative Proteins:** Plant-based, insect-based, or cultured meat alternatives to traditional animal protein.
-
-*[VERIFY - Update all figures with latest CBS data before competition]*

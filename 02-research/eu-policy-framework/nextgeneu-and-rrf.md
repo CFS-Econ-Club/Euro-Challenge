@@ -8,13 +8,14 @@ NextGenerationEU is the EU's landmark €806.9 billion recovery instrument estab
 
 ## Key Data Points
 
-- **NextGenerationEU Total:** €806.9 billion
-- **RRF Size:** €723.8 billion (€338 billion grants + €385.8 billion loans)
-- **Netherlands RRF Allocation:** €4.7 billion in grants [VERIFY]
-- **Climate Requirement:** Minimum 37% of each national plan
-- **Green Projects in NL Plan:** ~€1.8 billion (38% of total) [VERIFY]
-- **Disbursement Status:** Most funds disbursed; some milestones pending [VERIFY]
-- **REPowerEU Addition:** €20 billion additional grants for energy independence
+- **NextGenerationEU Total:** €806.9 billion ✅
+- **RRF Size:** €723.8 billion (€338 billion grants + €385.8 billion loans) ✅
+- **Netherlands RRF Allocation:** €5.4 billion total (€4.7B RRF + €734M REPowerEU) ✅ (European Parliament, Jun 2024)
+- **Climate Requirement:** Minimum 37% of each national plan ✅
+- **Green Projects in NL Plan:** 54.9% of total (exceeds 37% target by 17.9%) ✅
+- **Digital Projects in NL Plan:** 25.6% of total ✅
+- **Disbursement Status:** First payment €1.33B requested May 2024; ongoing ✅
+- **REPowerEU Addition:** €734.4 million for Netherlands ✅
 - **Timeline:** Funds available through 2026
 
 ---
@@ -90,9 +91,9 @@ NextGenerationEU was created in 2020-2021 as Europe's response to the COVID-19 e
 ### The Netherlands' Recovery and Resilience Plan
 
 **Structure:**
-- Total allocation: €4.7 billion in grants
+- Total allocation: €5.4 billion in grants (€4.7B RRF + €734M REPowerEU)
 - Six pillars including green transition
-- 37% climate requirement exceeded at 38%
+- 37% climate requirement exceeded at 54.9%
 
 **Climate Investments:**
 - Energy efficiency in buildings
@@ -108,9 +109,9 @@ NextGenerationEU was created in 2020-2021 as Europe's response to the COVID-19 e
 - Public administration modernization
 
 **Implementation Status:**
-- Several disbursements received
-- Some milestones revised due to coalition changes
-- Final payments pending completion [VERIFY]
+- First payment request: €1.33 billion (May 2024)
+- Netherlands among last 3 member states to receive first payment
+- Final payments pending completion
 
 ### REPowerEU Chapter
 
@@ -178,7 +179,7 @@ The RRF demonstrates euro area fiscal enablers:
 
 2. **Climate Focus:** 37% mandatory climate spending = direct climate financing.
 
-3. **Access for Netherlands:** €4.7 billion in grants for Dutch green transition.
+3. **Access for Netherlands:** €5.4 billion in grants for Dutch green transition.
 
 4. **Euro Argument:** Only possible through joint borrowing—directly illustrates euro benefits.
 
@@ -187,7 +188,7 @@ The RRF demonstrates euro area fiscal enablers:
 ## Key Quotes / Talking Points
 
 - "NextGenerationEU is Europe's Marshall Plan for the 21st century—€800 billion in collective investment that no single EU country could have financed alone."
-- "The Netherlands received €4.7 billion in grants from the Recovery and Resilience Facility, with 38% going to climate projects—a direct benefit of EU membership and euro area solidarity."
+- "The Netherlands received €5.4 billion in grants from the Recovery and Resilience Facility (including REPowerEU), with 54.9% going to climate projects—one of the most ambitious green allocations in the EU."
 - "Every euro of RRF funding came with reform requirements—creating leverage for green transition that national budgets alone couldn't achieve."
 - "The euro made this possible: EU borrowing at near-zero interest rates, with the full fiscal capacity of 20 countries behind the debt. A small country like the Netherlands could never have mobilized €800 billion alone."
 
@@ -209,4 +210,4 @@ The RRF demonstrates euro area fiscal enablers:
 
 ---
 
-*[VERIFY - Netherlands disbursement status and remaining milestones]*
+*Verified 2026-02-17: Netherlands RRF allocation €5.4B (€4.7B RRF + €734M REPowerEU) from European Parliament Think Tank. Green spending 54.9%.*

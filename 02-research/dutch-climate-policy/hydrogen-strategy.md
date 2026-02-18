@@ -8,12 +8,10 @@ The Netherlands has positioned itself as Europe's leading hydrogen hub through i
 
 ## Key Data Points
 
-- **2030 Electrolyzer Target:** 3-4 GW
-- **2025 Target:** 500 MW (initial) [VERIFY]
-- **Current Capacity:** <100 MW operational [VERIFY]
-- **Port of Rotterdam Hydrogen Imports:** Planned 20+ GW by 2030 [VERIFY]
-- **Pipeline Investment (HyNetwork):** €1.5+ billion [VERIFY]
-- **Industrial Demand (Rotterdam):** 10+ GW by 2030 [VERIFY]
+- **2030 Electrolyzer Target:** 3-4 GW ✅ (EU Commission, Jul 2024; IEA, Sep 2025)
+- **2025 Target:** 500 MW ✅ (EU Commission, Jul 2024; GH2.org)
+- **Extended Target (2032):** Up to 8 GW electrolyzer capacity ✅ (Argus Media)
+- **EU State Aid Approved:** €2.1 billion for green hydrogen production ✅ (Industrial Info, 2024)
 - **North Sea Wind-to-Hydrogen:** Multiple projects planned
 
 ---
@@ -34,8 +32,9 @@ The Netherlands has positioned itself as Europe's leading hydrogen hub through i
 - Build workforce for hydrogen economy
 
 **Production Targets:**
-- 500 MW by 2025 [VERIFY]
-- 3-4 GW by 2030 [VERIFY]
+- 500 MW by 2025 ✅ (EU Commission approved, Jul 2024)
+- 3-4 GW by 2030 ✅ (National Hydrogen Strategy, IEA Sep 2025)
+- Up to 8 GW by 2032 ✅ (Argus Media, climate minister Rob Jetten)
 - Priority for green hydrogen (renewable-based)
 
 ### Port of Rotterdam as Hydrogen Hub

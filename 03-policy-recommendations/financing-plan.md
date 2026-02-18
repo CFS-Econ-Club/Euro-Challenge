@@ -21,16 +21,16 @@ This document details how our €17 billion policy package is financed through m
 
 | Source | Policy 1 | Policy 2 | Policy 3 | Total |
 |--------|----------|----------|----------|-------|
-| Klimaatfonds | €6.0B | €2.0B | €1.0B | €9.0B |
+| Klimaatfonds | €6.0B | €2.0B | €0.5B | €8.5B |
 | RRF (reallocated) | €0.5B | - | €1.0B | €1.5B |
-| Just Transition Fund | - | - | €0.2B | €0.2B |
+| Just Transition Fund | - | - | €0.6B | €0.6B |
 | CAP Eco-Schemes | - | €1.0B | - | €1.0B |
 | EU ETS Revenues | - | €1.0B | - | €1.0B |
 | Sovereign Green Bonds | €2.5B | - | - | €2.5B |
 | ESF+ | - | - | €0.3B | €0.3B |
 | National Budget | - | €1.0B | - | €1.0B |
 | Private Co-Investment | €1.0B | - | - | €1.0B |
-| **Total** | **€10.0B** | **€5.0B** | **€2.5B** | **€17.5B** |
+| **Total** | **€10.0B** | **€5.0B** | **€2.4B** | **€17.4B** |
 
 ---
 
@@ -60,8 +60,8 @@ This document details how our €17 billion policy package is financed through m
 ### 2. Recovery and Resilience Facility (€1.5 billion)
 
 **Background:**
-- Netherlands received €4.7 billion in RRF grants
-- ~€3+ billion already disbursed
+- Netherlands received €5.4 billion total (€4.7B RRF + €734M REPowerEU) ✅
+- 54.9% allocated to green investments (exceeds 37% requirement)
 - Remaining funds available through 2026
 
 **Our Allocation:**
@@ -75,18 +75,20 @@ This document details how our €17 billion policy package is financed through m
 
 ---
 
-### 3. Just Transition Fund (€0.2 billion)
+### 3. Just Transition Fund (€0.6 billion)
 
 **Background:**
-- Netherlands allocation: ~€175 million
-- Target: Groningen and affected regions
+- Netherlands allocation: €623 million ✅ (European Commission, 2022)
+- Target regions: Groningen, IJmond, Groot-Rijnmond, Zeeland, West-Noord-Brabant, Zuid-Limburg
+- Six regions with significant fossil fuel industry dependence
 
 **Our Allocation:**
-- Green Skills regional programs: €0.2 billion
+- Green Skills regional programs: €0.6 billion
 
 **Feasibility:**
 - Directly aligns with JTF purpose
 - Workforce retraining is core JTF activity
+- Covers all transition regions in our Policy 3 scope
 
 ---
 

@@ -8,12 +8,12 @@ SDE++ is the Netherlands' flagship subsidy program for renewable energy and CO2 
 
 ## Key Data Points
 
-- **Annual Budget (2024):** €5+ billion [VERIFY]
-- **Cumulative Spending:** €30+ billion since 2008 [VERIFY]
-- **Renewable Capacity Enabled:** 20+ GW (combined solar, wind, geothermal) [VERIFY]
-- **CO2 Reduction Enabled:** 20+ Mton annually [VERIFY]
+- **Annual Budget (2024):** €11.5 billion available ✅ (IEA Netherlands 2024, RVO)
+- **2024 Results:** 640 projects approved, €10.5 billion in claims submitted ✅ (Aramis CCS, Sep 2025)
+- **2024 Capacity Awarded:** 2.08 GW total (1.8 GW solar PV) ✅ (Taiyangnews, Jun 2025)
+- **Unspent Budget:** ~€4.5 billion SDE subsidies remain outstanding ✅ (Biomassa Feiten, Sep 2025)
 - **Scheme Type:** Competitive auction (technology-neutral)
-- **2024 Subsidy Cost:** €60-80/MWh for winning projects [VERIFY]
+- **Future Budget:** Cuts of €1 billion per year from 2026 ✅ (IEA Netherlands 2024)
 
 ---
 

@@ -17,7 +17,7 @@ What makes the Netherlands unique is our combination of economic STRENGTH and sp
 
 [PAUSE]
 
-On the strength side: we're growing faster than the euro area average—1.7% projected for 2025 versus 1.3% for the euro area. Our unemployment is among the lowest in Europe at just 3.7%. And our public debt stands at just 45% of GDP—well below the 60% Maastricht limit."
+On the strength side: we're growing faster than the euro area average—1.9% in 2025 versus 1.5% for the euro area. Our unemployment is among the lowest in Europe at 4.0%. And our public debt stands at just 43% of GDP—well below the 60% Maastricht limit."
 
 **[SLIDE 9 - Economic Strengths] [1:00-1:45]**
 
@@ -49,16 +49,17 @@ In the face of these existential challenges, my colleague will explain the speci
 
 ## Key Data Points
 
-- GDP: €1.1 trillion
-- Population: 17.9 million
-- GDP Growth: 1.7% (2025)
-- Unemployment: 3.7%
-- Public Debt: 45% GDP
-- Below sea level: 26%
+- GDP: €1.2 trillion ✅
+- Population: 17.9 million ✅
+- GDP Growth: 1.9% (2025) ✅
+- Unemployment: 4.0% ✅
+- Public Debt: 43% GDP ✅
+- Below sea level: 26% ✅
 
 ---
 
 ## Sources
 
-- CBS Netherlands
+- CBS Netherlands (verified 2026-02-17)
 - European Commission Netherlands Forecast
+- Eurostat Government Finance Statistics

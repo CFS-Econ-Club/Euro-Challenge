@@ -8,7 +8,7 @@ The Delta Programme (Delta Programme) is the Netherlands' comprehensive national
 
 ## Key Data Points
 
-- **Annual Budget:** €1.5 billion [VERIFY]
+- **Delta Fund (2025):** €1.7 billion total, €0.7 billion for Delta Programme objectives ✅ (Delta Programme 2025 Outlines)
 - **Population Below Sea Level:** 26% (~4.5 million)
 - **Flood-Prone Area:** 60% of country
 - **Dike Length:** 3,500+ km primary water defenses
@@ -90,7 +90,8 @@ The Delta Programme (Delta Programme) is the Netherlands' comprehensive national
 ### Budget and Investment
 
 **Annual Spending:**
-- Approximately €1.5 billion/year
+- Delta Fund 2025: €1.7 billion total ✅
+- €0.7 billion for Delta Programme objectives
 - From national budget
 - Some EU co-funding for specific projects
 
@@ -167,7 +168,7 @@ The Delta Programme demonstrates existential stakes:
 
 ## Sources
 
-- Delta Programme: https://www.deltaplan.nl/english
+- Delta Programme 2025 Outlines: https://english.deltaprogramma.nl/ (Accessed 2026-02-17)
 - Rijkswaterstaat: https://www.rijkswaterstaat.nl/
 - Deltares: https://www.deltares.nl/en/
 
@@ -187,5 +188,3 @@ The Delta Programme demonstrates existential stakes:
 **Room for the River:** Program giving rivers space to flood safely.
 
 **Primary Water Defenses:** Dikes, dunes, and barriers protecting coastal and river areas.
-
-*[VERIFY - Current budget and investment figures]*

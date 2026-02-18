@@ -73,6 +73,26 @@ The presentation must cover all three parts:
 - CBS Netherlands: https://www.cbs.nl/en-gb
 - PBL Netherlands: https://www.pbl.nl/en
 
+## Improvement Frameworks
+
+- **META.md** — Self-improving cognitive architecture. Read this first when asked to improve the repository. It generates its own tasks from principles and evolves with each cycle.
+- **ENGINE-FACTORY.md** — Meta-framework that generates, manages, and retires specialized improvement engines. Run a factory cycle when you suspect a quality domain lacks dedicated improvement infrastructure. Contains the engine genome template, coverage audit, generator protocol, and engine registry.
+- **IMPROVEMENT-ENGINE.md** — Tactical improvement checklist with specific modules (data verification, Q&A expansion, reference library build, etc.). Use this for concrete, predefined tasks.
+- **RHETORIC-ENGINE.md** — Recursive improvement system for substance, style, and persuasion. Focused exclusively on speaker scripts, policy recommendations, brochure, and counterarguments. Use this when data is verified (IMPROVEMENT-ENGINE gates G1/G2/G8 pass) and the repo is at META.md Stage 3+. Covers opening hooks, causal spine, golden sentences, policy argument depth, counterargument architecture, brochure strategy, and performance polish.
+
+**Framework hierarchy:**
+```
+META.md              (strategic: decides what matters)
+  ↓ invokes
+ENGINE-FACTORY.md    (operational: creates/manages engines)
+  ↓ generates
+*-ENGINE.md files    (tactical: improves specific domains)
+  ↓ modifies
+content files        (scripts, policies, brochure, Q&A, etc.)
+```
+
+When asked to improve the repository, start with META.md (it will tell you what to do). If META.md identifies a domain gap with no engine, run ENGINE-FACTORY.md to generate one. Use IMPROVEMENT-ENGINE.md for data and mechanical completeness. Use RHETORIC-ENGINE.md for persuasion quality. Run ENGINE-FACTORY.md periodically to check for missing engines and domain coverage gaps.
+
 ## Working with This Repository
 
 Since this is a document project:

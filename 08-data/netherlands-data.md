@@ -4,10 +4,10 @@
 
 | Indicator | Value | Period | Source | Used In |
 |-----------|-------|--------|--------|---------|
-| GDP (nominal) | ~€1.1 trillion | 2024 | CBS/EC | various |
-| GDP per capita | ~€62,000 | 2024 | CBS | economic-overview |
-| GDP Growth (2024) | ~1.0% | 2024 | EC | speaker-2-script |
-| GDP Growth (2025) | 1.7% | 2025 | EC Forecast | speaker-2-script |
+| GDP (nominal) | ~$1.32 trillion / €1.2 trillion | 2025 | IMF/CBS ✅ | various |
+| GDP per capita | ~$73,000 | 2026 | IMF | economic-overview |
+| GDP Growth (2024) | 1.1% | 2024 | CBS ✅ | speaker-2-script |
+| GDP Growth (2025) | 1.9% | 2025 | CBS ✅ | speaker-2-script |
 | Population | ~17.9 million | 2024 | CBS | various |
 | HDI Rank | 10th | 2023 | UNDP | economic-overview |
 
@@ -16,9 +16,9 @@
 | Indicator | Value | Period | Source | Used In |
 |-----------|-------|--------|--------|---------|
 | Inflation (HICP) | ~3.3% | 2024 | CBS | speaker-2-script |
-| Unemployment | ~3.7% | 2024 | CBS | various |
-| Public Debt | ~45% GDP | 2024 | EC | financing-plan |
-| Government Deficit | ~1-2% GDP | 2024 | EC | financing-plan |
+| Unemployment | 4.0% | Dec 2025 | CBS ✅ | various |
+| Public Debt | ~43% GDP | 2024/25 | Eurostat ✅ | financing-plan |
+| Government Deficit | ~0.9% GDP | 2024 | Destatis ✅ | financing-plan |
 | Current Account | ~9% GDP | 2024 | CBS | various |
 
 ## Trade
@@ -44,10 +44,23 @@
 
 ## Key Takeaways
 
-- Strong economy: 1.7% growth in 2025
-- Very low unemployment: 3.7%
-- Strong fiscal position: 45% debt (well below 60% limit)
+- Strong economy: 1.9% growth in 2025 (better than euro area 1.5%)
+- Low unemployment: 4.0% (still very tight labor market)
+- Strong fiscal position: ~43% debt (well below 60% limit)
 - Large current account surplus: 9% GDP
-- Above-average inflation: 3.3% vs 2.4% euro area
+- Small government deficit: 0.9% GDP (very healthy)
 
 All indicate Netherlands can afford €17B climate investment.
+
+---
+
+## Verification Log
+
+| Date | Statistic | Verified Value | Source |
+|------|-----------|----------------|--------|
+| 2026-02-17 | GDP Growth 2024 | 1.1% | CBS |
+| 2026-02-17 | GDP Growth 2025 | 1.9% | CBS |
+| 2026-02-17 | Unemployment | 4.0% (Dec 2025) | CBS |
+| 2026-02-17 | Public Debt | ~43% GDP | Eurostat |
+| 2026-02-17 | Government Deficit | 0.9% GDP (2024) | Destatis |
+| 2026-02-17 | GDP Nominal | $1.32 trillion | IMF |

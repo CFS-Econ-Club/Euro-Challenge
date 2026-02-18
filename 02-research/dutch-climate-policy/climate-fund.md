@@ -8,14 +8,12 @@ The Dutch Climate Fund (Klimaatfonds) is a €35 billion multi-year fund establi
 
 ## Key Data Points
 
-- **Total Size:** €35 billion (2022-2032)
+- **Total Size:** €35 billion (2022-2032) ✅
 - **Annual Allocation:** Approximately €3-4 billion/year
-- **Grid Infrastructure:** €10+ billion allocated [VERIFY]
-- **Industry Decarbonization:** €7+ billion [VERIFY]
-- **Built Environment:** €5+ billion [VERIFY]
-- **Renewable Energy:** €5+ billion (via SDE++)
-- **Agriculture/Land Use:** €2+ billion [VERIFY]
-- **Current Spending:** ~€3 billion disbursed to date [VERIFY]
+- **Hydrogen Support:** €8 billion allocated ✅ (ActionAid Nederland, 2024)
+- **Budget Cuts (2026+):** €300 million per year planned ✅ (IEA Netherlands 2024)
+- **Battery Storage/Green Hydrogen:** Budget lowered by €1.2 billion ✅ (Loyens & Loeff, Sep 2024)
+- **SDE++ Cuts:** €1 billion per year from 2026 ✅ (IEA Netherlands 2024)
 - **Managing Authority:** Ministry of Economic Affairs and Climate
 
 ---
