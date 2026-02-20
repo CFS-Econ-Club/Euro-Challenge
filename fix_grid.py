@@ -1,0 +1,7 @@
+with open("06-qa-prep/qa-master-document.md", "r", encoding="utf-8") as f:
+    text = f.read()
+
+text = text.replace("Grid modernization", "Grid optimization")
+
+with open("06-qa-prep/qa-master-document.md", "w", encoding="utf-8") as f:
+    f.write(text)
