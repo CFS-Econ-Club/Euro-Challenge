@@ -1,39 +1,42 @@
 # Speaker 5 Script: Euro Implications + Conclusion
 
 ## Time Allocation
-**Total: 2 minutes**
+**Total: 2 minutes 00 seconds**
 
 ---
 
 ## Script
 
-### [SLIDE 21 - Euro Enablers] [0:00-1:00]
+**[SLIDE 19 - Policy 3: The Klimaatkorps & Job Guarantees] [0:00-0:45]**
 
-"So we've shown you what we propose. Now let me answer the question that matters: could the Netherlands do this alone?
+"Thank you. Our third and final policy is **The Klimaatkorps & Sectoral Job Guarantees**, at a cost of €2.5 billion.
 
-The answer is no—at least, not at this scale, and not at this cost. The euro makes our €17 billion package not just possible, but cheaper. Here's how.
+We aren't just handing out generic training stipends and hoping workers find jobs. We are directly connecting displaced workers to guaranteed employment.
 
-First, **funding.** Our package includes €4 billion from EU sources—24% from RRF, Just Transition Fund, and CAP eco-schemes. This money would not exist outside the EU.
+The Klimaatkorps acts as a public hiring agency. Through new 'Transition Accords', we will mandate hiring quotas for major energy developers. If a company wins a giant offshore wind contract, they *must* hire through the Klimaatkorps. Furthermore, we are establishing green tech co-ops specifically designed for former farmers who exit the sector under our second policy.
 
-Second, **green bonds.** The Netherlands has issued over €40 billion in sovereign green bonds since 2019—access to Europe's €500 billion green bond market is only possible because of the euro's depth and liquidity.
+**[SLIDE 20 - Synergies] [0:45-1:00]**
 
-Third, **carbon pricing.** The EU ETS creates the carbon price foundation our policies build upon. Only the EU's 450 million consumers could implement this.
+These policies don't operate in a vacuum. A farmer takes a buyout under Policy 2, joins a green tech co-op under Policy 3, and installs solar enabled by the grid flexibility of Policy 1. Together, this represents an intensely focused **€8.1 billion investment**.
 
-[PAUSE]
+**[SLIDE 21 - Euro Enablers] [1:00-1:30]**
 
-Could we do this without the euro? We would lose €4 billion in funding, pay higher borrowing costs, and lack the carbon pricing foundation. Our ambition would be scaled back significantly."
+Could the Netherlands do this alone? The answer is no. The single currency makes this €8.1 billion package possible and affordable.
 
-**[SLIDE 22 - Conclusion] [1:00-2:00]**
+First, **funding.** Nearly €2.5 billion of our package can be immediately sourced from EU mechanisms like the Recovery and Resilience Facility and the Just Transition Fund.
 
-"Let me close with our core message:
+Second, **European markets.** The Netherlands has issued over €40 billion in sovereign green bonds since 2019. Tapping into Europe's massive, euro-denominated green bond market ensures low borrowing costs for our Klimaatkorps and grid operations.
 
-**We're not asking the Netherlands to spend more. We're asking it to spend smarter—with €4 billion that only exists because we're part of Europe.**
+Third, **market integration.** Our grid flexibility policy, GOPACS, inherently relies on the interconnected European energy market to function effectively.
 
-Our €17 billion investment package addresses three specific bottlenecks—grid congestion, nitrogen emissions, and workforce gaps—using existing funding mechanisms and proven programs.
+**[SLIDE 22 - Conclusion] [1:30-2:00]**
 
-We're not proposing something extra; we're proposing what's necessary to meet legally binding EU targets.
+Let me close with our core message.
 
-The euro provides: €4 billion in funding, green bond market access, and the carbon pricing foundation. These are concrete benefits, not abstractions.
+We aren't proposing a €10 billion physical grid rebuild that will take a decade to finish.
+We are proposing a lean, €8.1 billion package that uses market agility to solve the grid bottleneck *instantly*, incentivizes farmers *voluntarily*, and guarantees jobs *directly*.
+
+We are completely unlocking the Dutch economy's green potential, powered by the market depth and shared funding of the Eurozone.
 
 Thank you for your attention. We welcome your questions."
 
@@ -41,11 +44,11 @@ Thank you for your attention. We welcome your questions."
 
 ## Key Talking Points
 
-1. €4B in EU funding (24% of package)
-2. €40B+ Dutch green bonds issued
-3. €500B+ green bond market
-4. Carbon pricing foundation
-5. "Not extra—necessary"
+- Policy 3 (Klimaatkorps): €2.5B direct public hires, Transition Accords
+- Synergies: Policies 1, 2, and 3 reinforce one another
+- Total Package: €8.1B
+- Euro Enablers: ~€2.5B in EU funding, access to massive green bond market
+- "Not generic stipends—guaranteed employment"
 
 ---
 
@@ -53,4 +56,4 @@ Thank you for your attention. We welcome your questions."
 
 - EU funding documentation
 - Dutch green bond program
-- EU ETS data
+- 03-policy-recommendations/

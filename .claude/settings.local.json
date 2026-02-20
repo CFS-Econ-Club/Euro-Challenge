@@ -21,7 +21,16 @@
       "mcp__jina-mcp-server__parallel_read_url",
       "mcp__sequential-thinking__sequentialthinking",
       "Bash(find /c/Users/user/Documents/Euro-Challenge -type f -exec wc -l {} ;)",
-      "mcp__jina-mcp-server__parallel_search_web"
+      "mcp__jina-mcp-server__parallel_search_web",
+      "Bash(git add ENGINE-FACTORY.md CLAUDE.md CONSISTENCY-ENGINE.md)",
+      "Bash(git commit -m \"Create Consistency Engine to sync updates across the codebase\")",
+      "Bash(dir C:UsersuserAppDataLocalTempclaudeC--Users-user-Documents-Euro-Challengetasks)",
+      "Bash(cat:*)",
+      "Bash(bash .claude_commit.sh)",
+      "Bash(dir C:UsersuserDocumentsEuro-Challenge03-policy-recommendationspolicy-1-grid-modernization.md)",
+      "Bash(ls -la 03-policy-recommendations/policy-1*)",
+      "Bash(git checkout 03-policy-recommendations/policy-1-grid-modernization.md)",
+      "Bash(python update_qa.py)"
     ]
   },
   "enableAllProjectMcpServers": true,
