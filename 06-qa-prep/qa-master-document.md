@@ -391,7 +391,71 @@ This document contains a comprehensive set of questions judges may ask, organize
 
 ---
 
-## Q&A Strategy Notes
+## Nightmare Questions (Adversarial Stress Test)
+
+*These are the 10 hardest possible questions a judge could ask. They attack our core assumptions, force difficult concessions, or highlight severe political constraints.*
+
+### NQ1: "Your €17 billion plan requires fast-tracking permits. But the Dutch courts just halted 14,000 projects because of nitrogen. Aren't you basically asking to ignore the rule of law?"
+**Honest Answer (Concession):** "We cannot and will not ignore court rulings. The Council of State was clear that environmental assessments must be thorough."
+**Pivot & Defense:** "However, that is exactly why Policy 2 (Agricultural Transition) isn't just about farming—it's the legal prerequisite for Policy 1 (Grid Modernization). By buying out high-emitting farms near Natura 2000 sites, we create the legally required 'nitrogen space' to issue permits for grid infrastructure. We aren't bypassing the law; we are funding the only legal pathway to compliance."
+**What we don't know:** "We cannot guarantee the courts will accept every individual permit."
+**Evidence:** The January 2025 court ruling ordered emissions cuts by 2030; our buyout program directly reduces those emissions.
+
+### NQ2: "You claim farmers will volunteer for buyouts at 120% of market value. Given the explosive BBB protests, isn't it naive to assume money alone solves cultural resistance?"
+**Honest Answer (Concession):** "It is somewhat naive to assume money solves everything. Farming is an identity, not just a business, and trust in the government is historically low right now."
+**Pivot & Defense:** "But our policy isn't just buyouts. The 120% offer is accompanied by two other pathways: modernization grants and diversification support. We aren't telling farmers they must stop; we're giving them financial guarantees if they choose to transition. Previous schemes failed because they felt punitive. By making this entirely voluntary and highly lucrative, we only need a fraction of farmers (the ~20% nearing retirement without successors) to participate to meet our targets."
+**What we don't know:** "We don't know exactly what the uptake rate will be in the first year."
+**Evidence:** Pilot programs have shown 60% interest when terms are highly favorable.
+
+### NQ3: "If grid congestion is as bad as you say, your 'green skills' workers will be trained for jobs in an industry that can't actually build anything yet. Aren't you creating unemployment?"
+**Honest Answer (Concession):** "Sequencing is our biggest risk. If we train 50,000 workers and the grid permits are still stalled, we will have created a severe skills mismatch."
+**Pivot & Defense:** "This is why the MBO training programs in Policy 3 are co-designed with employers and include staggered enrollment. More importantly, grid modernization isn't just about laying new high-voltage cables (which takes years to permit). It involves deploying smart meters, battery storage, and local distribution upgrades—activities that can start immediately and are desperate for labor right now."
+**What we don't know:** "We can't perfectly synchronize graduation rates with permit approvals."
+**Evidence:** Current labor shortages in related fields (like solar installation) mean these skills are immediately transferable even if major grid projects are delayed.
+
+### NQ4: "With the Dutch deficit at 1.8%, spending €17 billion on climate might seem fine now. But what happens when the next recession hits and tax revenues crater?"
+**Honest Answer (Concession):** "A severe recession would absolutely strain the budget and push the deficit closer to the 3% EU limit."
+**Pivot & Defense:** "However, infrastructure spending is exactly what you want during a recession. Grid modernization and agricultural buyouts inject capital into the domestic economy. The ECB's current 2.0% rate reflects a stabilizing economy, and our 45% debt-to-GDP ratio gives us massive fiscal space compared to France or Italy. If a recession hits, this €17 billion package functions as an excellent counter-cyclical stimulus."
+**What we don't know:** "We don't forecast a recession, but we acknowledge revenues could decline."
+**Evidence:** The Netherlands' debt is 45% of GDP; the EU limit is 60%. Deficit is 1.8%; the EU limit is 3%.
+
+### NQ5: "You argue the euro provides a massive benefit in borrowing costs. But isn't a single currency inherently flawed for diverse economies adapting to climate change at different speeds?"
+**Honest Answer (Concession):** "Yes, the euro's one-size-fits-all monetary policy is an inherent constraint. A standalone Dutch central bank might set different rates than the ECB currently does."
+**Pivot & Defense:** "But the alternative is worse. The climate transition requires unprecedented capital investment. Without the euro, the Netherlands would face immense currency exchange risks when importing green technology (like Chinese solar panels or German wind turbines). The depth of the euro-denominated financial markets—including the €500B green bond market—lowers our financing costs far more than a tailored monetary policy would benefit us."
+**What we don't know:** "We concede optimal currency area theory suggests the structural design of the euro remains incomplete."
+**Evidence:** The Netherlands has issued over €40 billion in sovereign green bonds at highly favorable rates due to euro market depth.
+
+### NQ6: "Your plan assumes €4 billion in EU funding (RRF, JTF, CAP). What happens if political shifts in Europe lead to significant cuts in these funds post-2026?"
+**Honest Answer (Concession):** "If EU funding is slashed, there is a €4 billion hole in our budget that the Dutch taxpayer would have to fill."
+**Pivot & Defense:** "While political winds shift, the RRF is already legally allocated through 2026. For post-2026 funding like the JTF and CAP, these are treaty-bound mechanisms that require unanimous or qualified majority consent to dramatically alter. Moreover, if EU funding decreases, the necessity of our domestic €17 billion package actually increases. The Dutch fiscal position (45% debt/GDP) means we *can* absorb that cost domestically if forced, though it is not our baseline assumption."
+**What we don't know:** "We cannot predict the outcome of the next EU budget negotiations."
+**Evidence:** Netherlands RRF allocation is €5.4B; JTF is €623M; CAP is ~€900M annually.
+
+### NQ7: "Why are you subsidizing farmers (at 120% value) to stop polluting, instead of simply taxing them or fining them under the 'polluter pays' principle?"
+**Honest Answer (Concession):** "Economically, taxing emissions (the polluter pays principle) is more efficient than subsidizing reduction."
+**Pivot & Defense:** "Politically and legally, however, it is currently impossible in the Netherlands. We are in an emergency state—the courts have halted 14,000 infrastructure projects due to nitrogen. A new agricultural tax would take years to legislate, survive court challenges, and implement, all while the economy remains paralyzed. A voluntary buyout at 120% of market value is a pragmatic, immediate mechanism to unlock the economy *now*. We are paying a premium for speed and legal certainty."
+**What we don't know:** "We acknowledge this sets a difficult precedent for subsidizing compliance."
+**Evidence:** 14,000+ projects stalled; court fines of €10M looming by 2030 for inaction.
+
+### NQ8: "If the grid is the primary bottleneck, why not just build new nuclear plants which require far less complex transmission infrastructure than distributed wind/solar?"
+**Honest Answer (Concession):** "Nuclear energy is highly dense and would significantly reduce the need for dispersed grid infrastructure."
+**Pivot & Defense:** "The problem is time. A new nuclear plant in Europe takes 10 to 15 years to plan, permit, and construct (as seen in France and the UK). The Netherlands has binding climate targets for 2030, and the grid is congested *today*. Our Policy 1 focuses on immediate relief—smart grids, battery storage, and accelerated permitting for renewables—which can be deployed in 2-3 years. If the government pursues nuclear for 2040, a modernized grid will still be required to integrate it."
+**What we don't know:** "We acknowledge nuclear must likely be part of the long-term 2050 net-zero mix."
+**Evidence:** Smart grid/storage deployment takes 2-3 years; traditional transmission 7-10 years; nuclear 10-15+ years.
+
+### NQ9: "Isn't your entire premise flawed? The Netherlands is responsible for less than 0.5% of global emissions. Why spend €17 billion when China and India determine the climate's fate?"
+**Honest Answer (Concession):** "It's true that if Dutch emissions went to zero tomorrow, the global climate trajectory would hardly change."
+**Pivot & Defense:** "But our policy package isn't just about global mitigation—it's about domestic economic survival. The nitrogen crisis is a local, domestic legal constraint paralyzing Dutch construction. Grid congestion is a domestic infrastructure failure hurting Dutch businesses. We aren't spending €17B to single-handedly cool the planet; we're spending it to ensure the Dutch economy can function, attract investment, and avoid punishing EU/court fines in the 21st century."
+**What we don't know:** "We cannot guarantee global emissions will fall fast enough to prevent sea level rise."
+**Evidence:** Grid congestion costs €2-3 billion annually; €10 million court fines for missed nitrogen targets.
+
+### NQ10: "If you had to drop one of your three policies due to budget constraints, which one would it be and why?"
+**Honest Answer (Concession):** "That forces a very difficult trade-off, because the synergies between the three are what make the package effective."
+**Pivot & Defense:** "If forced, we would scale back Policy 3 (Green Skills Training). Policy 1 (Grid Modernization) is non-negotiable because without it, no new energy projects connect. Policy 2 (Agricultural Transition) is non-negotiable because without it, the nitrogen crisis legally blocks the grid construction. If we drop the training program, the transition will be slower and more expensive (due to importing labor), but it remains legally and physically *possible*. Dropping the grid or nitrogen policies makes the transition legally impossible."
+**What we don't know:** "We don't know exactly how severely labor markets would bottleneck without Policy 3."
+**Evidence:** The synergy argument: Grid requires Nitrogen space; Nitrogen space unlocks Grid; Skills accelerate both.
+
+---
 
 ### Answer Structure
 1. **Acknowledge** the question
@@ -512,3 +576,163 @@ These follow-up chains prepare for persistent judges who ask 2-3 follow-up quest
 **Follow-Up Response 2:** "No policy succeeds if measured by unrealistic targets. At 40% participation, we still achieve significant nitrogen reduction—enough to meet EU targets. We also create a demonstration effect: successful early adopters show neighbors that transition is possible. And the nitrogen crisis isn't going away—if anything, court rulings will make voluntary programs look more attractive over time."
 
 **Exit Bridge:** "The real question is: what's the alternative? Mandatory approaches have triggered political chaos. Our voluntary approach with real incentives is the only path that respects farmers while meeting environmental requirements."
+
+---
+
+### FC6: "What is the current GDP growth rate for the euro area?" (Category A Q1)
+
+**Tier:** 1 (Core macro question)
+
+**Primary Answer:** "The euro area is experiencing approximately 1% growth in 2024, with forecasts of 1.3-1.5% for 2025-2026. This reflects a gradual recovery from the energy crisis, supported by easing inflation and ECB rate cuts."
+
+**Likely Follow-Up 1:** "Is 1.5% growth enough to support the massive climate investments required by the Green Deal?"
+**Follow-Up Response 1:** "1.5% growth across the €15 trillion euro area adds over €225 billion to the economy annually. It's solid, sustainable growth. For our €17 billion Dutch package, we don't need double-digit growth; we need exactly this kind of steady expansion to generate tax revenue and investor confidence without triggering inflation."
+
+**Likely Follow-Up 2:** "Why is Europe growing so much slower than the US?"
+**Follow-Up Response 2:** "The US has higher population growth and more expansionary fiscal policy, which drives higher topline growth. However, European growth is arguably more sustainable right now. The US is running huge deficits (6-7% of GDP) during an expansion, while euro area deficits are much lower. We're growing within our means."
+
+**Exit Bridge:** "This macro stability—steady growth without overheating—is the perfect foundation for our climate policies. It ensures our 5-year investment plan won't be derailed by sudden economic shocks."
+
+---
+
+### FC7: "Why is Dutch inflation higher than euro area average?" (Category A Q3)
+
+**Tier:** 1 (Core country-specific macro question)
+
+**Primary Answer:** "Dutch inflation runs about 1 percentage point above euro area average due to several factors: strong domestic wage growth, higher services inflation, and indexation of rents and public sector wages. This reflects a strong domestic economy, not a policy failure."
+
+**Likely Follow-Up 1:** "Doesn't higher inflation make your €17 billion program more expensive in real terms?"
+**Follow-Up Response 1:** "Yes, inflation affects project costs, which is why we built a 15% contingency into our budget. However, inflation also increases nominal tax revenues, reducing the real burden of the debt we issue to fund these policies. The net effect on affordability is largely neutral."
+
+**Likely Follow-Up 2:** "With higher domestic inflation, isn't the ECB's 2% target monetary policy too loose for the Netherlands?"
+**Follow-Up Response 2:** "This is the classic euro area challenge—one monetary policy for 20 countries. Yes, a standalone Dutch central bank might raise rates further. But because we can't do that, we rely on fiscal policy. Our agricultural transition policy actually helps cool inflation by increasing housing supply (which reduces rent pressure) and improving labor mobility through skills training."
+
+**Exit Bridge:** "This highlights why structural policies are so important in a currency union. When you can't use monetary policy to cool specific sectors, you must fix the underlying supply bottlenecks, which is exactly what our three policies do."
+
+---
+
+### FC8: "What is the Groningen gas field situation?" (Category B Q2)
+
+**Tier:** 1 (Core Dutch contextual question)
+
+**Primary Answer:** "Groningen was one of Europe's largest natural gas fields, but extraction caused earthquakes. Production is being phased out entirely by 2024 due to safety concerns. This creates both a challenge (replacing energy supply) and opportunity (accelerating renewables)."
+
+**Likely Follow-Up 1:** "If you're shutting down domestic gas and facing grid congestion for renewables, aren't you risking an energy crisis?"
+**Follow-Up Response 1:** "It's a tight transition, but we're managing it. We've rapidly expanded LNG import capacity to replace Groningen gas in the short term. However, you're exactly right that the grid congestion makes the transition to renewables harder. That's why our Policy 1 (Grid Modernization) is an emergency priority—we have to build the pipes for green electrons as we shut off the pipes for domestic gas."
+
+**Likely Follow-Up 2:** "Doesn't shutting down profitable gas fields hurt the Dutch fiscal position?"
+**Follow-Up Response 2:** "Historically, natural gas revenues (the 'aardgasbaten') were significant. But they've been declining for a decade. The Dutch state has already adapted to this reality, maintaining a debt-to-GDP ratio of just 45% despite falling gas revenues. The fiscal impact is already priced in."
+
+**Exit Bridge:** "Groningen proves that the fossil fuel era in the Netherlands is officially ending. The question isn't whether we transition, but how fast we can build the new system—and our policies accelerate exactly that."
+
+---
+
+### FC9: "How does the nitrogen crisis affect the Dutch economy?" (Category B Q4)
+
+**Tier:** 1 (Core Dutch climate crisis question)
+
+**Primary Answer:** "The nitrogen crisis has had significant economic impact: construction projects are halted due to nitrogen deposition, worsening the housing shortage. Farms near Natura 2000 sites face restrictions. The crisis demonstrates how environmental constraints directly affect economic activity."
+
+**Likely Follow-Up 1:** "Why is nitrogen such a huge issue in the Netherlands but not in neighboring countries?"
+**Follow-Up Response 1:** "It's a density problem. We have incredibly intensive agriculture (100 million livestock in a tiny country), extensive industry, and dense transport networks, all packed around 162 protected Natura 2000 nature reserves. When you have high emissions right next to protected areas, you hit the legal limits that larger countries can spread out."
+
+**Likely Follow-Up 2:** "But if EU nitrogen limits are causing economic stagnation, shouldn't you try to change the EU rules?"
+**Follow-Up Response 2:** "Changing the EU Habitats Directive requires unanimous consent from 27 member states, which is politically impossible. More importantly, the rules protect genuine biodiversity decline. Ignoring the rules hasn't worked—it just led to court rulings that paralyzed the economy. The only viable path forward is actually reducing emissions, which our agricultural transition policy tackles directly."
+
+**Exit Bridge:** "This is precisely why our agricultural transition policy is an economic policy, not just an environmental one. By reducing nitrogen, we unlock construction, infrastructure, and housing across the entire Dutch economy."
+
+---
+
+### FC10: "What is the Dutch approach to the energy transition?" (Category B Q7)
+
+**Tier:** 1 (Broad policy question)
+
+**Primary Answer:** "The Netherlands aims for 70% renewable electricity by 2030, phasing out gas and expanding wind/solar. Key challenges are grid congestion and the nitrogen crisis. The government has committed €35 billion through the Klimaatfonds to accelerate the transition."
+
+**Likely Follow-Up 1:** "If the government already has a €35 billion climate fund, why do we need your €17 billion program?"
+**Follow-Up Response 1:** "Our €17 billion isn't completely additive—it reallocates and accelerates existing funds. The Klimaatfonds largely subsidizes clean energy production (like offshore wind). But subsidizing production without fixing the grid is like building factories without building roads to carry the goods. Our policies address the structural bottlenecks—the grid, the land, and the workforce—that are preventing that €35 billion from being deployed effectively."
+
+**Likely Follow-Up 2:** "With 70% intermittent renewables by 2030, how will you maintain grid stability?"
+**Follow-Up Response 2:** "This is exactly why our Policy 1 includes fast-tracking battery storage and smart grid technology, not just thicker wires. We're also relying on our interconnection with neighboring countries—importing hydropower from Norway and wind from the UK when our own production drops. But the domestic storage component is critical."
+
+**Exit Bridge:** "The Dutch approach has successfully stimulated green energy supply. Our policies represent the crucial next phase: ensuring the infrastructure and workforce exist to actually integrate that supply into the economy."
+
+---
+
+### FC11: "How do you pay for this during a housing crisis?" (Category D Q10)
+
+**Tier:** 1 (Core fiscal constraints question)
+
+**Primary Answer:** "Our policies are affordable—€2.8 billion annually is just 0.25% of GDP, well within fiscal rules. And our agricultural transition actually helps the housing crisis by reducing nitrogen pressure that blocks construction. We're part of the solution, not a competing priority."
+
+**Likely Follow-Up 1:** "But every euro spent on grid modernization is a euro not spent on building homes. Isn't housing a more immediate human need?"
+**Follow-Up Response 1:** "It's a false choice. In the Netherlands right now, you literally cannot build a new housing development without acquiring 'nitrogen space' to offset the construction emissions, AND securing a grid connection for the new homes. Our policies deliver both. We aren't diverting money from housing; we are funding the prerequisites for housing to be built."
+
+**Likely Follow-Up 2:** "If your policies unlock housing, why not have real estate developers pay for the agricultural buyouts?"
+**Follow-Up Response 2:** "They already participate indirectly through the nitrogen trading system, where developers buy space from exiting farmers. But the market alone is too slow and legally fraught because of court restrictions on nitrogen trading. The state needs to step in with our €5 billion agricultural transition fund to resolve the systemic blockage quickly, creating a legally robust framework for development."
+
+**Exit Bridge:** "This illustrates the core philosophy of our approach: environmental bottlenecks in the Netherlands have become economic bottlenecks. By investing €17 billion to clear them, we unlock tens of billions in private investment across housing and industry."
+
+---
+
+### FC12: "What is the difference between a deficit and debt?" (Category E Q5)
+
+**Tier:** 1 (Core economics application question)
+
+**Primary Answer:** "A deficit is annual overspending—a one-year flow. Debt is accumulated deficits—a stock. Countries can run deficits without excessive debt if growth is strong. The Netherlands has small deficits but low debt (45% of GDP)."
+
+**Likely Follow-Up 1:** "Under the new EU fiscal rules, how much room does the Netherlands actually have to run deficits for climate investment?"
+**Follow-Up Response 1:** "Significant room. Under the revised Stability and Growth Pact, countries with debt below 60% of GDP have more flexibility. The Netherlands' debt is around 45% and our deficit is roughly 1.8%—well below the 3% limit. We easily have the fiscal space to absorb the €2.8 billion annual cost of our policies."
+
+**Likely Follow-Up 2:** "Should green investments be exempted from EU deficit calculations entirely?"
+**Follow-Up Response 2:** "While some economists advocate a 'golden rule' for green investment, it's risky—it creates incentives to reclassify regular spending as 'green.' The current EU compromise is better: investments are not exempt, but reform and investment commitments allow countries up to 7 years (instead of 4) to adjust their fiscal paths. This provides the flexibility we need without abandoning fiscal discipline."
+
+**Exit Bridge:** "Because the Netherlands has maintained strict fiscal discipline during the good years, we now have the capacity to finance this critical climate transition. Our strong fiscal position is exactly what makes our €17 billion package credible."
+
+---
+
+### FC13: "What are the advantages and disadvantages of the euro?" (Category F Q1)
+
+**Tier:** 1 (Core single currency question)
+
+**Primary Answer:** "Advantages: eliminates exchange rate risk for trade, reduces transaction costs, provides access to deep capital markets, ECB credibility anchors expectations. Disadvantages: can't set own interest rates, can't devalue for competitiveness, one-size-fits-all policy for diverse economies. Overall, for climate policy, the advantages outweigh the disadvantages."
+
+**Likely Follow-Up 1:** "When you say 'can't devalue for competitiveness,' how does that constraint threaten the Dutch climate transition?"
+**Follow-Up Response 1:** "If our climate policies made Dutch industry uncompetitive (e.g., through high carbon costs), we couldn't devalue the currency to make our exports cheaper again. If we had the guilder, we could offset climate compliance costs with currency depreciation. Inside the euro, we must achieve competitiveness through real productivity gains and innovation instead."
+
+**Likely Follow-Up 2:** "Does the euro area's 'one-size-fits-all' monetary policy hurt the Netherlands right now?"
+**Follow-Up Response 2:** "It creates friction. With Dutch inflation higher than the euro area average and low unemployment, a standalone Dutch central bank might prefer higher rates to cool the economy. For our climate program, however, the ECB's current lower rates (2.00%) are beneficial because they reduce the borrowing costs for our capital-intensive grid and agricultural investments."
+
+**Exit Bridge:** "This is why our policies focus on structural improvements like grid capacity and workforce skills. Because we lack independent monetary policy, we must use fiscal policy to solve our structural bottlenecks and maintain the competitiveness of the Dutch economy within the euro."
+
+---
+
+### FC14: "What happens if global climate agreements fail?" (Category G Q5)
+
+**Tier:** 1 (Existential policy threat)
+
+**Primary Answer:** "Even without global cooperation, the EU is committed to its legally binding targets. Our policies help the Netherlands meet those regardless of others' actions. And the economic case for renewables is now independent of policy—solar and wind are cheapest new power sources."
+
+**Likely Follow-Up 1:** "If the US or China pulls back, won't aggressive EU climate policies just destroy European industrial competitiveness?"
+**Follow-Up Response 1:** "That's why the Carbon Border Adjustment Mechanism (CBAM) is so vital. It levels the playing field by taxing carbon-intensive imports. But more fundamentally, our three policies—grid modernization, skills training, agricultural transition—are 'no-regrets' investments. A modernized grid and a highly skilled workforce make the Dutch economy more competitive globally, regardless of what China or the US does."
+
+**Likely Follow-Up 2:** "If global action fails, isn't adaptation more important than mitigation?"
+**Follow-Up Response 2:** "For the Netherlands, yes—adaptation is existential. The Delta Programme handles our sea-level defenses. But mitigation remains economically essential because the transition from imported fossil fuels to domestic renewable energy protects us from geopolitical energy shocks like we saw in 2022. We're mitigating for energy security, not just climate."
+
+**Exit Bridge:** "Our policies are defensive economic measures as much as environmental ones. Removing grid bottlenecks and resolving the nitrogen crisis strengthens the Dutch economy today, regardless of what happens at the next UN climate summit."
+
+---
+
+### FC15: "Why should we trust your economic projections?" (Category G Q10)
+
+**Tier:** 1 (Core credibility question)
+
+**Primary Answer:** "Our projections are based on: (1) official TenneT grid plans, (2) proven program costs from Germany/Denmark, (3) actual MBO enrollment data, (4) EU and Dutch government cost estimates. We've been conservative where uncertain. Our financing is tied to existing programs, not speculative new initiatives."
+
+**Likely Follow-Up 1:** "Major infrastructure projects like grid expansion almost always experience cost overruns. Have you accounted for that?"
+**Follow-Up Response 1:** "Yes. First, we built a 15% contingency buffer into our €17 billion total. Second, our €10 billion grid allocation is focused specifically on the *acceleration* components—permitting, smart grid tech, and storage—rather than just raw material costs which are more volatile. Finally, by addressing the skills shortage (Policy 3), we're mitigating one of the primary drivers of construction cost overruns: labor scarcity."
+
+**Likely Follow-Up 2:** "You claim synergies will increase impact by 40%. Where does that specific number come from?"
+**Follow-Up Response 2:** "The 40% figure is a heuristic based on eliminating compound bottlenecks. If a farmer wants to transition to solar (Policy 2) but lacks a grid connection (Policy 1) and installers (Policy 3), the probability of transition is near zero. If you solve one bottleneck, probability rises marginally. If you solve all three, probability jumps exponentially. We see this in Denmark's integrated energy parks, where co-locating solutions reduced deployment times by roughly 40%."
+
+**Exit Bridge:** "While any projection carries risk, our estimates are grounded in real-world benchmarks from neighboring euro area economies. And we return to our core premise: the verifiable costs of the current grid and nitrogen gridlock far exceed the required investment to fix them."

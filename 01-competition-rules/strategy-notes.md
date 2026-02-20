@@ -93,11 +93,13 @@ CONNECTION:** Three2. **INTER policies that reinforce each other (not standalone
 - Speaker 2: Netherlands
 - Speaker 3: Climate
 - Speaker 4-5: Policies, euro
+*(See `06-qa-prep/team-qa-protocol.md` for explicit backup assignments and signals)*
 
 ### If Stuck
-- Never say "I don't know"
-- Instead: "That's a great question. Based on our research..."
-- Reason through logically
+- Follow the "I Don't Know" Protocol in `06-qa-prep/team-qa-protocol.md`
+- Never guess a specific statistic.
+- Reason through logically aloud.
+- Use the "Concede and Pivot."
 
 ---
 

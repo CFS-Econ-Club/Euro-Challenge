@@ -225,6 +225,252 @@ Anchor questions test baseline economics understanding and are scored separately
 
 ---
 
+### AQ21: What is a trade deficit and what are its implications?
+
+**Correct Answer:** "A trade deficit occurs when a country imports more goods and services than it exports. It means the country is consuming more than it produces, making up the difference by borrowing from abroad or selling domestic assets to foreigners. In accounting terms, a trade deficit corresponds to a net inflow of foreign capital. While often viewed negatively, a trade deficit isn't inherently bad—it might reflect strong domestic investment opportunities attracting foreign capital or a growing economy demanding more imported inputs."
+
+**Common Wrong Answer to Avoid:** "A trade deficit means a country is losing money" (it's trading assets/debt for goods) or "Trade deficits cause unemployment" (sometimes they happen during periods of strong growth and high employment).
+
+**Connect to Our Topic:** "The Netherlands doesn't have a trade deficit—we have a massive surplus. However, the EU often has a trade deficit in energy. Our climate policies reduce this vulnerability. By substituting imported fossil fuels with domestic wind and solar power, we improve both our emissions profile and our structural trade balance."
+
+**30-Second Version:** "A trade deficit means importing more than exporting, requiring borrowing from abroad. It's not inherently bad—it can reflect strong investment. The Netherlands has a surplus, but our climate transition further strengthens our trade position by replacing imported fossil fuels with domestic renewable energy."
+
+---
+
+### AQ22: How do tariffs affect international trade?
+
+**Correct Answer:** "A tariff is a tax on imported goods. Tariffs raise the domestic price of imports, reducing the quantity imported and protecting domestic producers who can sell more at higher prices. However, tariffs hurt domestic consumers (who pay higher prices) and downstream industries (who pay more for inputs). They also invite retaliation from trading partners. On net, economists generally agree that broad tariffs reduce overall economic efficiency and global economic output."
+
+**Common Wrong Answer to Avoid:** "Tariffs are paid by the exporting country" (they are paid by the importing company, ultimately passing costs to domestic consumers) or "Tariffs always protect jobs overall" (they may protect specific industries while destroying jobs in others).
+
+**Connect to Our Topic:** "Rather than broad tariffs, the EU uses CBAM—the Carbon Border Adjustment Mechanism. This isn't a traditional protectionist tariff; it levels the playing field by applying the EU carbon price to imports. Without CBAM, our Dutch manufacturers would face unfair competition from countries without carbon pricing. CBAM protects the climate, not just domestic industry."
+
+**30-Second Version:** "Tariffs are taxes on imports that raise domestic prices, protect specific industries, but hurt consumers and economic efficiency. The EU avoids traditional protectionism but uses CBAM to apply carbon pricing to imports, ensuring Dutch companies aren't disadvantaged by our ambitious climate policies."
+
+---
+
+### AQ23: What are comparative and absolute advantage?
+
+**Correct Answer:** "Absolute advantage is the ability to produce a good using fewer resources than another country. Comparative advantage, a concept developed by David Ricardo, is the ability to produce a good at a lower opportunity cost. Even if a country has an absolute advantage in everything, trade still benefits both countries if they specialize in goods where they have a comparative advantage. This explains why international trade is not a zero-sum game."
+
+**Common Wrong Answer to Avoid:** "Countries should only produce what they have an absolute advantage in" (ignores opportunity cost) or "Trade only benefits the stronger economy" (comparative advantage shows mutual benefit).
+
+**Connect to Our Topic:** "The Netherlands has a comparative advantage in high-tech manufacturing (ASML) and specialized agriculture. However, our agricultural advantage faces a severe environmental constraint: the nitrogen crisis. Our €5 billion Agricultural Transition policy recognizes that to maintain our comparative advantage within environmental limits, we must shift to high-value, sustainable farming rather than sheer volume."
+
+**30-Second Version:** "Comparative advantage means producing goods at a lower opportunity cost, while absolute advantage is producing with fewer resources. Countries benefit by specializing in their comparative advantage. Our policies aim to make the Dutch comparative advantage in agriculture and logistics sustainable in a low-carbon world."
+
+---
+
+### AQ24: What is the impact of exchange rate volatility on business?
+
+**Correct Answer:** "Exchange rate volatility creates uncertainty for businesses engaged in international trade or investment. If a currency appreciates, exporters' products become more expensive abroad, potentially losing market share. If it depreciates, importers' costs rise. Volatility makes pricing, profit forecasting, and long-term investment planning difficult. Businesses spend resources hedging this risk through financial derivatives, increasing transaction costs."
+
+**Common Wrong Answer to Avoid:** "Volatility is good because businesses can profit from it" (most non-financial businesses want stability for planning) or "It only affects multi-national corporations" (affects any business importing supplies or facing foreign competition).
+
+**Connect to Our Topic:** "This is a key benefit of the euro. The Netherlands conducts over 70% of its trade with other EU countries. By sharing the euro, Dutch businesses face zero exchange rate volatility for the vast majority of their transactions. This stability is crucial when planning 20-year green investments like our €10 billion grid modernization."
+
+**30-Second Version:** "Exchange rate volatility creates uncertainty, complicates long-term planning, and requires costly hedging for exporters and importers. Implementing the euro eliminated this volatility for most Dutch trade, providing the stability necessary for multi-decade, billion-euro climate infrastructure investments."
+
+---
+
+### AQ25: What is foreign direct investment (FDI)?
+
+**Correct Answer:** "Foreign Direct Investment is an investment made by a firm or individual in one country into business interests located in another country, with the intent of establishing a lasting interest (usually defined as acquiring 10%+ ownership). Unlike portfolio investment (buying stocks/bonds), FDI involves active management or control. FDI brings capital, technology transfer, management expertise, and job creation to the host country."
+
+**Common Wrong Answer to Avoid:** "FDI is the same as buying foreign stocks" (that's portfolio investment; FDI requires control) or "FDI is just a way to exploit cheap labor" (much FDI flows between developed countries for market access or technology).
+
+**Connect to Our Topic:** "The Netherlands is a major destination for FDI due to our infrastructure, skilled workforce, and euro area membership. Our climate policies protect this status. When foreign companies want to build data centers or manufacturing facilities in Europe, they look for clean, reliable power. Resolving our grid congestion through Policy 1 is essential to keeping the Netherlands an attractive destination for green FDI."
+
+**30-Second Version:** "FDI is a cross-border investment establishing a lasting interest and control in a foreign enterprise. It brings capital and technology. The Netherlands attracts massive FDI, but our grid congestion threatens this. Policy 1 solves grid bottlenecks to ensure we remain an attractive destination for international green investment."
+
+---
+
+## Fiscal Policy Expansion (5 Questions)
+
+### AQ26: What are automatic stabilizers?
+
+**Correct Answer:** "Automatic stabilizers are structural features of fiscal policy that smooth out the business cycle without require explicit government action. During a recession, progressive income taxes automatically collect less revenue, and unemployment benefits automatically increase spending. This injects money into the economy when it's needed. During an expansion, revenues rise and welfare spending falls automatically, cooling the economy. They are 'automatic' because they happen without new legislation."
+
+**Common Wrong Answer to Avoid:** "Automatic stabilizers refer to central bank actions" (that's monetary policy; these are fiscal) or "They refer to stimulus packages passed by parliament" (those are discretionary fiscal policy).
+
+**Connect to Our Topic:** "The Netherlands has strong automatic stabilizers through our robust social safety net. Because these stabilizers handle cyclical downturns automatically, it gives the government the fiscal space to make discretionary, long-term investments like our €17 billion climate package without worrying that a sudden recession will leave the state unable to support its citizens."
+
+**30-Second Version:** "Automatic stabilizers are fiscal mechanisms, like progressive taxes and unemployment benefits, that automatically cushion economic shocks without new laws. Their existence in the Netherlands provides the underlying fiscal resilience needed to safely undertake our massive €17 billion discretionary climate investment."
+
+---
+
+### AQ27: What is the multiplier effect in fiscal policy?
+
+**Correct Answer:** "The fiscal multiplier measures the impact of government spending or tax changes on overall economic output. A multiplier greater than 1 means an initial injection of government spending leads to a larger total increase in GDP, as the money is spent and re-spent through the economy. The multiplier is typically higher during recessions (when there's spare capacity) and lower during booms (when spending might just cause inflation or 'crowd out' private investment)."
+
+**Common Wrong Answer to Avoid:** "The multiplier is always the same" (it varies wildly by economic conditions) or "Government spending always pays for itself" (rarely true; multiplier must be exceptionally high).
+
+**Connect to Our Topic:** "Our €17 billion package has a high multiplier effect because it leverages private investment. Our €10 billion grid modernization unlocks billions more in private renewable energy projects that currently can't connect. We are not just spending money; we are removing infrastructural bottlenecks that trigger cascading private sector economic activity."
+
+**30-Second Version:** "The fiscal multiplier is the ratio of a change in national income to the change in government spending that causes it. Our climate investment has a uniquely high multiplier because it removes infrastructural bottlenecks (like grid congestion), directly unlocking billions in stalled private sector investment."
+
+---
+
+### AQ28: What is 'crowding out'?
+
+**Correct Answer:** "Crowding out occurs when increased government borrowing drives up interest rates, leading to a reduction in private investment. As the government competes for capital to finance its deficits, borrowing becomes more expensive for businesses and consumers. This can reduce the stimulative effect of expansionary fiscal policy. The extent of crowding out depends on the state of the economy; it is more pronounced near full employment and less significant during a deep recession."
+
+**Common Wrong Answer to Avoid:** "Government spending always crowds out private investment" (not during deep recessions or when financing productive infrastructure).
+
+**Connect to Our Topic:** "With the Netherlands at 4.0% unemployment, crowding out is a real concern—we could crowd out private climate spending. This is precisely why our policies are carefully targeted at public goods that the private sector cannot provide alone: the transmission grid and agricultural land buyouts. We aren't crowding private investment out; we are 'crowding it in' by providing the prerequisites for it to happen."
+
+**30-Second Version:** "Crowding out happens when government borrowing raises interest rates, reducing private investment. While a risk in our tight labor market, our €17 billion package avoids this because it funds public goods (grid infrastructure) that actually 'crowd in' or enable stalled private sector green investments."
+
+---
+
+### AQ29: How do demographics affect fiscal policy?
+
+**Correct Answer:** "Demographic changes, specifically aging populations, profoundly impact fiscal policy. An aging population means fewer working-age people paying income taxes, and more retirees drawing on public pensions and age-related healthcare. This creates structural pressure on government budgets, narrowing the fiscal space for discretionary spending. It shifts the 'dependency ratio' unfavorably."
+
+**Common Wrong Answer to Avoid:** "An aging population only affects healthcare" (affects tax revenues, economic growth rate, and pensions) or "Population growth always fixes the budget."
+
+**Connect to Our Topic:** "Like much of Europe, the Netherlands faces an aging population. This demographic reality is why our Policy 3—the Green Skills Initiative—is so critical. With a shrinking workforce, the labor market will remain tight. We cannot afford to have workers trapped in declining industries. We must systematically retrain workers for high-productivity green jobs to support both our climate goals and our tax base."
+
+**30-Second Version:** "An aging population strains fiscal policy by reducing tax revenues while increasing pension and healthcare costs. Given this demographic pressure in the Netherlands, our Green Skills Initiative is essential to shift our limited workforce into high-productivity green sectors, ensuring economic growth."
+
+---
+
+### AQ30: What is supply-side fiscal policy?
+
+**Correct Answer:** "Supply-side fiscal policy focuses on increasing the economy's productive capacity (shifting aggregate supply outward) rather than just stimulating demand. This involves policies that lower barriers to production, such as cutting marginal tax rates to incentivize work/investment, reducing regulations, or subsidizing infrastructure, education, and R&D. The goal is long-term sustainable economic growth."
+
+**Common Wrong Answer to Avoid:** "Supply-side policy just means tax cuts for the rich" (it encompasses infrastructure, deregulation, and education) or "It only works in the short run" (it is explicitly a long-run strategy).
+
+**Connect to Our Topic:** "While our €17 billion package involves government spending, it is fundamentally a supply-side policy. We are not trying to stimulate consumer demand. We are expanding the productive capacity of the Dutch economy by expanding the electricity grid, improving workforce skills, and solving the nitrogen supply-chain blockage. We are removing structural constraints on growth."
+
+**30-Second Version:** "Supply-side fiscal policy aims to increase long-term economic capacity by removing barriers to production and improving infrastructure/skills. Our €17 billion package is classic supply-side policy: we aren't stimulating consumer demand; we're removing structural grid and nitrogen bottlenecks that constrain Dutch economic output."
+
+---
+
+## Monetary Policy Expansion (5 Questions)
+
+### AQ31: What is the transmission mechanism of monetary policy?
+
+**Correct Answer:** "The transmission mechanism is the process through which central bank policy actions—principally changes in interest rates—affect the broader economy and ultimately inflation. It works through several channels: the interest rate channel (affecting borrowing costs), the credit channel (affecting bank lending willingness), the asset price channel (affecting wealth and consumption), and the exchange rate channel (affecting import/export prices). This process operates with long and variable lags, often taking 12 to 18 months to fully materialize."
+
+**Common Wrong Answer to Avoid:** "Rate cuts immediately lower prices" (they take time and affect demand, not prices directly) or "The ECB directly controls mortgage rates" (they control the policy rate; markets determine the rest).
+
+**Connect to Our Topic:** "Understanding the transmission lag is crucial for our policies. The ECB cut rates to 2.00% recently, but the full stimulative effect on the real economy is still filtering through the transmission mechanism. By locking in our €17 billion infrastructure funding now, we position the Netherlands to execute these projects just as financing conditions for private partners fully optimize."
+
+**30-Second Version:** "The transmission mechanism is how central bank rate changes flow through banks, asset prices, and exchange rates to impact the real economy and inflation. It takes 12-18 months. As the ECB's recent rate cuts transmit through the economy, financing conditions for our €17 billion green infrastructure plan will become highly favorable."
+
+---
+
+### AQ32: What is forward guidance?
+
+**Correct Answer:** "Forward guidance is a monetary policy tool where a central bank explicitly communicates its future intentions regarding interest rates or asset purchases. By managing market expectations about the future path of policy, the central bank can influence long-term interest rates today, even if short-term rates are fixed (e.g., at zero). Effective forward guidance requires high central bank credibility."
+
+**Common Wrong Answer to Avoid:** "Forward guidance is a legally binding promise" (it's conditional on economic data) or "It's a new type of interest rate."
+
+**Connect to Our Topic:** "The ECB's forward guidance regarding interest rates provides the predictability needed for complex climate infrastructure. When TenneT plans a 10-year grid expansion, or a farmer decides to transition under our Policy 2, they need predictability in financing costs. The ECB's clear communication strategy helps underwrite the risk of our €17 billion, multi-year transition plan."
+
+**30-Second Version:** "Forward guidance is when central banks communicate their future policy intentions to influence long-term interest rates and market expectations today. The ECB's effective forward guidance provides the financial predictability required for the Netherlands to confidently launch our multi-year, €17 billion climate investment program."
+
+---
+
+### AQ33: What is the difference between headline and core inflation?
+
+**Correct Answer:** "Headline inflation measures the price change of a generic basket of goods and services, representing the actual cost of living. Core inflation excludes highly volatile components—typically food and energy prices. Central banks often focus on core inflation for policy decisions because it reveals the underlying, persistent trend of inflation without the 'noise' of temporary supply shocks in oil or agricultural markets."
+
+**Common Wrong Answer to Avoid:** "Core inflation is the most important one for consumers" (consumers pay headline inflation, including food/energy) or "They exclude food/energy because they don't matter" (they exclude them due to short-term volatility).
+
+**Connect to Our Topic:** "Energy prices cause massive divergence between headline and core inflation in Europe. The 10.6% inflation spike in 2022 was heavily driven by fossil fuel price shocks resulting from the Ukraine war. Our Dutch climate policies—transitioning to domestic renewables—reduce our exposure to volatile imported fossil fuels, effectively reducing the future volatility of headline inflation for Dutch consumers."
+
+**30-Second Version:** "Headline inflation includes all goods, while core inflation excludes volatile food and energy prices to show underlying trends. While central banks use core inflation for policy, consumers suffer headline inflation. Our transition to domestic renewable energy protects the Netherlands from the fossil fuel energy shocks that drive severe headline inflation."
+
+---
+
+### AQ34: What is a liquidity trap?
+
+**Correct Answer:** "A liquidity trap occurs when a central bank lowers interest rates near zero, but this fails to stimulate the economy because consumers and businesses prefer to hold cash rather than spend or invest, expecting deflation or economic hardship. In a liquidity trap, traditional monetary policy becomes ineffective, meaning the burden of stimulating the economy falls heavily on expansionary fiscal policy."
+
+**Common Wrong Answer to Avoid:** "A liquidity trap is when banks have no money" (they have money but won't lend/people won't borrow) or "It's caused by high interest rates."
+
+**Connect to Our Topic:** "Before the recent inflation spike, the euro area spent years skirting a liquidity trap with negative interest rates. Should the euro area economy severely stumble again and traditional monetary policy reach its limit, the €17 billion infrastructure package we recommend provides exactly the kind of robust, productive fiscal stimulus required to pull an economy out of a liquidity trap."
+
+**30-Second Version:** "A liquidity trap happens when near-zero interest rates fail to stimulate borrowing and spending because of economic pessimism, rendering monetary policy ineffective. This requires fiscal policy to take over. Our €17 billion climate package represents the kind of productive fiscal intervention necessary if the euro area faces such conditions."
+
+---
+
+### AQ35: How does ECB independence work?
+
+**Correct Answer:** "ECB independence means the central bank is free from political influence when conducting monetary policy. The Maastricht Treaty legally prohibits the ECB from taking instructions from EU institutions or national governments. This prevents politicians from manipulating interest rates for short-term electoral gain (the political business cycle) or forcing the bank to print money to finance government deficits, ensuring long-term price stability."
+
+**Common Wrong Answer to Avoid:** "The ECB is completely unaccountable" (it reports to the European Parliament and operates under a clear legal mandate) or "National governments vote on ECB rates."
+
+**Connect to Our Topic:** "Because the ECB is fiercely independent, the Dutch government cannot rely on it to print money or manipulate rates to fund our €17 billion climate package. We are forced to ensure our policies are fiscally sound and economically viable on their own merits. Our package is fully funded through existing mechanisms and reallocation, respecting the strict separation of fiscal and monetary powers in the EU."
+
+**30-Second Version:** "ECB independence prevents politicians from manipulating monetary policy or printing money for short-term gain, ensuring long-term price stability. Because we cannot rely on a compliant central bank to finance deficits, our €17 billion climate policy is rigorously designed to be fiscally sustainable within existing Dutch revenue streams."
+
+---
+
+## EU/Euro-Specific Concepts (5 Questions)
+
+### AQ36: What is the EU Stability and Growth Pact (SGP)?
+
+**Correct Answer:** "The SGP is the fiscal rulebook for EU member states, designed to ensure governments maintain sound public finances and coordinate fiscal policies. The core thresholds are a budget deficit below 3% of GDP and public debt below 60% of GDP. If breached, an Excessive Deficit Procedure may be triggered. The rules were recently reformed to allow more country-specific debt reduction paths and provide more time for countries undertaking significant structural reforms and green investments."
+
+**Common Wrong Answer to Avoid:** "It's the central bank's rulebook" (it governs national fiscal policy, not monetary) or "Any country over 60% debt is immediately fined" (enforcement is complex and recently reformed).
+
+**Connect to Our Topic:** "The Netherlands is a model of SGP compliance, with a deficit of 1.8% and debt at 45% of GDP. This compliance is our superpower. Under the revised SGP rules, our strong fiscal foundation allows us the legal and financial headroom to deploy our €17 billion climate intervention without violating EU rules or triggering oversight procedures."
+
+**30-Second Version:** "The SGP sets EU fiscal rules limiting deficits to 3% of GDP and debt to 60%. While recently reformed to allow flexibility for green investments, the Netherlands' strict adherence (1.8% deficit, 45% debt) means our €17 billion climate package is entirely safe from EU fiscal penalties or restrictive oversight."
+
+---
+
+### AQ37: What is the 'Trilemma' or 'Impossible Trinity' in international economics?
+
+**Correct Answer:** "The Impossible Trinity states a country cannot simultaneously have a fixed exchange rate, free movement of capital, and an independent monetary policy; it must choose two. By choosing the euro, member states chose a fixed exchange rate (with each other) and free capital movement. Consequently, they surrendered independent monetary policy to the ECB. They cannot adjust interest rates to address local economic shocks."
+
+**Common Wrong Answer to Avoid:** "It means you can't have inflation, growth, and low unemployment" (that's a domestic policy trade-off, not the international trilemma).
+
+**Connect to Our Topic:** "The Trilemma explains the fundamental constraint of the Dutch economy: we surrendered independent monetary policy for the benefits of the euro. We cannot respond to the nitrogen crisis or climate transition by lowering Dutch interest rates. Therefore, our response must rely entirely on structural fiscal policy—which is exactly what our €17 billion targeted investment package delivers."
+
+**30-Second Version:** "The Impossible Trinity dictates that prioritizing fixed exchange rates and free capital movement means losing independent monetary policy. Entering the euro meant the Netherlands surrendered interest rate control. Thus, to navigate the climate transition, we must rely entirely on targeted fiscal actions—like our €17 billion infrastructure package."
+
+---
+
+### AQ38: What are EU Structural and Investment Funds?
+
+**Correct Answer:** "These are financial tools set up to implement EU regional policy, aiming to reduce regional disparities in income, wealth, and opportunities among member states. They include the European Regional Development Fund (ERDF) and the Cohesion Fund. A newer, related instrument is the Just Transition Fund, specifically designed to alleviate the socio-economic costs of the climate transition in carbon-intensive regions."
+
+**Common Wrong Answer to Avoid:** "They only go to poor countries" (wealthy countries receive targeted funds for specific transitions, like the JTF).
+
+**Connect to Our Topic:** "The Netherlands utilizes these mechanisms directly. The Just Transition Fund has allocated €623 million specifically for the Dutch workforce transition, prioritizing regions like Groningen. This EU funding heavily subsidizes our Policy 3 (Green Skills Initiative), demonstrating how EU policy directly finances local Dutch climate solutions."
+
+**30-Second Version:** "EU Structural Funds aim to reduce economic disparities. Notably, the Just Transition Fund provides €623 million to the Netherlands to protect workers in carbon-intensive regions. We integrate this EU funding directly into our Policy 3, paying for the retraining of Dutch workers for the green economy."
+
+---
+
+### AQ39: What is NextGenerationEU (NGEU) and the RRF?
+
+**Correct Answer:** "NGEU is the EU's €800+ billion temporary recovery instrument built to help repair the economic damage from COVID-19. Its centerpiece is the Recovery and Resilience Facility (RRF), which provides grants and loans to member states. Crucially, the EU required that at least 37% of RRF funds be allocated to climate investments and reforms. It represented a historic moment where the EU issued common debt at scale."
+
+**Common Wrong Answer to Avoid:** "It's a permanent EU welfare program" (it's legally temporary) or "Countries can spend it on whatever they want" (it requires strict reform commitments and green minimums).
+
+**Connect to Our Topic:** "The Netherlands secured a €5.4 billion allocation from the RRF, and impressively, dedicated 54.9% of it to climate objectives—far above the EU's 37% requirement. This RRF allocation acts as a critical financing pillar for our climate policies, demonstrating how the Netherlands leverages European structural debt to fund our domestic green transition."
+
+**30-Second Version:** "NextGenerationEU is an €800B pandemic recovery fund. Its core, the RRF, requires a minimum 37% spend on climate action. The Netherlands secured a €5.4 billion RRF allocation and dedicated 55% to climate. This historic EU-level financing provides critical foundational capital for the policies we are proposing."
+
+---
+
+### AQ40: Explain the concept of 'Carbon Leakage' in the EU context.
+
+**Correct Answer:** "Carbon leakage occurs when businesses transfer production to other countries with laxer emission constraints, presumably to lower their costs. This hurts the domestic economy without actually reducing global greenhouse gas emissions. It is a major risk for the EU given its strict Emissions Trading System (ETS) and ambitious climate targets, which impose costs that non-EU competitors don't face."
+
+**Common Wrong Answer to Avoid:** "Carbon leakage is when CO2 physically escapes from storage facilities" (it's an economic term, not a physical one).
+
+**Connect to Our Topic:** "For an export powerhouse like the Netherlands, carbon leakage is a severe threat. If Dutch industry—like Tata Steel in IJmuiden—faces high carbon costs, production might just move to Asia. Our policies aim to prevent this locally by modernizing the grid, providing the cheap renewable energy Dutch industry needs to decarbonize *domestically* and remain globally competitive, supported by the EU's Carbon Border Adjustment Mechanism (CBAM)."
+
+**30-Second Version:** "Carbon leakage happens when strict environmental rules force companies to move production to countries with lax regulations, harming the economy without helping the climate. To protect Dutch industry, our policies provide the necessary green grid infrastructure allowing them to decarbonize profitably at home."
+
+---
+
 ## Quick Reference: Answer Structure
 
 For every anchor question:

@@ -44,11 +44,11 @@
 ### Section 5: Policy Recommendations (Slides 16-20)
 | Slide | Title | Type | Content |
 |-------|-------|------|---------|
-| 16 | Our Three Policies | Overview | Policy names, amounts, timelines |
-| 17 | Policy 1: Grid | Data Viz | Investment breakdown, targets |
-| 18 | Policy 2: Agriculture | Data Viz | Three pathways, targets |
-| 19 | Policy 3: Skills | Data Viz | Workers trained, sectors |
-| 20 | Synergies | Diagram | How policies connect |
+| 16 | Our €8.1B Package | Overview | The three targeted policies, new approach |
+| 17 | Policy 1: DCOI | Data Viz | €600M for Grid Flexibility, Dynamic line ratings |
+| 18 | Policy 2: ATIP | Data Viz | €5B for Ag Transition, 120% buyouts |
+| 19 | Policy 3: Klimaatkorps | Data Viz | €2.5B for Jobs, Transition Accords |
+| 20 | Synergies | Diagram | How the three policies connect to accelerate growth |
 
 ### Section 6: Euro Implications (Slides 21-22)
 | Slide | Title | Type | Content |
@@ -92,8 +92,8 @@
 | Speaker 1 | 1-7 | 3:30 | Euro area recovery, ECB policy, stable foundation |
 | Speaker 2 | 8-10 | 2:30 | Dutch economy strong, but climate challenges |
 | Speaker 3 | 11-15 | 3:30 | Existential stakes, specific problems |
-| Speaker 4 | 16-20 | 3:30 | Three policies, €17B, interconnected |
-| Speaker 5 | 21-22 | 2:00 | Euro enables this, net positive |
+| Speaker 4 | 16-18 | 3:30 | Policies 1 & 2 (Grid Flex & Ag Transition), €5.6B total |
+| Speaker 5 | 19-22 | 2:00 | Policy 3 (Jobs), Euro enables this, package is €8.1B total |
 
 ---
 
