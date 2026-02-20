@@ -272,7 +272,8 @@ This is the inventory of all improvement engines. Every engine must be registere
 | Depth | DEPTH-ENGINE.md | ACTIVE | Content expansion, real quotes, case studies, expert voices, comparative depth, web research | 2026-02-17 | — | 0/10 |
 | Performance | PERFORMANCE-ENGINE.md | ACTIVE | Timing accuracy, team coordination, rehearsal effectiveness, contingencies, stage presence | 2026-02-17 | — | 0/10 |
 | Sidebar | SIDEBAR-ENGINE.md | ACTIVE | Sidebar content, quick facts, data callouts, visual anchors | 2026-02-17 | — | Unknown |
-| Meta | META-ENGINE.md | ACTIVE | Engine health, design quality, coordination, lifecycle management | 2026-02-17 | Cycle 1 | 2/8 |
+| Meta | META-ENGINE.md | ACTIVE | Engine health, design quality, coordination, lifecycle management | 2026-02-17 | Cycle 1 | 2/8 |\n| Facelift | FACELIFT-ENGINE.md | ACTIVE | Radical component replacement, policy overhaul, rewrite, paradigm shifts | 2026-02-19 | — | Unknown |
+| Consistency| CONSISTENCY-ENGINE.md | ACTIVE | Global coherence enforcer across repo | 2026-02-19 | — | 0/4 |
 | *Competitive* | *Not yet created* | NEEDED | Differentiation, surprise depth, competitive positioning | — | — | — |
 | *Visual* | *Not yet created* | NEEDED | Slide design, chart specs, data visualization, brochure layout | — | — | — |
 
@@ -325,6 +326,14 @@ This is the inventory of all improvement engines. Every engine must be registere
 ```
 
 ### Log
+
+#### Factory Cycle 5 — 2026-02-19
+**Audit results:** User requested an engine to suggest "facelifts" — complete rewrites of components when necessary. Diagnosed gap: Prior engines (IMPROVEMENT, RHETORIC) focus on fixing and augmenting existing content, but lack the mandate to delete and replace structurally weak or generic materials with "global maxima".
+**Action taken:** Generated FACELIFT-ENGINE.md using Generator Protocol. Engine covers: sweeping policy replacements, complete argument overhauls, and rhetorical burn-downs. Includes 3 diagnostics, 3 upgrades, and 5 benchmarks. Operates as a radical quality enforcement mechanism.
+**Files created:** FACELIFT-ENGINE.md
+**Files modified:** ENGINE-FACTORY.md (registry and dependency order update), CLAUDE.md (improvement frameworks list).
+**Registry changes:** FACELIFT-ENGINE registered as ACTIVE.
+**Recommendation:** Run FACELIFT-ENGINE on policies that feel generic and lack aggressive, innovative features.
 
 #### Factory Cycle 4 — 2026-02-17
 **Audit results:** User requested focus on meta-level improvement — an engine to improve engines themselves. Diagnosed gap: all existing engines improve content, but no engine ensures the engine ecosystem is healthy. Issues identified: 3 of 5 ACTIVE engines have never been run (Diagnostic A would score 2), benchmark progress is ~6% across all engines (Diagnostic B would score 1), no cross-engine coordination is happening (Diagnostic D would score 3).
@@ -388,6 +397,8 @@ DEPTH-ENGINE (research + expansion)
   ↓ should run early: builds the substance that other engines refine
 IMPROVEMENT-ENGINE (data accuracy)
   ↓ must run after DEPTH: verifies what was added
+FACELIFT-ENGINE (radical rewrite)
+  ↓ should run after data verifies the components are weak to replace them entirely
 RHETORIC-ENGINE (persuasion + style)
   ↓ should run after data is verified but before Q&A prep
 Q&A-ENGINE (adversarial preparation)

@@ -78,6 +78,8 @@ The presentation must cover all three parts:
 - **META.md** — Self-improving cognitive architecture. Read this first when asked to improve the repository. It generates its own tasks from principles and evolves with each cycle.
 - **ENGINE-FACTORY.md** — Meta-framework that generates, manages, and retires specialized improvement engines. Run a factory cycle when you suspect a quality domain lacks dedicated improvement infrastructure. Contains the engine genome template, coverage audit, generator protocol, and engine registry.
 - **META-ENGINE.md** — The engine that improves engines. Diagnoses engine health (are they being run?), benchmark progress (are they moving?), design quality (any flaws?), and coordination (are boundaries respected?). Run this when the engine ecosystem needs maintenance.
+- **FACELIFT-ENGINE.md** — Radical component replacement. Use this when a policy, argument, or section is mediocre and needs an entirely new paradigm, not just incremental improvement. It replaces weak pillars with the absolute strongest alternatives. Works by burning down and rebuilding from scratch.
+- **CONSISTENCY-ENGINE.md** — Global coherence enforcer. Use this to ensure that changes in one artifact (like a policy update) perfectly sync across related artifacts like Q&A docs, presentation scripts, and brochures.
 - **DEPTH-ENGINE.md** — Content expansion through genuine web research. Expands bullet points into prose, finds real quotes from critics/experts, adds case studies, deepens international comparisons. Uses Jina MCP (web search, arXiv, read URLs) as primary tool. Run this early to build substance before other engines refine it.
 - **IMPROVEMENT-ENGINE.md** — Tactical improvement checklist with specific modules (data verification, Q&A expansion, reference library build, etc.). Use this for concrete, predefined tasks.
 - **RHETORIC-ENGINE.md** — Recursive improvement system for substance, style, and persuasion. Focused exclusively on speaker scripts, policy recommendations, brochure, and counterarguments. Use this when data is verified (IMPROVEMENT-ENGINE gates G1/G2/G8 pass) and the repo is at META.md Stage 3+. Covers opening hooks, causal spine, golden sentences, policy argument depth, counterargument architecture, brochure strategy, and performance polish.
@@ -105,6 +107,10 @@ DEPTH-ENGINE (research + expansion)→ builds substance
   ↓
 IMPROVEMENT-ENGINE (verification)   → verifies accuracy
   ↓
+FACELIFT-ENGINE (radical rewrite)   → replaces mediocre components
+  ↓
+CONSISTENCY-ENGINE (synchronize facts) → ensures presentations + Q&A reflect updates
+  ↓
 RHETORIC-ENGINE (persuasion)        → polishes delivery
   ↓
 QA-ENGINE (adversarial testing)     → stress-tests arguments
@@ -112,7 +118,7 @@ QA-ENGINE (adversarial testing)     → stress-tests arguments
 PERFORMANCE-ENGINE (rehearsal)      → ensures execution
 ```
 
-When asked to improve the repository, start with META.md (it will tell you what to do). If META.md identifies a domain gap with no engine, run ENGINE-FACTORY.md to generate one. Use DEPTH-ENGINE.md for content expansion and research. Use IMPROVEMENT-ENGINE.md for data and mechanical completeness. Use RHETORIC-ENGINE.md for persuasion quality. Use QA-ENGINE.md for adversarial preparation. Use PERFORMANCE-ENGINE.md for physical delivery and team coordination. Use META-ENGINE.md to diagnose and fix the engine ecosystem itself. Run ENGINE-FACTORY.md periodically to check for missing engines and domain coverage gaps.
+When asked to improve the repository, start with META.md (it will tell you what to do). If META.md identifies a domain gap with no engine, run ENGINE-FACTORY.md to generate one. Use DEPTH-ENGINE.md for content expansion and research. Use IMPROVEMENT-ENGINE.md for data and mechanical completeness. Use FACELIFT-ENGINE.md for radical component replacement. Use CONSISTENCY-ENGINE.md to synchronize facts across repo. Use RHETORIC-ENGINE.md for persuasion quality. Use QA-ENGINE.md for adversarial preparation. Use PERFORMANCE-ENGINE.md for physical delivery and team coordination. Use META-ENGINE.md to diagnose and fix the engine ecosystem itself. Run ENGINE-FACTORY.md periodically to check for missing engines and domain coverage gaps.
 
 ## Working with This Repository
 
