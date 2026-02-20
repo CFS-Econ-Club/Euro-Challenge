@@ -109,3 +109,9 @@
 2. **Delete Stale Fragments:** It is better to have a slightly shorter Q&A doc than to leave in a question about a mechanism we deleted during a FACELIFT.
 3. **No Silent Changes:** When this engine changes a script to match a policy, it should flag that change clearly in the cycle log, as it may affect timing or rhetorical flow.
 4. **Trigger After Upheaval:** This engine is most critical immediately after `FACELIFT-ENGINE` runs. A major structural change necessitates a consistency pass.
+### Consistency Cycle 1 — Feb 2026
+**Diagnostics Run:** A, B, C, D
+**Failing Diagnostics:** A, B, C (due to massive FACELIFT-ENGINE Upgrade 1 altering Policy 1 & 3 from €12B combined to €3.1B combined and completely novel mechanisms).
+**Upgrades Applied:** UPGRADE 1, UPGRADE 2, UPGRADE 3, UPGRADE 4
+**Files Modified:** overview.md, financing-plan.md, policy-synergies.md, speaker-4-script.md, speaker-5-script.md, slide-outline.md, brochure-content.md, qa-master-document.md
+**Result:** Pervasive €17B package references eliminated. All artifacts correctly pitch the lean €8.1B "Surgical Strike" package, DCOI, ATIP's 120% premium, and the Klimaatkorps direct-hire model. Global repo coherence successfully attained.
