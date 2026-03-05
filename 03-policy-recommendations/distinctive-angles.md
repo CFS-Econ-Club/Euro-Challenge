@@ -181,7 +181,7 @@ HYDROGEN GATEWAY ─────────────────────
 
 **Opening** (Speaker 1): "The Netherlands has everything it needs to lead Europe's green transition—the infrastructure, the technology, and the hard-won wisdom of past transitions."
 
-**Closing** (Speaker 5): "Our €17 billion investment doesn't just solve Dutch problems—it builds the hydrogen gateway, the innovation ecosystem, and the just transition model that all of Europe needs. And the euro makes every part of it possible."
+**Closing** (Speaker 5): "Our €8.1 billion investment doesn't just solve Dutch problems—it builds the hydrogen gateway, the innovation ecosystem, and the just transition model that all of Europe needs. And the euro makes every part of it possible."
 
 ---
 

@@ -59,10 +59,10 @@ Climate action requires substantial investment:
 - Agricultural transformation: € billions
 
 **Our Policy Investment:**
-- Grid Modernization: €10 billion over 5 years
+- Grid Optimization (DCOI): €600 million over 5 years
 - Agricultural Transition: €5 billion over 7 years
-- Green Skills: €2 billion over 5 years
-- Total: €17 billion
+- Green Skills (Klimaatkorps): €2.5 billion over 5 years
+- Total: €8.1 billion
 
 **Financing Sources:**
 - Government budgets (Climate Fund)
@@ -132,7 +132,7 @@ For the Netherlands specifically:
 - Strategic: energy independence
 
 **Our Recommendations:**
-- €17 billion investment
+- €8.1 billion investment
 - Direct job creation
 - Economic returns through avoided damage
 - Competitive positioning
@@ -156,7 +156,7 @@ Cost-benefit analysis strengthens our presentation:
 ## Key Quotes / Talking Points
 
 - "The economics of climate action are clear: the costs of inaction — flood damage, health costs, lost competitiveness — far exceed the investment needed for transition. Most studies show benefits 2-4 times the costs."
-- "Our €17 billion investment package — €10 billion for grid modernization, €5 billion for agricultural transition, €2 billion for green skills — is not spending; it's investment with positive returns."
+- "Our €8.1 billion investment package — €600 million for grid optimization, €5 billion for agricultural transition, €2.5 billion for green skills — is not spending; it's investment with positive returns."
 - "Every year of delay in the green transition costs the Dutch economy billions in lost clean energy, delayed emissions reduction, and foregone economic activity. The return on grid investment alone is strongly positive."
 - "We choose action because it's not just the right thing to do environmentally — it's the smart economic choice that will create jobs, drive innovation, and maintain Dutch competitiveness."
 

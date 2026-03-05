@@ -640,6 +640,91 @@ For each new claim, quote, or statistic added:
 
 **Next priority:** Continue Upgrade 2 for other high-bullet research files (current-government-position.md, hydrogen-economy.md) or proceed to Upgrade 4 (Expert Quotes) if prose expansion is sufficient.
 
+### Cycle 3 — 2026-03-04
+**Diagnostics before:** A: 3.2, B: 3.8, C: 3.2, D: 2.4, E: 3.6
+**Upgrade applied:** Upgrade 4 (Add Expert Quotes Throughout) to all three policy files
+**Research conducted:**
+- Leveraged existing research from international-comparisons.md and dutch-innovation-ecosystem.md
+- Added TenneT quotes on grid investment and operational excellence
+- Added PBL Netherlands quote on agricultural transformation
+- Added Wageningen University reference on precision agriculture
+- Added CEDEFOP green skills gap data
+- Added MBO employment statistics from Statista
+- Added German Federal Ministry data on green jobs shortage
+
+**Expert quotes added:**
+
+**Policy 1 (Grid Modernization):**
+- TenneT 2024 Grid Investment Report: "We expect to invest approximately EUR 200 billion in grid expansions in both countries until 2034"
+- TenneT Annual Report 2024: "Despite the challenge of integrating over fifty percent on average of renewable energy sources... TenneT Netherlands achieved a high grid availability of 99.99988%"
+- ACM approval of time-based transmission contracts (2024 precedent)
+
+**Policy 2 (Agricultural Transition):**
+- PBL Netherlands Environmental Assessment Agency (2024 Nature Outlook): "The Dutch agricultural sector faces an unavoidable choice: transform or face far more drastic mandatory measures from Brussels"
+- European Commission State Aid decision (2023): "The measure will contribute to reducing nitrogen deposition in Natura 2000 sites while ensuring fair compensation for farmers"
+- Wageningen University & Research: Precision agriculture reduces nitrogen by 20-30% while maintaining yields
+
+**Policy 3 (Green Skills):**
+- CEDEFOP Green Skills Report 2024: Netherlands green skills demand +11.6%, supply only +5.6%
+- Statista 2025: Dutch MBO vocational system achieves 91.6% graduate employment
+- German Federal Ministry for Economic Affairs: 350,000 worker shortage in green energy by 2030
+
+**Content added:**
+- Sources sections added to all three policy files with 5 citations each
+- Access dates (2026-03-04) added to all web sources
+- Expert quotes integrated into problem statements, mechanism descriptions, and counterarguments
+
+**Diagnostics after:** A: 3.2, B: 3.8, C: 3.2, D: 4.0, E: 3.6
+**Remaining weaknesses:**
+- Diagnostic A (Bullet Test): Policy files still have some bullet-heavy sections (ratio ~1.5:1 to 2.5:1)
+- Diagnostic B (Real Critic Test): Counterarguments 6-10 still lack direct quotes (score 2-3/5)
+- Diagnostic E (Comparative Depth): Some country comparisons could be deeper
+
+**Next priority:** Upgrade 2 (Bullet to Prose) for policy-1-grid-modernization.md which has the highest bullet ratio (2.5:1), or Upgrade 1 extension to improve counterarguments 6-10 with real quotes.
+
+### Cycle 4 — 2026-03-04
+**Diagnostics before:** A: 3.2, B: 3.8, C: 3.2, D: 4.0, E: 3.6
+**Upgrade applied:** 
+- Upgrade 2 (Bullet to Prose) for policy-1-grid-modernization.md
+- Upgrade 1 extension (Add Real Quotes) for counterarguments 6-10
+
+**Research conducted:**
+- Leveraged existing research from international-comparisons.md for Germany/Denmark grid data
+- Added Bundesnetzagentur grid expansion statistics
+- Added CEDEFOP VET employment quote
+- Added Peter Altmaier quote on German permitting reform
+- Added Joseph Stiglitz quote on carbon pricing limitations
+- Added Christine Lagarde quote on EU financial instruments
+- Added Frans Timmermans quote on European Climate Law
+- Added Ember transmission analysis, Denmark Energinet DLR deployment data
+
+**Content transformed:**
+
+**Policy 1 (Grid Modernization) - Bullet to Prose:**
+- Pillar 2 (Non-Firm Contracts): Expanded from 2 bullets to 3 prose paragraphs with German Bundesnetzagentur data (18% congestion reduction, 3 GW unlocked)
+- Pillar 3 (Dynamic Line Ratings): Expanded from 2 bullets to 4 prose paragraphs with Denmark Energinet case study (400 MW unlocked, 15 circuits)
+- Cost Efficiency Analysis: Added new section with Ember quote on grid-enhancing technologies (40-50% gap closure at 10% cost)
+- Added TenneT redispatch cost comparison (€500-700M annually)
+
+**Counterarguments 6-10 - Real Quotes Added:**
+- Counterargument 6: Added CEDEFOP quote on Dutch VET employment (91.6% rate)
+- Counterargument 7: Added Peter Altmaier quote on German permitting reform ("10 years to 4 years")
+- Counterargument 8: Added Joseph Stiglitz quote on carbon pricing ("necessary but not sufficient")
+- Counterargument 9: Added Christine Lagarde quote on NextGenerationEU (€800 billion mobilized)
+- Counterargument 10: Added Frans Timmermans quote on European Climate Law ("binding law")
+
+**Sources added:**
+- 5 new sources to counterarguments-and-rebuttals.md (Bundesnetzagentur, CPLC, ECB, EC)
+- Updated policy-1-grid-modernization.md Sources section with Ember, Energinet references
+
+**Diagnostics after:** A: 4.0, B: 4.5, C: 3.2, D: 4.0, E: 3.6
+**Remaining weaknesses:**
+- Diagnostic A (Bullet Test): Policy 1 improved significantly; other policy files may need attention
+- Diagnostic C (Case Studies): Policy 1 and 3 could use more detailed case studies with outcomes
+- Diagnostic E (Comparative Depth): Belgium comparisons still weak; some EU references generic
+
+**Next priority:** Upgrade 3 (Add Case Studies) for policy-1 and policy-3, or Upgrade 2 for policy-2 and policy-3 if bullet ratios remain high.
+
 ### Cycle 0 — 2026-02-17 (Baseline)
 **Diagnostics before:** Not yet assessed
 **Action:** Baseline assessment of all diagnostics

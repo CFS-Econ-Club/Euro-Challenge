@@ -122,6 +122,6 @@ Ask these or similar questions:
 3. "How does the EU ETS work?"
 4. "What would you do differently?"
 5. "How do your policies connect to each other?"
-6. "Is €17 billion too expensive?"
+6. "Is €8.1 billion too expensive?"
 7. "What happens if farmers don't participate?"
 8. "How does the euro help here?"

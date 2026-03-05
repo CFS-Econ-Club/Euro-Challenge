@@ -384,7 +384,7 @@
   - Grid modernization creates demand for green-skilled workers (Policy 3) and enables farmers to sell renewable energy (Policy 2, Pathway C)
   - Agricultural transition frees land for nature restoration (carbon sinks) and reduces nitrogen, unblocking construction permits for housing and infrastructure
   - Workforce initiative ensures social legitimacy and political sustainability for both other policies
-- Estimated combined cost: ~€17 billion over 5–7 years (manageable given Netherlands' ~€1 trillion GDP and low debt ratio)
+- Estimated combined cost: ~€8.1 billion over 5–7 years (manageable given Netherlands' ~€1 trillion GDP and low debt ratio)
 - Estimated combined impact: [X]% additional GHG reduction toward 2030 target; [X] MW grid capacity; [X] jobs created
 
 ---
@@ -544,7 +544,7 @@ For each of the three policies, ensure the team can articulate:
 
 | # | Anticipated Question | Model Answer Framework |
 |---|---------------------|----------------------|
-| 23 | How will you finance €17 billion in spending when the Dutch deficit is already widening? | Netherlands has one of the lowest debt ratios in the euro area (~45% vs. 60% limit); €17B over 5–7 years is ~0.3% of GDP annually; significant EU co-funding available (RRF, JTF, CAP); green bonds attract favorable interest rates; long-term fiscal benefit of avoided climate damages exceeds investment cost; smart sequencing (grid investment generates returns that help fund later programs) |
+| 23 | How will you finance €8.1 billion in spending when the Dutch deficit is already widening? | Netherlands has one of the lowest debt ratios in the euro area (~45% vs. 60% limit); €8.1B over 5–7 years is ~0.15% of GDP annually; significant EU co-funding available (RRF, JTF, CAP); green bonds attract favorable interest rates; long-term fiscal benefit of avoided climate damages exceeds investment cost; smart sequencing (grid investment generates returns that help fund later programs) |
 | 24 | Why voluntary agricultural buyouts instead of mandatory regulation? | Mandatory approach triggered farmer protests and political backlash; voluntary approach with generous incentives can achieve similar participation rates with greater social acceptance; offering multiple pathways (not just buyout) respects farmer agency; can always add regulatory backstop later if targets not met |
 | 25 | What if farmers don't voluntarily participate? | Program designed with above-market-value incentives (120% of market value for buyouts); multiple pathways so farmers can choose what works; if participation is insufficient after 3 years, recommend mandatory measures for highest-emitting farms near most sensitive nature areas; build in escalation mechanism |
 | 26 | Grid investment takes years — how does this help meet 2030 targets? | Fast-track permitting reduces timeline from 5+ years to 2 years; immediate deployment of smart grid technology and battery storage can relieve congestion before full grid expansion; complements existing renewable capacity that is currently curtailed; every MW of grid unlocked immediately reduces emissions |
