@@ -29,7 +29,11 @@ That country is the Netherlands. And today, we'll show you how the euro makes ou
 
 **[SLIGHT LEAN FORWARD]**
 
-Our team has spent months researching one question: How can the Netherlands meet its legally binding climate targets while maintaining economic strength? **[SLOW DOWN - EMPHASIS]** The answer is three interconnected policies totaling **€8.1 billion**—designed specifically for the bottlenecks holding us back."
+Our team has spent months researching one question: How can the Netherlands meet its legally binding climate targets while maintaining economic strength? **[SLOW DOWN - EMPHASIS]** The answer is three interconnected policies totaling **€8.1 billion**—designed specifically for the bottlenecks holding us back.
+
+**[PAUSE - MAKE EYE CONTACT]**
+
+And here's the key: **45% of that funding comes from EU mechanisms** that only euro members can access."
 
 **[PAUSE - TRANSITION GESTURE]**
 
@@ -89,7 +93,11 @@ The current deposit facility rate stands at **[SLOW DOWN]** 2.00%, down signific
 
 **[OPEN HAND GESTURE]**
 
-For our policies, this matters: lower rates mean cheaper borrowing for our €8.1 billion investment. Green bonds benefit from ECB support for sustainable finance. And the stability the ECB provides creates the certainty investors need for long-term climate infrastructure."
+For our policies, this matters: lower rates mean cheaper borrowing for our €8.1 billion investment. Green bonds benefit from ECB support for sustainable finance. And the stability the ECB provides creates the certainty investors need for long-term climate infrastructure.
+
+**[LEAN FORWARD SLIGHTLY]**
+
+This is the euro advantage: one monetary policy across 20 member states, giving the Netherlands the stability to plan decade-long climate investments without currency risk or sovereign debt spikes."
 
 **[SLIDE 7 - Context Summary] [3:00-3:30]**
 

@@ -21,7 +21,7 @@ Anchor questions test baseline economics understanding and are scored separately
 
 **Common Wrong Answer to Avoid:** "GDP is the total money a country makes" (too vague) or "GDP measures how rich a country is" (conflates GDP with wealth/standard of living).
 
-**Connect to Our Topic:** "For the Netherlands, GDP is €1.2 trillion. Our €17 billion climate investment package represents about 1.4% of GDP—significant but affordable, especially given our 43% debt-to-GDP ratio, well below the 60% EU limit."
+**Connect to Our Topic:** "For the Netherlands, GDP is €1.2 trillion. Our €8.1 billion climate investment package represents about 0.7% of GDP—significant but affordable, especially given our 43% debt-to-GDP ratio, well below the 60% EU limit."
 
 ---
 
@@ -51,7 +51,7 @@ Anchor questions test baseline economics understanding and are scored separately
 
 **Common Wrong Answer to Avoid:** "GDP per capita is the average income" (close but not identical—national income accounts differ) or "Higher GDP per capita means everyone is richer" (ignores distribution).
 
-**Connect to Our Topic:** "The Netherlands has GDP per capita of about €67,000—among the highest in the EU. This means we can afford climate investment. Our €17 billion package costs about €950 per person per year over the investment period—significant but manageable for a high-income country."
+**Connect to Our Topic:** "The Netherlands has GDP per capita of about €67,000—among the highest in the EU. This means we can afford climate investment. Our €8.1 billion package costs about €450 per person over the investment period—significant but manageable for a high-income country."
 
 ---
 
@@ -83,7 +83,7 @@ Anchor questions test baseline economics understanding and are scored separately
 
 **Common Wrong Answer to Avoid:** "2% is just a random number" (it's based on research and experience) or "Lower inflation is always better" (zero risks deflation trap).
 
-**Connect to Our Topic:** "With inflation at 2%, the ECB has room to support growth while maintaining price stability. The deposit rate is now 2.00%. This stable monetary environment makes our €17 billion climate investment more predictable—financing costs won't spike unexpectedly."
+**Connect to Our Topic:** "With inflation at 2%, the ECB has room to support growth while maintaining price stability. The deposit rate is now 2.00%. This stable monetary environment makes our €8.1 billion climate investment more predictable—financing costs won't spike unexpectedly."
 
 ---
 
@@ -137,7 +137,7 @@ Anchor questions test baseline economics understanding and are scored separately
 
 **Common Wrong Answer to Avoid:** "Each euro country sets its own monetary policy" (no, ECB sets it centrally) or "Monetary policy is about government spending" (that's fiscal policy).
 
-**Connect to Our Topic:** "This is crucial for understanding euro implications for our policies. The Netherlands cannot set its own interest rates or print money—we use ECB policy. Currently, the ECB deposit rate is 2.00%, which supports investment. Our €17 billion climate package benefits from ECB policy even though we don't control it."
+**Connect to Our Topic:** "This is crucial for understanding euro implications for our policies. The Netherlands cannot set its own interest rates or print money—we use ECB policy. Currently, the ECB deposit rate is 2.00%, which supports investment. Our €8.1 billion climate package benefits from ECB policy even though we don't control it."
 
 ---
 
@@ -147,7 +147,7 @@ Anchor questions test baseline economics understanding and are scored separately
 
 **Common Wrong Answer to Avoid:** "Lower rates always boost the economy" (can create bubbles or inflation) or "Rates only affect borrowers" (affect savers, asset prices, exchange rates too).
 
-**Connect to Our Topic:** "The ECB cut rates from 4% to 2% as inflation fell. Lower rates mean cheaper financing for our €17 billion climate investment. Our Grid Modernization Fund can borrow at lower cost. The euro area monetary policy directly enables our green transition—this is a concrete benefit of euro membership."
+**Connect to Our Topic:** "The ECB cut rates from 4% to 2% as inflation fell. Lower rates mean cheaper financing for our €8.1 billion climate investment. Our Grid Modernization Fund can borrow at lower cost. The euro area monetary policy directly enables our green transition—this is a concrete benefit of euro membership."
 
 ---
 
@@ -157,7 +157,7 @@ Anchor questions test baseline economics understanding and are scored separately
 
 **Common Wrong Answer to Avoid:** "QE is the same as printing money" (technically creates bank reserves, not cash) or "QE always causes inflation" (didn't in 2010s when inflation remained low).
 
-**Connect to Our Topic:** "QE helped keep borrowing costs low during the pandemic, enabling euro area governments to borrow cheaply for green investment. Our policies benefit from this history—low sovereign debt costs mean we can finance the €17 billion package at favorable rates. The ECB's Pandemic Emergency Purchase Programme created space for climate investment."
+**Connect to Our Topic:** "QE helped keep borrowing costs low during the pandemic, enabling euro area governments to borrow cheaply for green investment. Our policies benefit from this history—low sovereign debt costs mean we can finance the €8.1 billion package at favorable rates. The ECB's Pandemic Emergency Purchase Programme created space for climate investment."
 
 ---
 
@@ -169,7 +169,7 @@ Anchor questions test baseline economics understanding and are scored separately
 
 **Common Wrong Answer to Avoid:** "Fiscal and monetary policy are the same thing" (completely different tools and actors) or "The ECB controls fiscal policy" (no, national governments do).
 
-**Connect to Our Topic:** "This distinction matters for our policies. The ECB sets interest rates (monetary), but the Dutch government must approve our €17 billion investment package (fiscal). We're recommending fiscal expansion for climate investment while monetary policy is supportive. This coordination between fiscal and monetary policy—possible because inflation is controlled—creates the right conditions for green investment."
+**Connect to Our Topic:** "This distinction matters for our policies. The ECB sets interest rates (monetary), but the Dutch government must approve our €8.1 billion investment package (fiscal). We're recommending fiscal expansion for climate investment while monetary policy is supportive. This coordination between fiscal and monetary policy—possible because inflation is controlled—creates the right conditions for green investment."
 
 ---
 
@@ -179,7 +179,7 @@ Anchor questions test baseline economics understanding and are scored separately
 
 **Common Wrong Answer to Avoid:** "All government debt is bad" (can fund productive investment) or "Debt doesn't matter because governments can print money" (euro area countries cannot print money).
 
-**Connect to Our Topic:** "The Netherlands has debt at 43% of GDP—well below the 60% EU limit. Our deficit is about 0.9% of GDP—well below the 3% limit. This means we have fiscal space for our €17 billion climate investment. The investment creates assets—grid infrastructure, skilled workers, restored ecosystems—that benefit future generations. This is responsible debt for productive investment."
+**Connect to Our Topic:** "The Netherlands has debt at 43% of GDP—well below the 60% EU limit. Our deficit is about 0.9% of GDP—well below the 3% limit. This means we have fiscal space for our €8.1 billion climate investment. The investment creates assets—grid infrastructure, skilled workers, restored ecosystems—that benefit future generations. This is responsible debt for productive investment."
 
 ---
 
@@ -189,7 +189,7 @@ Anchor questions test baseline economics understanding and are scored separately
 
 **Common Wrong Answer to Avoid:** "All deficits are equally problematic" (cyclical deficits self-correct) or "Deficits always mean irresponsible policy" (can reflect appropriate stimulus).
 
-**Connect to Our Topic:** "The Netherlands' deficit of 0.9% is largely structural, not cyclical—we're near full employment. Our €17 billion climate investment will increase the deficit temporarily, but it's investment, not consumption. The assets created—grid capacity, workforce skills, reduced emissions—have long-term returns. This is responsible fiscal policy that distinguishes between wasteful spending and productive investment."
+**Connect to Our Topic:** "The Netherlands' deficit of 0.9% is largely structural, not cyclical—we're near full employment. Our €8.1 billion climate investment will increase the deficit temporarily, but it's investment, not consumption. The assets created—grid capacity, workforce skills, reduced emissions—have long-term returns. This is responsible fiscal policy that distinguishes between wasteful spending and productive investment."
 
 ---
 
@@ -221,7 +221,7 @@ Anchor questions test baseline economics understanding and are scored separately
 
 **Common Wrong Answer to Avoid:** "Single currency is purely economic" (deeply political too) or "The euro has no costs" (lost sovereignty, adjustment mechanisms).
 
-**Connect to Our Topic:** "This is THE question for our presentation. The euro costs the Netherlands independent monetary policy and exchange rate adjustment. But it provides: €4 billion in EU funding for climate projects, access to Europe's €690 billion ESG bond market, and carbon pricing through EU ETS. For our €17 billion climate package, the euro enables MORE than it constrains. We lose exchange rate adjustment but gain access to capital and policy tools no single country could create."
+**Connect to Our Topic:** "This is THE question for our presentation. The euro costs the Netherlands independent monetary policy and exchange rate adjustment. But it provides: €4 billion in EU funding for climate projects, access to Europe's €690 billion ESG bond market, and carbon pricing through EU ETS. For our €8.1 billion climate package, the euro enables MORE than it constrains. We lose exchange rate adjustment but gain access to capital and policy tools no single country could create."
 
 ---
 
@@ -267,7 +267,7 @@ Anchor questions test baseline economics understanding and are scored separately
 
 **Common Wrong Answer to Avoid:** "Volatility is good because businesses can profit from it" (most non-financial businesses want stability for planning) or "It only affects multi-national corporations" (affects any business importing supplies or facing foreign competition).
 
-**Connect to Our Topic:** "This is a key benefit of the euro. The Netherlands conducts over 70% of its trade with other EU countries. By sharing the euro, Dutch businesses face zero exchange rate volatility for the vast majority of their transactions. This stability is crucial when planning 20-year green investments like our €10 billion grid modernization."
+**Connect to Our Topic:** "This is a key benefit of the euro. The Netherlands conducts over 70% of its trade with other EU countries. By sharing the euro, Dutch businesses face zero exchange rate volatility for the vast majority of their transactions. This stability is crucial when planning 20-year green investments like our €600 million grid optimization."
 
 **30-Second Version:** "Exchange rate volatility creates uncertainty, complicates long-term planning, and requires costly hedging for exporters and importers. Implementing the euro eliminated this volatility for most Dutch trade, providing the stability necessary for multi-decade, billion-euro climate infrastructure investments."
 
@@ -293,9 +293,9 @@ Anchor questions test baseline economics understanding and are scored separately
 
 **Common Wrong Answer to Avoid:** "Automatic stabilizers refer to central bank actions" (that's monetary policy; these are fiscal) or "They refer to stimulus packages passed by parliament" (those are discretionary fiscal policy).
 
-**Connect to Our Topic:** "The Netherlands has strong automatic stabilizers through our robust social safety net. Because these stabilizers handle cyclical downturns automatically, it gives the government the fiscal space to make discretionary, long-term investments like our €17 billion climate package without worrying that a sudden recession will leave the state unable to support its citizens."
+**Connect to Our Topic:** "The Netherlands has strong automatic stabilizers through our robust social safety net. Because these stabilizers handle cyclical downturns automatically, it gives the government the fiscal space to make discretionary, long-term investments like our €8.1 billion climate package without worrying that a sudden recession will leave the state unable to support its citizens."
 
-**30-Second Version:** "Automatic stabilizers are fiscal mechanisms, like progressive taxes and unemployment benefits, that automatically cushion economic shocks without new laws. Their existence in the Netherlands provides the underlying fiscal resilience needed to safely undertake our massive €17 billion discretionary climate investment."
+**30-Second Version:** "Automatic stabilizers are fiscal mechanisms, like progressive taxes and unemployment benefits, that automatically cushion economic shocks without new laws. Their existence in the Netherlands provides the underlying fiscal resilience needed to safely undertake our massive €8.1 billion discretionary climate investment."
 
 ---
 
@@ -305,7 +305,7 @@ Anchor questions test baseline economics understanding and are scored separately
 
 **Common Wrong Answer to Avoid:** "The multiplier is always the same" (it varies wildly by economic conditions) or "Government spending always pays for itself" (rarely true; multiplier must be exceptionally high).
 
-**Connect to Our Topic:** "Our €17 billion package has a high multiplier effect because it leverages private investment. Our €10 billion grid modernization unlocks billions more in private renewable energy projects that currently can't connect. We are not just spending money; we are removing infrastructural bottlenecks that trigger cascading private sector economic activity."
+**Connect to Our Topic:** "Our €8.1 billion package has a high multiplier effect because it leverages private investment. Our €600 million grid optimization unlocks billions more in private renewable energy projects that currently can't connect. We are not just spending money; we are removing infrastructural bottlenecks that trigger cascading private sector economic activity."
 
 **30-Second Version:** "The fiscal multiplier is the ratio of a change in national income to the change in government spending that causes it. Our climate investment has a uniquely high multiplier because it removes infrastructural bottlenecks (like grid congestion), directly unlocking billions in stalled private sector investment."
 
@@ -319,7 +319,7 @@ Anchor questions test baseline economics understanding and are scored separately
 
 **Connect to Our Topic:** "With the Netherlands at 4.0% unemployment, crowding out is a real concern—we could crowd out private climate spending. This is precisely why our policies are carefully targeted at public goods that the private sector cannot provide alone: the transmission grid and agricultural land buyouts. We aren't crowding private investment out; we are 'crowding it in' by providing the prerequisites for it to happen."
 
-**30-Second Version:** "Crowding out happens when government borrowing raises interest rates, reducing private investment. While a risk in our tight labor market, our €17 billion package avoids this because it funds public goods (grid infrastructure) that actually 'crowd in' or enable stalled private sector green investments."
+**30-Second Version:** "Crowding out happens when government borrowing raises interest rates, reducing private investment. While a risk in our tight labor market, our €8.1 billion package avoids this because it funds public goods (grid infrastructure) that actually 'crowd in' or enable stalled private sector green investments."
 
 ---
 
@@ -341,9 +341,9 @@ Anchor questions test baseline economics understanding and are scored separately
 
 **Common Wrong Answer to Avoid:** "Supply-side policy just means tax cuts for the rich" (it encompasses infrastructure, deregulation, and education) or "It only works in the short run" (it is explicitly a long-run strategy).
 
-**Connect to Our Topic:** "While our €17 billion package involves government spending, it is fundamentally a supply-side policy. We are not trying to stimulate consumer demand. We are expanding the productive capacity of the Dutch economy by expanding the electricity grid, improving workforce skills, and solving the nitrogen supply-chain blockage. We are removing structural constraints on growth."
+**Connect to Our Topic:** "While our €8.1 billion package involves government spending, it is fundamentally a supply-side policy. We are not trying to stimulate consumer demand. We are expanding the productive capacity of the Dutch economy by expanding the electricity grid, improving workforce skills, and solving the nitrogen supply-chain blockage. We are removing structural constraints on growth."
 
-**30-Second Version:** "Supply-side fiscal policy aims to increase long-term economic capacity by removing barriers to production and improving infrastructure/skills. Our €17 billion package is classic supply-side policy: we aren't stimulating consumer demand; we're removing structural grid and nitrogen bottlenecks that constrain Dutch economic output."
+**30-Second Version:** "Supply-side fiscal policy aims to increase long-term economic capacity by removing barriers to production and improving infrastructure/skills. Our €8.1 billion package is classic supply-side policy: we aren't stimulating consumer demand; we're removing structural grid and nitrogen bottlenecks that constrain Dutch economic output."
 
 ---
 
@@ -355,9 +355,9 @@ Anchor questions test baseline economics understanding and are scored separately
 
 **Common Wrong Answer to Avoid:** "Rate cuts immediately lower prices" (they take time and affect demand, not prices directly) or "The ECB directly controls mortgage rates" (they control the policy rate; markets determine the rest).
 
-**Connect to Our Topic:** "Understanding the transmission lag is crucial for our policies. The ECB cut rates to 2.00% recently, but the full stimulative effect on the real economy is still filtering through the transmission mechanism. By locking in our €17 billion infrastructure funding now, we position the Netherlands to execute these projects just as financing conditions for private partners fully optimize."
+**Connect to Our Topic:** "Understanding the transmission lag is crucial for our policies. The ECB cut rates to 2.00% recently, but the full stimulative effect on the real economy is still filtering through the transmission mechanism. By locking in our €8.1 billion infrastructure funding now, we position the Netherlands to execute these projects just as financing conditions for private partners fully optimize."
 
-**30-Second Version:** "The transmission mechanism is how central bank rate changes flow through banks, asset prices, and exchange rates to impact the real economy and inflation. It takes 12-18 months. As the ECB's recent rate cuts transmit through the economy, financing conditions for our €17 billion green infrastructure plan will become highly favorable."
+**30-Second Version:** "The transmission mechanism is how central bank rate changes flow through banks, asset prices, and exchange rates to impact the real economy and inflation. It takes 12-18 months. As the ECB's recent rate cuts transmit through the economy, financing conditions for our €8.1 billion green infrastructure plan will become highly favorable."
 
 ---
 
@@ -367,9 +367,9 @@ Anchor questions test baseline economics understanding and are scored separately
 
 **Common Wrong Answer to Avoid:** "Forward guidance is a legally binding promise" (it's conditional on economic data) or "It's a new type of interest rate."
 
-**Connect to Our Topic:** "The ECB's forward guidance regarding interest rates provides the predictability needed for complex climate infrastructure. When TenneT plans a 10-year grid expansion, or a farmer decides to transition under our Policy 2, they need predictability in financing costs. The ECB's clear communication strategy helps underwrite the risk of our €17 billion, multi-year transition plan."
+**Connect to Our Topic:** "The ECB's forward guidance regarding interest rates provides the predictability needed for complex climate infrastructure. When TenneT plans a 10-year grid expansion, or a farmer decides to transition under our Policy 2, they need predictability in financing costs. The ECB's clear communication strategy helps underwrite the risk of our €8.1 billion, multi-year transition plan."
 
-**30-Second Version:** "Forward guidance is when central banks communicate their future policy intentions to influence long-term interest rates and market expectations today. The ECB's effective forward guidance provides the financial predictability required for the Netherlands to confidently launch our multi-year, €17 billion climate investment program."
+**30-Second Version:** "Forward guidance is when central banks communicate their future policy intentions to influence long-term interest rates and market expectations today. The ECB's effective forward guidance provides the financial predictability required for the Netherlands to confidently launch our multi-year, €8.1 billion climate investment program."
 
 ---
 
@@ -391,9 +391,9 @@ Anchor questions test baseline economics understanding and are scored separately
 
 **Common Wrong Answer to Avoid:** "A liquidity trap is when banks have no money" (they have money but won't lend/people won't borrow) or "It's caused by high interest rates."
 
-**Connect to Our Topic:** "Before the recent inflation spike, the euro area spent years skirting a liquidity trap with negative interest rates. Should the euro area economy severely stumble again and traditional monetary policy reach its limit, the €17 billion infrastructure package we recommend provides exactly the kind of robust, productive fiscal stimulus required to pull an economy out of a liquidity trap."
+**Connect to Our Topic:** "Before the recent inflation spike, the euro area spent years skirting a liquidity trap with negative interest rates. Should the euro area economy severely stumble again and traditional monetary policy reach its limit, the €8.1 billion infrastructure package we recommend provides exactly the kind of robust, productive fiscal stimulus required to pull an economy out of a liquidity trap."
 
-**30-Second Version:** "A liquidity trap happens when near-zero interest rates fail to stimulate borrowing and spending because of economic pessimism, rendering monetary policy ineffective. This requires fiscal policy to take over. Our €17 billion climate package represents the kind of productive fiscal intervention necessary if the euro area faces such conditions."
+**30-Second Version:** "A liquidity trap happens when near-zero interest rates fail to stimulate borrowing and spending because of economic pessimism, rendering monetary policy ineffective. This requires fiscal policy to take over. Our €8.1 billion climate package represents the kind of productive fiscal intervention necessary if the euro area faces such conditions."
 
 ---
 
@@ -403,9 +403,9 @@ Anchor questions test baseline economics understanding and are scored separately
 
 **Common Wrong Answer to Avoid:** "The ECB is completely unaccountable" (it reports to the European Parliament and operates under a clear legal mandate) or "National governments vote on ECB rates."
 
-**Connect to Our Topic:** "Because the ECB is fiercely independent, the Dutch government cannot rely on it to print money or manipulate rates to fund our €17 billion climate package. We are forced to ensure our policies are fiscally sound and economically viable on their own merits. Our package is fully funded through existing mechanisms and reallocation, respecting the strict separation of fiscal and monetary powers in the EU."
+**Connect to Our Topic:** "Because the ECB is fiercely independent, the Dutch government cannot rely on it to print money or manipulate rates to fund our €8.1 billion climate package. We are forced to ensure our policies are fiscally sound and economically viable on their own merits. Our package is fully funded through existing mechanisms and reallocation, respecting the strict separation of fiscal and monetary powers in the EU."
 
-**30-Second Version:** "ECB independence prevents politicians from manipulating monetary policy or printing money for short-term gain, ensuring long-term price stability. Because we cannot rely on a compliant central bank to finance deficits, our €17 billion climate policy is rigorously designed to be fiscally sustainable within existing Dutch revenue streams."
+**30-Second Version:** "ECB independence prevents politicians from manipulating monetary policy or printing money for short-term gain, ensuring long-term price stability. Because we cannot rely on a compliant central bank to finance deficits, our €8.1 billion climate policy is rigorously designed to be fiscally sustainable within existing Dutch revenue streams."
 
 ---
 
@@ -417,9 +417,9 @@ Anchor questions test baseline economics understanding and are scored separately
 
 **Common Wrong Answer to Avoid:** "It's the central bank's rulebook" (it governs national fiscal policy, not monetary) or "Any country over 60% debt is immediately fined" (enforcement is complex and recently reformed).
 
-**Connect to Our Topic:** "The Netherlands is a model of SGP compliance, with a deficit of 1.8% and debt at 45% of GDP. This compliance is our superpower. Under the revised SGP rules, our strong fiscal foundation allows us the legal and financial headroom to deploy our €17 billion climate intervention without violating EU rules or triggering oversight procedures."
+**Connect to Our Topic:** "The Netherlands is a model of SGP compliance, with a deficit of 1.8% and debt at 45% of GDP. This compliance is our superpower. Under the revised SGP rules, our strong fiscal foundation allows us the legal and financial headroom to deploy our €8.1 billion climate intervention without violating EU rules or triggering oversight procedures."
 
-**30-Second Version:** "The SGP sets EU fiscal rules limiting deficits to 3% of GDP and debt to 60%. While recently reformed to allow flexibility for green investments, the Netherlands' strict adherence (1.8% deficit, 45% debt) means our €17 billion climate package is entirely safe from EU fiscal penalties or restrictive oversight."
+**30-Second Version:** "The SGP sets EU fiscal rules limiting deficits to 3% of GDP and debt to 60%. While recently reformed to allow flexibility for green investments, the Netherlands' strict adherence (1.8% deficit, 45% debt) means our €8.1 billion climate package is entirely safe from EU fiscal penalties or restrictive oversight."
 
 ---
 
@@ -429,9 +429,9 @@ Anchor questions test baseline economics understanding and are scored separately
 
 **Common Wrong Answer to Avoid:** "It means you can't have inflation, growth, and low unemployment" (that's a domestic policy trade-off, not the international trilemma).
 
-**Connect to Our Topic:** "The Trilemma explains the fundamental constraint of the Dutch economy: we surrendered independent monetary policy for the benefits of the euro. We cannot respond to the nitrogen crisis or climate transition by lowering Dutch interest rates. Therefore, our response must rely entirely on structural fiscal policy—which is exactly what our €17 billion targeted investment package delivers."
+**Connect to Our Topic:** "The Trilemma explains the fundamental constraint of the Dutch economy: we surrendered independent monetary policy for the benefits of the euro. We cannot respond to the nitrogen crisis or climate transition by lowering Dutch interest rates. Therefore, our response must rely entirely on structural fiscal policy—which is exactly what our €8.1 billion targeted investment package delivers."
 
-**30-Second Version:** "The Impossible Trinity dictates that prioritizing fixed exchange rates and free capital movement means losing independent monetary policy. Entering the euro meant the Netherlands surrendered interest rate control. Thus, to navigate the climate transition, we must rely entirely on targeted fiscal actions—like our €17 billion infrastructure package."
+**30-Second Version:** "The Impossible Trinity dictates that prioritizing fixed exchange rates and free capital movement means losing independent monetary policy. Entering the euro meant the Netherlands surrendered interest rate control. Thus, to navigate the climate transition, we must rely entirely on targeted fiscal actions—like our €8.1 billion infrastructure package."
 
 ---
 

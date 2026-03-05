@@ -26,13 +26,13 @@
 
 **Speaker name:** "[Name]"
 
-**What's coming:** "Here are our solutions. [Name] will present our three interconnected policy recommendations totaling €17 billion."
+**What's coming:** "Here are our solutions. [Name] will present our three interconnected policy recommendations totaling €8.1 billion."
 
 ---
 
 ## Speaker 4 → Speaker 5
 
-**What was covered:** "Our three policies—€10 billion for grid modernization, €5 billion for agricultural transition, €2 billion for green skills—work together as an integrated system."
+**What was covered:** "Our three policies—€600 million for grid optimization, €5 billion for agricultural transition, €2.5 billion for green skills—work together as an integrated system."
 
 **Speaker name:** "[Name]"
 

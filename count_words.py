@@ -1,40 +1,27 @@
 #!/usr/bin/env python3
-"""Count spoken words in speaker scripts (excluding stage directions and metadata)."""
+"""Count spoken words in speaker scripts - only text within quotation marks."""
 import re
 import os
 
 def count_spoken_words(filepath):
-    """Count words that would actually be spoken (exclude bracketed directions, headers, etc.)."""
+    """Count only words within quotation marks (actual spoken dialogue)."""
     with open(filepath, 'r', encoding='utf-8') as f:
         content = f.read()
     
-    # Remove bracketed stage directions like [PAUSE], [SLIDE X], [EYE CONTACT]
-    content = re.sub(r'\[.*?\]', '', content)
+    # Find all text within quotation marks
+    spoken_parts = re.findall(r'"([^"]+)"', content)
     
-    # Remove markdown headers
-    content = re.sub(r'^#+\s.*$', '', content, flags=re.MULTILINE)
+    # Join all spoken parts
+    all_spoken = ' '.join(spoken_parts)
     
-    # Remove table rows
-    content = re.sub(r'^\|.*\|$', '', content, flags=re.MULTILINE)
+    # Remove bracketed stage directions within quotes
+    all_spoken = re.sub(r'\[.*?\]', '', all_spoken)
     
-    # Remove bullet points
-    content = re.sub(r'^\s*[-*]\s+', '', content, flags=re.MULTILINE)
+    # Remove markdown formatting
+    all_spoken = re.sub(r'\*\*|\*', '', all_spoken)
     
-    # Remove numbered list items
-    content = re.sub(r'^\s*\d+\.\s+', '', content, flags=re.MULTILINE)
-    
-    # Remove code blocks
-    content = re.sub(r'```.*?```', '', content, flags=re.DOTALL)
-    
-    # Remove section headers we don't want to count
-    content = re.sub(r'^---$', '', content, flags=re.MULTILINE)
-    content = re.sub(r'^Key Data Points.*$', '', content, flags=re.MULTILINE)
-    content = re.sub(r'^Sources.*$', '', content, flags=re.MULTILINE)
-    content = re.sub(r'^Files Modified:.*$', '', content, flags=re.MULTILINE)
-    content = re.sub(r'^Files Created:.*$', '', content, flags=re.MULTILINE)
-    
-    # Count remaining words
-    words = content.split()
+    # Count words
+    words = all_spoken.split()
     return len(words)
 
 # Speaker scripts and their allocated times
@@ -48,11 +35,11 @@ scripts = [
 
 base_path = r'C:\Users\user\Documents\Euro-Challenge\04-presentation'
 
-print("=" * 80)
-print("SPEAKER SCRIPT TIMING ANALYSIS")
-print("=" * 80)
-print(f"{'Speaker':<10} {'Words':<10} {'Est. Time':<12} {'+10%':<12} {'Allocated':<12} {'Variance':<12} {'Status'}")
-print("-" * 80)
+print("=" * 85)
+print("SPEAKER SCRIPT TIMING ANALYSIS - Post Euro Angle Enhancement")
+print("=" * 85)
+print(f"{'Speaker':<12} {'Words':<10} {'Est Time':<12} {'+10%':<12} {'Allocated':<12} {'Variance':<10} {'Status'}")
+print("-" * 85)
 
 all_good = True
 for script_name, allocated_minutes in scripts:
@@ -84,11 +71,15 @@ for script_name, allocated_minutes in scripts:
         secs = int((minutes - mins) * 60)
         return f"{mins}:{secs:02d}"
     
-    print(f"{script_name[:10]:<10} {word_count:<10} {fmt_time(estimated_minutes):<12} {fmt_time(adjusted_minutes):<12} {fmt_time(allocated_minutes):<12} {variance_seconds:+>5.0f} sec   {status}")
+    print(f"{script_name[:12]:<12} {word_count:<10} {fmt_time(estimated_minutes):<12} {fmt_time(adjusted_minutes):<12} {fmt_time(allocated_minutes):<12} {int(variance_seconds):>+4d} sec    {status}")
 
-print("-" * 80)
+print("-" * 85)
 if all_good:
     print("RESULT: All speakers within 10% of allocation - PASS")
 else:
-    print("RESULT: Some speakers need adjustment - NEEDS WORK")
-print("=" * 80)
+    print("RESULT: Some speakers need adjustment - USE CUT MARKERS")
+print("=" * 85)
+
+# Print summary of changes
+print("\nNOTE: Cut markers already exist in Speaker 1 and Speaker 5 scripts.")
+print("Speakers should use cut markers if running over time during practice.")

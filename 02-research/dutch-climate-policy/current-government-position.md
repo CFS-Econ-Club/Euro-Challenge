@@ -245,11 +245,11 @@ Given current government positions, our policies should be framed:
 
 **Q: "How can you implement these policies with a caretaker government?"**
 
-Model Answer: "Our policies are designed to survive political transitions. The €10 billion Grid Fund uses existing Klimaatfonds infrastructure. The Agricultural Transition builds on the cabinet's own voluntary approach with enhanced funding. Green Skills uses existing MBO (vocational training) institutions. We're not proposing radical new programs—we're scaling proven approaches within existing frameworks."
+Model Answer: "Our policies are designed to survive political transitions. The €600 million DCOI uses existing Klimaatfonds infrastructure. The Agricultural Transition builds on the cabinet's own voluntary approach with enhanced funding. Green Skills uses existing MBO (vocational training) institutions. We're not proposing radical new programs—we're scaling proven approaches within existing frameworks."
 
-**Q: "Why should we invest €17 billion when the cabinet reduced nitrogen funding from €25B to €5B?"**
+**Q: "Why should we invest €8.1 billion when the cabinet reduced nitrogen funding from €25B to €5B?"**
 
-Model Answer: "Different policy priorities. The cabinet's €5 billion is specifically for nitrogen compliance. Our €17 billion addresses three interconnected challenges: grid capacity (which blocks all economic development, not just climate), workforce readiness, and agricultural transition. These investments have positive returns—the cost of inaction is higher than the cost of action."
+Model Answer: "Different policy priorities. The cabinet's €5 billion is specifically for nitrogen compliance. Our €8.1 billion addresses three interconnected challenges: grid capacity (which blocks all economic development, not just climate), workforce readiness, and agricultural transition. These investments have positive returns—the cost of inaction is higher than the cost of action."
 
 ---
 

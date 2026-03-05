@@ -90,7 +90,7 @@ We have 15:00 exactly for presentation. If running:
 
 - **Slow down** for data points (pause for emphasis)
 - **Speed up** for transitions and context
-- **Pause** after key statements (e.g., "€17 billion")
+- **Pause** after key statements (e.g., "€8.1 billion")
 - **Vary tone** for interest—don't monotone
 
 ---

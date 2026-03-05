@@ -98,7 +98,7 @@ Understanding constraints is essential for Part 3:
 
 - "The euro does create constraints on Dutch climate policy. We cannot use our own monetary policy to offset economic impacts of the transition, and EU fiscal rules limit how much we can borrow."
 - "However, these constraints are manageable. The Netherlands has public debt at just 45% of GDP — well below the 60% Maastricht limit — giving us significant fiscal space for climate investment."
-- "Our €17 billion investment package is designed to work within these constraints, using existing EU funds, green bonds, and private co-investment alongside government spending."
+- "Our €8.1 billion investment package is designed to work within these constraints, using existing EU funds, green bonds, and private co-investment alongside government spending."
 - "The euro also provides benefits we discuss in the next section: access to ECB market operations, EU climate funds, and the largest internal market in the world for our green exports."
 
 ---
