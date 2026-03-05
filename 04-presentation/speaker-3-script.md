@@ -89,6 +89,10 @@ The math is clear: investing in mitigation now is far cheaper than paying for ad
 
 **We can pay for pumps and dikes now—or for damages and displacement later. The Netherlands has always chosen to act before the water rises.**
 
+**[LEAN IN]**
+
+And this isn't just a Dutch problem. Germany faces grid bottlenecks. Denmark faced nitrogen challenges. France faces workforce transitions. What we solve here becomes a model for the entire euro area.
+
 **[TRANSITION GESTURE TO SPEAKER 4]**
 
 We've shown you three bottlenecks—each blocking climate progress, each reinforcing the others. Now the question becomes: what specific tools do we need to unblock them? Let me hand to my colleague to present three policies designed as keys for these three locks."
