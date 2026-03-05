@@ -28,7 +28,7 @@
 - Below Sea Level: 26%
 
 ### Our Policies
-- Total: €17 billion
+- Total: €8.1 billion
 - Grid: €10B (5 years)
 - Agriculture: €5B (7 years)
 - Skills: €2B (5 years)
@@ -121,7 +121,7 @@ A: Address root causes: grid, nitrogen, skills—not symptoms.
 
 ## Emergency Statement
 
-"Our €17 billion policy package addresses three specific bottlenecks—grid congestion, nitrogen emissions, and workforce gaps—using existing funding mechanisms and proven programs. The euro makes this possible: €4 billion in EU funding, access to Europe's green bond market, and the carbon pricing foundation we build upon. We're not proposing something extra; we're proposing what's necessary to meet legally binding EU targets. The Netherlands can do this—and the euro makes it affordable."
+"Our €8.1 billion policy package addresses three specific bottlenecks—grid congestion, nitrogen emissions, and workforce gaps—using existing funding mechanisms and proven programs. The euro makes this possible: €2.5 billion in EU funding, access to Europe's green bond market, and the carbon pricing foundation we build upon. We're not proposing something extra; we're proposing what's necessary to meet legally binding EU targets. The Netherlands can do this—and the euro makes it affordable."
 
 ---
 

@@ -85,6 +85,7 @@ The presentation must cover all three parts:
 - **RHETORIC-ENGINE.md** — Recursive improvement system for substance, style, and persuasion. Focused exclusively on speaker scripts, policy recommendations, brochure, and counterarguments. Use this when data is verified (IMPROVEMENT-ENGINE gates G1/G2/G8 pass) and the repo is at META.md Stage 3+. Covers opening hooks, causal spine, golden sentences, policy argument depth, counterargument architecture, brochure strategy, and performance polish.
 - **QA-ENGINE.md** — Systematic preparation for judge questions. Covers Q&A mastery, anchor questions, adversarial resilience, follow-up chains, and team contingencies. Use this to build deep, resilient answers that survive persistent questioning. Runs after RHETORIC-ENGINE (content should be strong before testing it adversarially).
 - **PERFORMANCE-ENGINE.md** — Physical performance and team coordination. Covers timing accuracy, team coordination protocols, rehearsal effectiveness, contingency handling, and stage presence. Use this to ensure the presentation lands in the room. Runs after content is strong (you can't perform weak content well).
+- **EMAIL-ENGINE.md** — Stakeholder communication drafting system. Creates email templates for three audiences: team members (collaborative/direct), parents (informative/reassuring), and teachers (formal/academic). Covers meeting requests, task assignments, progress updates, event invitations, and thank-you notes. Run this early to establish professional communication infrastructure.
 
 **Framework hierarchy:**
 ```
@@ -110,6 +111,8 @@ IMPROVEMENT-ENGINE (verification)   → verifies accuracy
 FACELIFT-ENGINE (radical rewrite)   → replaces mediocre components
   ↓
 CONSISTENCY-ENGINE (synchronize facts) → ensures presentations + Q&A reflect updates
+  ↓
+EMAIL-ENGINE (communication)        → establishes stakeholder communication infrastructure
   ↓
 RHETORIC-ENGINE (persuasion)        → polishes delivery
   ↓

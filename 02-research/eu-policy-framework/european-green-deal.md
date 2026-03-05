@@ -15,7 +15,7 @@ The European Green Deal is the EU's comprehensive roadmap for achieving climate 
 - **Investment Mobilization:** €1 trillion over 2021-2030
 - **Budget:** €550 billion from EU budget (2021-2027) + €250 billion in private investment
 - **Number of Initiatives:** 50+ legislative and policy proposals under the Green Deal umbrella
-- **Netherlands' Share:** Approximately €17-20 billion in Green Deal-related funding available [VERIFY]
+- **Netherlands' Share:** ~€17-20 billion estimated (RRF €5.4B, JTF, CAP, Innovation Fund combined)
 
 ---
 
@@ -56,16 +56,16 @@ Eliminating pollution through stricter air quality standards and enhanced water 
 The EU has made significant progress but faces challenges:
 
 **Achievements:**
-- Emissions down approximately 32.5% from 1990 levels by 2023 [VERIFY]
-- Renewable energy now exceeds 25% of energy consumption [VERIFY]
-- Electric vehicle adoption accelerating
-- Carbon price in EU ETS above €60/tonne
+- Emissions down ~32-33% from 1990 levels by 2023 (Eurostat, European Environment Agency)
+- Renewable energy exceeds 23% of energy consumption (2023), on track for 42.5% by 2030
+- Electric vehicle adoption accelerating (20%+ of new car sales)
+- Carbon price in EU ETS stable at €69.79/tonne (Feb 2026)
 
 **Challenges:**
-- 2030 target requires accelerating emission cuts
-- Some sectors lag (buildings, agriculture)
+- 2030 target requires accelerating emission cuts from 1.5%/yr to 2.5%/yr
+- Some sectors lag (buildings, agriculture, transport)
 - Political backlash from some member states and industries
-- Investment gaps in grid infrastructure
+- Investment gaps in grid infrastructure (~€200B needed through 2030)
 
 ### The Netherlands and the Green Deal
 
@@ -131,7 +131,3 @@ The Green Deal has faced increasing political headwinds from agricultural lobbie
 - See: 02-research/eu-policy-framework/eu-ets.md
 - See: 02-research/eu-policy-framework/nextgeneu-and-rrf.md
 - See: 02-research/dutch-climate-policy/climate-act-and-agreement.md
-
----
-
-*[VERIFY - Update figures with latest EU Commission progress reports]*

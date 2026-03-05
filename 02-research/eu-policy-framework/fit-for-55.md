@@ -14,7 +14,7 @@ The Fit for 55 package is the EU's comprehensive legislative reform to achieve t
 - **Renewable Energy Target:** 42.5% (with 45% aspiration) by 2030
 - **Energy Efficiency Target:** 36-39% improvement by 2030
 - **CO2 Standards for Cars:** 100% emission reduction by 2035 (effectively end ICE sales)
-- **Carbon Price (EU ETS):** €60-75/tonne post-reform [VERIFY]
+- **Carbon Price (EU ETS):** €69.79/tonne (Feb 2026, Trading Economics)
 - **ETS2 Start Date:** 2027 (buildings and road transport)
 - **Social Climate Fund:** €86.7 billion (2025-2032)
 
@@ -175,6 +175,7 @@ Fit for 55 provides the essential legal framework:
 - European Commission Fit for 55: https://commission.europa.eu/green-deal_en
 - European Council Conclusions: https://www.consilium.europa.eu/
 - EUR-Lex Official Texts: https://eur-lex.europa.eu/
+- Rabobank ETS2 Analysis: https://www.rabobank.com/knowledge/d011467712-ets2-what-is-it-and-what-impact-will-it-have-on-households-and-businesses
 
 ---
 
@@ -184,7 +185,3 @@ Fit for 55 provides the essential legal framework:
 - See: 02-research/eu-policy-framework/eu-ets.md
 - See: 02-research/eu-policy-framework/cbam.md
 - See: 02-research/dutch-climate-policy/climate-act-and-agreement.md
-
----
-
-*[VERIFY - Update status of pending legislative files]*

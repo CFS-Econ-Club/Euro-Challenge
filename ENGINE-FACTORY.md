@@ -272,8 +272,10 @@ This is the inventory of all improvement engines. Every engine must be registere
 | Depth | DEPTH-ENGINE.md | ACTIVE | Content expansion, real quotes, case studies, expert voices, comparative depth, web research | 2026-02-17 | — | 0/10 |
 | Performance | PERFORMANCE-ENGINE.md | ACTIVE | Timing accuracy, team coordination, rehearsal effectiveness, contingencies, stage presence | 2026-02-17 | — | 0/10 |
 | Sidebar | SIDEBAR-ENGINE.md | ACTIVE | Sidebar content, quick facts, data callouts, visual anchors | 2026-02-17 | — | Unknown |
-| Meta | META-ENGINE.md | ACTIVE | Engine health, design quality, coordination, lifecycle management | 2026-02-17 | Cycle 1 | 2/8 |\n| Facelift | FACELIFT-ENGINE.md | ACTIVE | Radical component replacement, policy overhaul, rewrite, paradigm shifts | 2026-02-19 | — | Unknown |
+| Meta | META-ENGINE.md | ACTIVE | Engine health, design quality, coordination, lifecycle management | 2026-02-17 | Cycle 1 | 2/8 |
+| Facelift | FACELIFT-ENGINE.md | ACTIVE | Radical component replacement, policy overhaul, rewrite, paradigm shifts | 2026-02-19 | — | Unknown |
 | Consistency| CONSISTENCY-ENGINE.md | ACTIVE | Global coherence enforcer across repo | 2026-02-19 | — | 0/4 |
+| Email | EMAIL-ENGINE.md | ACTIVE | Stakeholder communication: team, parents, teachers; templates for all situations | 2026-03-04 | Cycle 1 | 0/10 |
 | *Competitive* | *Not yet created* | NEEDED | Differentiation, surprise depth, competitive positioning | — | — | — |
 | *Visual* | *Not yet created* | NEEDED | Slide design, chart specs, data visualization, brochure layout | — | — | — |
 
@@ -326,6 +328,14 @@ This is the inventory of all improvement engines. Every engine must be registere
 ```
 
 ### Log
+
+#### Factory Cycle 6 — 2026-03-04
+**Audit results:** User requested an engine for drafting emails to team members, parents, and school teachers. Coverage audit identified gap: no communication templates exist in the repository. This domain is unrelated to existing engines (PERFORMANCE-ENGINE covers team coordination protocols but not written communication; RHETORIC-ENGINE covers presentation scripts but not stakeholder emails). Gap is 100% — no email infrastructure exists.
+**Action taken:** Generated EMAIL-ENGINE.md using Generator Protocol. Engine covers: (1) audience segmentation across three stakeholder groups, (2) content completeness for all email types, (3) tone calibration for each audience, (4) situational coverage (meeting requests, updates, invitations, thank-yous), (5) customization ease. Includes 5 diagnostics, 8 upgrades, and 10 benchmarks. Creates `11-communication/` folder structure with team/, parents/, teachers/ subfolders.
+**Files created:** EMAIL-ENGINE.md
+**Files modified:** ENGINE-FACTORY.md (registry update), CLAUDE.md (improvement frameworks list).
+**Registry changes:** EMAIL-ENGINE registered as ACTIVE.
+**Recommendation:** Run EMAIL-ENGINE Cycle 1 to create folder structure (Upgrade 1) and draft core templates (Upgrades 2-4). This engine is foundational — professional communication with stakeholders supports all other work. After templates are created, field-test them with real recipients (Upgrade 8) before competition day.
 
 #### Factory Cycle 5 — 2026-02-19
 **Audit results:** User requested an engine to suggest "facelifts" — complete rewrites of components when necessary. Diagnosed gap: Prior engines (IMPROVEMENT, RHETORIC) focus on fixing and augmenting existing content, but lack the mandate to delete and replace structurally weak or generic materials with "global maxima".

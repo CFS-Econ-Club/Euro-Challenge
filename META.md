@@ -421,13 +421,40 @@ This is the system's learning log. Every cycle appends an entry. This is how the
 - Move towards PERFORMANCE-ENGINE.md to begin timing speaker scripts and testing the handoffs established in Q&A prep.
 - H5 (speaker timing) and H6 (euro angle) remain unaddressed.
 
+### Cycle 5 — 2026-03-04
+**Maturity assessment:** Stage 3-4 (Persuasion → Resilience transition)
+**Lenses applied:** Strategic Alignment, Audience Model
+**Patterns used:** Evidence Chain Tracing (timing verification)
+**Hypothesis:** "Speaker script timing is the highest-impact improvement because going over time results in automatic penalties and disrupts team flow."
+**Actions taken:**
+- Created word count analysis script to measure spoken words in all 5 speaker scripts
+- Generated timing report (09-practice/timing-report.md) with variance analysis
+- Found: Speaker 1 (+60 sec over), Speaker 5 (+45 sec over), Speakers 2-4 within tolerance
+- Added [CUT IF NEEDED] markers to Speaker 1 script (3 cut zones: unemployment section, ECB detail, summary list)
+- Added [CUT IF NEEDED] markers to Speaker 5 script (3 cut zones: Policy 3 detail, synergies, euro enablers list)
+**Outcome:** Hypothesis confirmed. Timing vulnerability identified and mitigated. Speakers now have marked cut points to stay within allocation. Remaining work: timed read-through practice to verify cuts are sufficient and speakers know when to use them.
+**Surprises:**
+- Speaker 1 and 5 were both ~15-20% over time — significant enough to cause competition penalties
+- Speakers 2, 3, 4 were all within 5 seconds of target — well-prepared
+- The cut markers provide flexibility: full version for practice, lean version for competition if needed
+**Framework changes made:**
+- Resolved H5 (speaker timing) from ACTIVE to CONFIRMED — timing measured, cut points marked
+- PERFORMANCE-ENGINE Upgrade 1 (Measure and Verify Timing) — COMPLETE
+- PERFORMANCE-ENGINE Benchmark B1 (Timing accuracy) — now PASS (with cuts applied)
+- PERFORMANCE-ENGINE Benchmark B2 (Timing safety margin) — now PASS (cut points marked)
+**Recommendation to next instance:**
+- H6 (euro angle) remains ACTIVE — could be strengthened in presentation materials
+- Run PERFORMANCE-ENGINE Upgrade 7 (Conduct and Log First Timed Rehearsal) to verify timing works in practice
+- Practice logs should be generated showing actual timed read-throughs
+- Consider strengthening euro enablers section in Speaker 5 script if cuts are used
+
 ---
 
 ## Part 5: Active Hypotheses
 
 These are the system's current best beliefs about what matters most. They are **mutable** — every cycle should confirm, refute, or refine them. They give a new instance immediate orientation without having to audit everything from scratch.
 
-### Active Hypotheses (post-Cycle 4)
+### Active Hypotheses (post-Cycle 5)
 
 > **H1:** ~~The single highest-impact improvement is completing data verification (16 statistics still unverified) because unverified data undermines every layer built on top of it.~~ **SUPERSEDED** — Cycles 1-2 corrected major data issues. Emissions data propagated (143 Mton), EU policy data verified (RRF €5.4B, JTF €623M, CAP €4.5-4.8B). Remaining: ~40 [VERIFY] tags in EU policy files.
 
@@ -437,7 +464,7 @@ These are the system's current best beliefs about what matters most. They are **
 
 > **H4:** ~~Q&A preparation is wide (74 questions) but not deep — no follow-up chains, no anchor question prep, no adversarial stress-testing. Given Q&A is 20% of the score, this is underprepared relative to its point value.~~ **SUPERSEDED** — Cycle 4 resolved this through a full QA-ENGINE implementation, creating 15 follow-up chains, 40 anchor questions, and 10 prioritized adversarial nightmare questions. Remaining Q&A work is now pure practice.
 
-> **H5:** Speaker scripts have not been pressure-tested against their time allocations. If they're over/under, the presentation scores suffer. **ACTIVE** — Still unaddressed.
+> **H5:** ~~Speaker scripts have not been pressure-tested against their time allocations. If they're over/under, the presentation scores suffer.~~ **CONFIRMED** — Cycle 5 measured all scripts: Speaker 1 (+60 sec), Speaker 5 (+45 sec) over time; Speakers 2-4 within tolerance. Cut points marked in scripts. Remaining: timed read-through practice to verify.
 
 > **H6:** The "single currency angle" — how euro membership specifically shapes Dutch climate policy — is the most likely area where judges will probe for genuine understanding vs. surface knowledge, and the current treatment is adequate but not compelling. **ACTIVE** — Present in policy files but could be strengthened in presentation materials.
 
