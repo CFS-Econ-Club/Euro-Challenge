@@ -585,3 +585,195 @@ Record each improvement cycle below. Future instances should read this log to un
 - G7 (≥2 files per tier in reference library): ❌ **FAIL** — tiers 2-6 empty
 - G8 (Consistent numbers across files): ✅ **PASS** — €17B→€8.1B fix complete
 
+---
+
+## Cycle 4 — 2026-03-04
+
+**Focus:** Counterarguments Update + Module B (Q&A Expansion) + EU Funding Verification
+
+**Files modified:**
+- 03-policy-recommendations/counterarguments-and-rebuttals.md (EU funding figure corrected to €3.6B/45%, summary table updated)
+- 06-qa-prep/qa-master-document.md (added Sections H-K: Red Team Questions, Anchor Question Deep Prep, Bridging Techniques, Soundbite Versions)
+
+**Key improvements:**
+- **Counterarguments file fully updated** for €8.1B package:
+  - EU funding figure corrected: €4B → €3.6B (45% of total)
+  - Breakdown specified: RRF €0.6B + JTF €0.6B + CAP €1.0B + ETS €1.0B + ESF+ €0.4B
+  - Annual cost updated: 0.25% → 0.12% of GDP
+  - Summary table revised with accurate figures
+- **Module B (Q&A Expansion) completed** — added 4 new sections to Q&A master document:
+  - **Section H: Red Team Questions (10 Nightmare Scenarios)** — hardest possible questions with honest, concise responses:
+    - RT1: "What if only 20% of farmers volunteer?"
+    - RT2: "Germany's grid took 15 years. Why is 2 years realistic?"
+    - RT3: "What if EU funding disappears after 2027?"
+    - RT4: "Why should farmers trust you after broken promises?"
+    - RT5: "Why didn't the previous government propose this?"
+    - RT6: "What if a future government reverses your policies?"
+    - RT7: "Show me the math on 40% synergy"
+    - RT8: "Schoof cabinet cut nitrogen funding. Why approve your €5B?"
+    - RT9: "Why do other euro countries struggle while NL succeeds?"
+    - RT10: "What's the one thing that could make your package fail?"
+  - **Section I: Anchor Question Deep Prep (20 Questions)** — baseline economics questions with textbook answers, wrong answers to avoid, and connections to our topic:
+    - GDP & Growth (4 questions): GDP definition, nominal vs real, growth drivers, recession
+    - Inflation & Monetary Policy (4 questions): Inflation definition, causes, ECB role, QE
+    - Unemployment & Labor (3 questions): Unemployment definition, types, participation rate
+    - Fiscal Policy & Government (3 questions): Fiscal vs monetary, deficit, debt
+    - Trade & Exchange Rates (3 questions): Current account, exchange rates, single market
+    - Euro Area Specific (3 questions): Maastricht criteria, SGP, EDP consequences
+  - **Section J: Bridging Techniques & Pivot Phrases** — 9 rhetorical tools for Q&A:
+    - Concession-Then-Pivot (3 patterns)
+    - Redirect Techniques (3 patterns)
+    - Honest Limit Acknowledgments (3 patterns)
+  - **Section K: Soundbite Versions** — 10/30/90 second answers for 3 core questions:
+    - "Why should the Netherlands invest in climate action?"
+    - "How do you pay for this?"
+    - "Why does the euro matter?"
+- **Total Q&A document now:** 1,052 lines (up from 738) with 100+ questions and comprehensive prep materials
+
+**New weaknesses discovered:**
+- W20: **Brochure still needs update** — references old figures, needs data tables/infographics
+- W21: **Reference library still empty** — tiers 2-6 of 10-reference-library/ remain vacant
+- W22: **Some research files need more citations** — G6 still only PARTIAL
+
+**Recommended next priorities:**
+1. **Run Module C: Reference Library Build** — populate tiers 2-6 (EU policy, Dutch sources, international, educational, academic)
+2. **Run Module J: Brochure Enhancement** — update with €8.1B figures, add data tables, infographic descriptions
+3. **Run Module D: Narrative Architecture** — write master narrative document, golden sentences, opening/closing 30 seconds
+4. **G6 Audit** — identify research files with <3 dated citations and add more
+
+**Quality gate status:**
+- G1 (Zero [VERIFY] tags in 02-research/, 03-policy/, 04-presentation/): ✅ **PASS** — all resolved
+- G2 (Statistics match 08-data/): ✅ **PASS** — all key files consistent
+- G3 (≥3 counterarguments per policy): ✅ **PASS** — counterarguments file fully updated with €8.1B figures
+- G4 (≥10 questions per category): ✅ **PASS** — Q&A has 100+ questions across 7 categories + 20 anchor + 10 red team
+- G5 (Speaker scripts within ±10% time): ✅ **PASS** — all 5 scripts verified with word counts
+- G6 (≥3 dated citations per research file): ⚠️ **PARTIAL** — key files have citations, some need more
+- G7 (≥2 files per tier in reference library): ❌ **FAIL** — tiers 2-6 empty
+- G8 (Consistent numbers across files): ✅ **PASS** — all figures consistent (€8.1B total, €3.6B EU, 0.12% GDP)
+
+---
+
+## Cycle 4 — 2026-03-04
+
+**Focus:** Counterarguments Update + Module B (Q&A Expansion) + EU Funding Verification
+
+**Files modified:**
+- 03-policy-recommendations/counterarguments-and-rebuttals.md (EU funding figure corrected to €3.6B/45%, summary table updated)
+- 06-qa-prep/qa-master-document.md (added Sections H-K: Red Team Questions, Anchor Question Deep Prep, Bridging Techniques, Soundbite Versions)
+
+**Key improvements:**
+- **Counterarguments file fully updated** for €8.1B package:
+  - EU funding figure corrected: €4B → €3.6B (45% of total)
+  - Breakdown specified: RRF €0.6B + JTF €0.6B + CAP €1.0B + ETS €1.0B + ESF+ €0.4B
+  - Annual cost updated: 0.25% → 0.12% of GDP
+  - Summary table revised with accurate figures
+- **Module B (Q&A Expansion) completed** — added 4 new sections to Q&A master document:
+  - **Section H: Red Team Questions (10 Nightmare Scenarios)** — hardest possible questions with honest, concise responses:
+    - RT1: "What if only 20% of farmers volunteer?"
+    - RT2: "Germany's grid took 15 years. Why is 2 years realistic?"
+    - RT3: "What if EU funding disappears after 2027?"
+    - RT4: "Why should farmers trust you after broken promises?"
+    - RT5: "Why didn't the previous government propose this?"
+    - RT6: "What if a future government reverses your policies?"
+    - RT7: "Show me the math on 40% synergy"
+    - RT8: "Schoof cabinet cut nitrogen funding. Why approve your €5B?"
+    - RT9: "Why do other euro countries struggle while NL succeeds?"
+    - RT10: "What's the one thing that could make your package fail?"
+  - **Section I: Anchor Question Deep Prep (20 Questions)** — baseline economics questions with textbook answers, wrong answers to avoid, and connections to our topic:
+    - GDP & Growth (4 questions): GDP definition, nominal vs real, growth drivers, recession
+    - Inflation & Monetary Policy (4 questions): Inflation definition, causes, ECB role, QE
+    - Unemployment & Labor (3 questions): Unemployment definition, types, participation rate
+    - Fiscal Policy & Government (3 questions): Fiscal vs monetary, deficit, debt
+    - Trade & Exchange Rates (3 questions): Current account, exchange rates, single market
+    - Euro Area Specific (3 questions): Maastricht criteria, SGP, EDP consequences
+  - **Section J: Bridging Techniques & Pivot Phrases** — 9 rhetorical tools for Q&A:
+    - Concession-Then-Pivot (3 patterns)
+    - Redirect Techniques (3 patterns)
+    - Honest Limit Acknowledgments (3 patterns)
+  - **Section K: Soundbite Versions** — 10/30/90 second answers for 3 core questions:
+    - "Why should the Netherlands invest in climate action?"
+    - "How do you pay for this?"
+    - "Why does the euro matter?"
+- **Total Q&A document now:** 1,052 lines (up from 738) with 100+ questions and comprehensive prep materials
+
+**New weaknesses discovered:**
+- W20: **Brochure still needs update** — references old figures, needs data tables/infographics
+- W21: **Reference library still empty** — tiers 2-6 of 10-reference-library/ remain vacant
+- W22: **Some research files need more citations** — G6 still only PARTIAL
+
+**Recommended next priorities:**
+1. **Run Module C: Reference Library Build** — populate tiers 2-6 (EU policy, Dutch sources, international, educational, academic) — SKIPPED: no internet access
+2. **Run Module J: Brochure Enhancement** — update with €8.1B figures, add data tables, infographic descriptions
+3. **Run Module D: Narrative Architecture** — write master narrative document, golden sentences, opening/closing 30 seconds
+4. **G6 Audit** — identify research files with <3 dated citations and add more
+
+**Quality gate status:**
+- G1 (Zero [VERIFY] tags in 02-research/, 03-policy/, 04-presentation/): ✅ **PASS** — all resolved
+- G2 (Statistics match 08-data/): ✅ **PASS** — all key files consistent
+- G3 (≥3 counterarguments per policy): ✅ **PASS** — counterarguments file fully updated with €8.1B figures
+- G4 (≥10 questions per category): ✅ **PASS** — Q&A has 100+ questions across 7 categories + 20 anchor + 10 red team
+- G5 (Speaker scripts within ±10% time): ✅ **PASS** — all 5 scripts verified with word counts
+- G6 (≥3 dated citations per research file): ⚠️ **PARTIAL** — key files have citations, some need more
+- G7 (≥2 files per tier in reference library): ❌ **FAIL** — tiers 2-6 empty (skipped due to no internet)
+- G8 (Consistent numbers across files): ✅ **PASS** — all figures consistent (€8.1B total, €3.6B EU, 0.12% GDP)
+
+---
+
+## Cycle 5 — 2026-03-04
+
+**Focus:** Module J (Brochure Enhancement) + Module D (Narrative Architecture)
+
+**Files created:**
+- 04-presentation/master-narrative.md (complete narrative architecture document)
+
+**Files modified:**
+- 05-brochure/brochure-content.md (full enhancement with data tables, infographic descriptions, executive summary)
+
+**Key improvements:**
+- **Module J (Brochure Enhancement) completed** — brochure-content.md fully rewritten:
+  - **Executive Summary added** — 1-page overview with challenge, solution, euro advantage, fiscal impact
+  - **Data tables added for each bottleneck:**
+    - Grid: 14,044 projects, 9 GW stranded, 7-10 year wait, €2-3B/year cost
+    - Nitrogen: 70% Natura 2000 affected, ~13% ag emissions, 18,000+ permits frozen
+    - Workforce: 10,000+ Groningen jobs lost, 10,500 farmers target, 60% skills shortage, 91.6% MBO employment
+  - **Infographic descriptions added** for all 3 bottlenecks + 3 policies + financing matrix
+  - **Policy investment breakdowns** with component-level detail (DCOI: GOPACS €250M, Non-Firm €150M, DLR €200M)
+  - **Funding Sources Matrix** — complete breakdown showing €3.6B EU (45%) + €4.5B Dutch (55%)
+  - **Primary Sources table** with dates accessed (10 sources from Feb 2026, 2024-25 data)
+  - **Design specifications** — color palette, typography, layout notes
+  - **Strategic Framing Notes** — questions we want judges to ask, framing techniques, soundbite to plant
+  - **"Bait" section enhanced** — 120% premium justification with €2-3B/year delay cost
+  - **Tough Questions preview** — 5 questions we're prepared for with brief answers
+- **Module D (Narrative Architecture) completed** — master-narrative.md created:
+  - **Complete 500-word narrative** — full story arc from existential stakes to closing choice
+  - **Speaker script mapping** — each narrative section mapped to specific speaker/script/slide
+  - **10 Golden Sentences** — memorable one-liners for key moments, with primary/secondary recommendations
+  - **Opening 30 seconds** — polished, timed, with pause markers
+  - **Closing 30 seconds** — polished, timed, with pause markers
+  - **Narrative gaps identified** — 4 gaps with specific fixes (Groningen story, EU funding visceral, farmer perspective, timeline urgency)
+  - **Throughline check** — euro/NL/challenge/policy connections audited per speaker
+  - **Memorable framings** — 6 strategic phrases for Q&A bridging
+  - **Strategic pauses** — 5 specific pause locations with durations and purposes
+  - **Contingency plans** — cuts available (80 seconds) and adds available (110 seconds)
+
+**New weaknesses discovered:**
+- W23: **Throughline gaps** — Speaker 2 needs euro connection, Speaker 4 needs euro link per policy
+- W24: **Narrative gaps** — Groningen story underdeveloped, farmer perspective missing, timeline urgency not felt
+- W25: **G6 citations** — still PARTIAL, some research files need more dated citations
+
+**Recommended next priorities:**
+1. **Fix throughline gaps** — add euro connection to Speaker 2, euro links to Speaker 4 policies
+2. **Address narrative gaps** — enhance Groningen story, add farmer perspective, strengthen timeline urgency
+3. **G6 Audit** — identify and fix research files with <3 dated citations
+4. **Practice integration** — rehearse with strategic pauses, contingency cuts, golden sentence delivery
+
+**Quality gate status:**
+- G1 (Zero [VERIFY] tags in 02-research/, 03-policy/, 04-presentation/): ✅ **PASS** — all resolved
+- G2 (Statistics match 08-data/): ✅ **PASS** — all key files consistent
+- G3 (≥3 counterarguments per policy): ✅ **PASS** — counterarguments file fully updated
+- G4 (≥10 questions per category): ✅ **PASS** — 100+ questions + 20 anchor + 10 red team
+- G5 (Speaker scripts within ±10% time): ✅ **PASS** — all 5 scripts verified
+- G6 (≥3 dated citations per research file): ⚠️ **PARTIAL** — key files have citations, some need more
+- G7 (≥2 files per tier in reference library): ❌ **FAIL** — tiers 2-6 empty (skipped: no internet access)
+- G8 (Consistent numbers across files): ✅ **PASS** — all figures consistent
+

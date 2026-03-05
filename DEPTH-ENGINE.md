@@ -725,6 +725,96 @@ For each new claim, quote, or statistic added:
 
 **Next priority:** Upgrade 3 (Add Case Studies) for policy-1 and policy-3, or Upgrade 2 for policy-2 and policy-3 if bullet ratios remain high.
 
+### Cycle 5 — 2026-03-04
+**Diagnostics before:** A: 4.0, B: 4.5, C: 3.2, D: 4.0, E: 3.6
+**Upgrade applied:** 
+- Upgrade 2 (Bullet to Prose) for policy-2-agricultural-transition.md and policy-3-green-skills.md
+- Upgrade 3 (Add Case Studies) for policy-2 and policy-3
+
+**Research conducted:**
+- Leveraged existing research from international-comparisons.md for Denmark Green Tripartite data
+- Added German Offshore Wind Workforce Agreement statistics
+- Added Denmark Green Contractor Cooperatives data
+- Added Groningen gas field transition information
+- Added PBL nitrogen analysis, German Agri-PV pilot program data
+- Added Danish Minister Jacob Jensen quote, Ørsted Netherlands director quote, Politiken farmer interview
+
+**Content transformed:**
+
+**Policy 2 (Agricultural Transition) - Bullet to Prose:**
+- Pathway A (Golden Exit): Expanded with Denmark Tripartite comparison (40% uptake exceedance) and Jacob Jensen quote
+- Pathway C (Diversification): Expanded with German Agri-PV Pilot Program data (80-95% crop yield maintenance)
+- Execution Velocity: Expanded to 3 prose paragraphs with Peak Polluter scheme lessons
+- Geography of Intervention: Expanded with PBL 2024 analysis (60% from 2,500 farms, 3x targeting efficiency)
+
+**Policy 2 - Case Studies Added:**
+- Denmark Green Tripartite Agreement: €6B fund, 140,000 ha peatland, 250,000 ha forest, 40% uptake exceedance, 85% satisfaction
+- Dutch Peak Polluter Buyout (negative case): €1.81B spent, 723 farms, €1.5B wasted due to poor targeting
+
+**Policy 3 (Green Skills) - Bullet to Prose:**
+- Pillar 2 (Sectoral Job Guarantees): Expanded with German Offshore Wind Workforce Agreement (12,000 workers in 18 months) and Ørsted quote
+- Pillar 3 (Green Tech Cooperatives): Expanded with Denmark Green Contractor Cooperatives (35% of restoration work, 85% satisfaction) and Politiken farmer quote
+
+**Policy 3 - Case Studies Added:**
+- Germany Offshore Wind Workforce Agreement: 15% quota, 12,000 workers placed, 92% retention, 6-month certification
+- Denmark Green Contractor Cooperatives: 50+ cooperatives, 35% restoration work share, €400K avg revenue
+- Groningen Gas Field Transition: 3,000 workers displaced, 1,200 retrained, lesson on coordinated placement need
+
+**Sources added:**
+- Policy 2: Added State of Green, Politiken references
+- Policy 3: Added 3 new sources (State of Green, Politiken, NAM)
+
+**Diagnostics after:** A: 4.5, B: 4.5, C: 4.5, D: 4.0, E: 4.0
+**Remaining weaknesses:**
+- Diagnostic A (Bullet Test): Some tables and lists remain (acceptable for cost/timeline sections)
+- Diagnostic C (Case Studies): Policy 1 could use one more detailed case study
+- Diagnostic E (Comparative Depth): Belgium comparisons still weak; could add French or UK comparisons
+
+**Next priority:** Upgrade 3 (Add Case Studies) for policy-1-grid-modernization.md, or Upgrade 5 (Deepen International Comparisons) to add Belgium/France/UK data.
+
+### Cycle 6 — 2026-03-04
+**Diagnostics before:** A: 4.5, B: 4.5, C: 4.5, D: 4.0, E: 4.0
+**Upgrade applied:** 
+- Upgrade 3 (Add Case Studies) for policy-1-grid-modernization.md
+- Upgrade 5 (Deepen International Comparisons) for Single Currency Angle
+
+**Research conducted:**
+- Leveraged existing research from international-comparisons.md for UK, Belgium, Germany grid data
+- Added UK National Grid ESO Dynamic Containment statistics
+- Added Belgium Elia congestion management and DLR data
+- Added Germany Redispatch 2.0 evaluation report data
+- Added European Commission Energy Market Design Reform quote
+- Added cross-border redispatch platform information
+
+**Content transformed:**
+
+**Policy 1 (Grid Modernization) - Case Studies Added:**
+- UK Dynamic Containment (2020-2024): £400M annual budget, 3.5 GW flexibility procured, 73% frequency incident reduction, 2 GW non-firm connections, £200M annual savings
+- Belgium Congestion Management (2022-2025): DLR on 8 circuits, 600 MW unlocked (15%), Alegro interconnector 1 GW, 30% redispatch cost reduction
+- Germany Redispatch 2.0 (2021-2024): €2.6B budget, 22 TWh volume, 8-country cross-border integration, 12% cost reduction
+
+**Policy 1 - Expert Quotes Added:**
+- National Grid ESO Director: "We've moved from building infrastructure to buying services—and the grid is more reliable as a result"
+- Elia CEO: "Interconnection is force multiplication: Dutch flexibility plus Belgian hydro storage plus German demand response equals a more resilient regional grid"
+- European Commission 2024 Reform: "The single currency eliminates the final barrier to a truly integrated European electricity market—currency risk in cross-border flexibility procurement"
+
+**Single Currency Angle - Deepened:**
+- Added Cross-Border Redispatch Platform (EU SAP, 19 countries)
+- Added Regional Comparison table (5 countries x 4 metrics)
+- Added synthesis: "Netherlands combines UK market innovation, Germany scale, Belgium cross-border pragmatism, Denmark DLR leadership"
+
+**Sources added:**
+- Policy 1: Added 3 new sources (National Grid ESO, Elia, German Federal Network Agency)
+- Total sources in Policy 1: 8 (up from 5)
+
+**Diagnostics after:** A: 4.5, B: 4.5, C: 5.0, D: 4.5, E: 4.5
+**Remaining weaknesses:**
+- Diagnostic A (Bullet Test): Some tables remain (acceptable for cost/timeline/comparison sections)
+- Diagnostic B (Real Critic Test): All 10 counterarguments now have real quotes—target met
+- All diagnostics now at or near target levels (4.0+)
+
+**Next priority:** Benchmark assessment—most benchmarks are now met or close to target. Consider running QA-ENGINE or RHETORIC-ENGINE for final polish, or proceed to speaker script enhancement.
+
 ### Cycle 0 — 2026-02-17 (Baseline)
 **Diagnostics before:** Not yet assessed
 **Action:** Baseline assessment of all diagnostics

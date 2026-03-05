@@ -254,11 +254,11 @@ The Netherlands already has one of the highest effective carbon prices in the wo
 Why do you keep referencing the euro? The Netherlands could implement these policies independently.
 
 **Our Response:**
-Could the Netherlands implement a €600 million grid optimization program alone? Perhaps—but at what cost? As ECB President Christine Lagarde stated in her 2024 climate speech, "The euro area's single financial market and common funding instruments multiply the impact of national climate investments. The NextGenerationEU framework alone mobilized €800 billion that no member state could access alone." Dutch sovereign green bonds trade at favorable rates precisely because of euro area creditworthiness. The €4 billion in EU funding (RRF, JTF, CAP) in our package would not exist outside the EU. The EU ETS creates the carbon price foundation we build upon. The single market for hydrogen makes Rotterdam a viable hub. These are quantifiable, concrete benefits.
+Could the Netherlands implement a €600 million grid optimization program alone? Perhaps—but at what cost? As ECB President Christine Lagarde stated in her 2024 climate speech, "The euro area's single financial market and common funding instruments multiply the impact of national climate investments. The NextGenerationEU framework alone mobilized €800 billion that no member state could access alone." Dutch sovereign green bonds trade at favorable rates precisely because of euro area creditworthiness. The €3.6 billion in EU funding (RRF, JTF, CAP, ETS, ESF+) in our package—45% of the total—would not exist outside the EU. The EU ETS creates the carbon price foundation we build upon. The single market for hydrogen makes Rotterdam a viable hub. These are quantifiable, concrete benefits.
 
 **Evidence:**
-- EU funding in our package: €4+ billion (24% of total)
-- Netherlands RRF allocation: €5.4 billion total
+- EU funding in our package: €3.6 billion (45% of total: RRF €0.6B + JTF €0.6B + CAP €1.0B + ETS €1.0B + ESF+ €0.4B)
+- Netherlands RRF allocation: €5.4 billion total (€4.7B RRF + €734M REPowerEU)
 - Netherlands JTF allocation: €623 million for just transition
 - Dutch green bond program: €24.9 billion outstanding with strong investor demand [(DSTA)](https://english.dsta.nl/latest/news/2025/05/28/dutch-state-publishes-the-2024-green-bond-report)
 
@@ -290,9 +290,9 @@ The European Climate Law makes the 2050 target legally binding—not political c
 
 | Category | Key Point | Source |
 |----------|-----------|--------|
-| **Cost** | 0.25% GDP; inaction costs far more | Reuters court ruling, CBS deficit data |
+| **Cost** | 0.12% GDP annually; inaction costs far more | Reuters court ruling, CBS deficit data, Financing Plan |
 | **Feasibility** | Germany proved permitting acceleration works | GTAI grid data, Bundesnetzagentur |
-| **Euro Benefit** | €4B EU funding + green bond access | DSTA, EU allocation data |
+| **Euro Benefit** | €3.6B EU funding (45%) + green bond access | DSTA, EU allocation data, Financing Plan |
 | **Political** | Voluntary approaches align with coalition agreement | Clean Energy Wire coalition analysis |
 | **Technical** | Timelines based on German/Danish examples | GTAI, Invest in Denmark |
 
