@@ -34,7 +34,7 @@ On the strength side: we're growing faster than the euro area average—1.9% in 
 
 **[OPEN HAND GESTURE]**
 
-This gives us something most of Europe doesn't have: **fiscal headroom.**"
+This gives us something most of Europe doesn't have: **fiscal headroom.** And because we're in the euro area, that headroom comes with stability—no currency risk, no volatile borrowing costs. The ECB's 2% inflation target keeps our investment predictable."
 
 **[SLIDE 9 - Economic Strengths] [1:00-1:45]**
 
@@ -49,6 +49,10 @@ First, the **nitrogen crisis**—environmental restrictions on nitrogen emission
 Second, **grid congestion**—our electricity grid can't handle all the renewable energy projects seeking connection.
 
 Third, the **Groningen gas field** is closing—we must replace this energy source with renewables.
+
+**[PAUSE - DROP VOLUME]**
+
+This isn't just about energy. Ten thousand skilled workers in Groningen—people who powered our economy for 60 years—are losing their jobs. They know how to build infrastructure. They know how to manage complex projects. We can't let that expertise walk away.
 
 **[PAUSE - LET IT SINK IN]**
 

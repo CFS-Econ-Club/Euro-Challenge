@@ -57,7 +57,9 @@ And expanding **GOPACS**—the national flexibility market—to dynamically pay 
 
 **[OPEN HAND GESTURE]**
 
-We don't need to rebuild the grid to clear the backlogs. We just need to manage the traffic. The DCOI clears the 9-gigawatt renewable queue *instantly*."
+We don't need to rebuild the grid to clear the backlogs. We just need to manage the traffic. The DCOI clears the 9-gigawatt renewable queue *instantly*.
+
+And here's where the euro matters: GOPACS works because the European energy market is interconnected. When Dutch wind peaks, Belgian demand absorbs it. The single market turns our national grid congestion into a regional flexibility opportunity."
 
 **[SLIDE 18 - Policy 2: Agricultural Transition Incentive Program] [2:10-3:15]**
 
@@ -78,6 +80,10 @@ To resume construction of homes and energy infrastructure, we must reduce ammoni
 **[LEAN IN - EYE CONTACT]**
 
 Let me be clear: this is voluntary, not mandatory. We're offering a premium, working *with* farmers, not against them. It clears the nitrogen debt, solves the construction gridlock, and keeps the rural economy intact.
+
+**[PAUSE]**
+
+And the euro makes this affordable: €1 billion of ATIP's €5 billion comes from CAP Eco-Schemes and EU ETS auction revenues—funds that only exist because of euro membership. We're leveraging European resources to solve a Dutch problem."
 
 **[TRANSITION TO SPEAKER 5] [3:15-3:30]**
 
