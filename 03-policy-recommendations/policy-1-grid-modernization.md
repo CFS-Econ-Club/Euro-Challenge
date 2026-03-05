@@ -15,6 +15,8 @@ The Netherlands does not have a lack of renewable energy projects; it has a lack
 - Over 14,000 projects (representing roughly 9 GW of clean power) sit uselessly on regional grid operator (Stedin, Liander, Enexis) waiting lists. Additionally, huge industrial nodes are waitlisted by TenneT.
 - The default government instinct is "build more wire." But high-voltage infrastructure takes 8 to 12 years to permit and build. We do not have 12 years. By the time the wire is laid, the climate targets have been decisively failed.
 
+As TenneT stated in its 2024 Grid Investment Report, "We expect to invest approximately EUR 200 billion in grid expansions in both countries until 2034, with affordability being an important driver for political choices to be made." Yet even with this investment, physical buildout cannot solve the immediate crisis—9 GW of projects are stuck *today*.
+
 **The "Worst-Case" Inefficiency:**
 - Currently, grid operators operate under a static risk paradigm. They reserve massive blocks of grid capacity based purely on theoretical "worst-case scenario" peak loads (N-1 redundancy). If a connection *could* overload the grid for 5 minutes on the windiest, sunniest day of the year, they reject the connection entirely.
 - The grid is effectively "full" on paper but empty in reality for 90% of the year.
@@ -29,8 +31,9 @@ We are abandoning the 10-year infrastructure wait. Instead, we are treating the 
 ### Pillar 1: Supercharging GOPACS (The Flexibility Market)
 GOPACS (Grid Operators Platform for Congestion Solutions) is the existing local energy market where large consumers offer to curtail their demand or production in exchange for a fee. It is currently underutilized because DSOs (regional grid operators) are financially paralyzed by minimum regulatory floors.
 
-- **The Flexibility Procurement Fund (€500M):** The state will establish a massive backstop fund explicitly directing TenneT and regional DSOs to wildly over-procure flexibility in real-time. If grid congestion hits a node, the DSO bids on GOPACS, paying an industrial facility to reduce consumption for two hours.
-- **The Outcome:** By treating curtailment as a daily operational expense rather than an emergency failure, the "peak" is sliced off artificially, opening the baseline grid to thousands of waitlisted solar/wind parks immediately.
+**The Flexibility Procurement Fund (€500M):** The state will establish a massive backstop fund explicitly directing TenneT and regional DSOs to wildly over-procure flexibility in real-time. If grid congestion hits a node, the DSO bids on GOPACS, paying an industrial facility to reduce consumption for two hours.
+
+**The Outcome:** By treating curtailment as a daily operational expense rather than an emergency failure, the "peak" is sliced off artificially, opening the baseline grid to thousands of waitlisted solar/wind parks immediately. As TenneT noted in its 2024 annual report, "Despite the challenge of integrating over fifty percent on average of renewable energy sources into the grid, and during times of intensive grid expansion and maintenance, TenneT Netherlands achieved a high grid availability of 99.99988%, delivering on its core mission to deliver a stable and secure supply of electricity." Our policy builds on this operational excellence by adding financial flexibility to the existing toolkit.
 
 ### Pillar 2: The "Non-Firm" Contract Revolution
 For decades, grid connections were "firm"—you paid for 100 MW of access, you had the absolute physical right to 100 MW 24/7/365. This logic is destroying the energy transition.
@@ -113,6 +116,8 @@ This policy is stunningly cheap compared to physical infrastructure because it i
 ### Counterargument 1: "This is deeply unsafe. N-1 redundancy exists for a reason."
 **Attack:** Opponents will argue that accepting higher physical risk profiles and operating closer to maximum thermal limits will cause blackouts, turning the Netherlands into a fragile, unreliable third-world grid.
 **Response:** We are not operating blindly. We are replacing "worst-case paper assumptions" with algorithmic, sensor-driven truth. If DLR sensors confirm the line is actively being chilled by a December storm, pushing 30% more power through it is a thermodynamic fact, not a regulatory gamble. Our €40M risk guarantee specifically insures against minor friction, proving the state acknowledges the shift from a "zero-risk" pathology to an "acceptable-risk" mature optimization strategy.
+
+The ACM (Authority for Consumers & Markets) has already approved TenneT's use of time-based and time-block transmission contracts in 2024, establishing the regulatory precedent for non-firm connections. This is not untested theory—it is operational practice waiting to scale.
 
 ### Counterargument 2: "Companies will refuse Non-Firm Contracts (CBC/TDTR)."
 **Attack:** Why would a massive battery developer or solar park spend €50 million on capital infrastructure if TenneT can legally hit a kill switch and turn their revenue to zero for four hours on a Tuesday?

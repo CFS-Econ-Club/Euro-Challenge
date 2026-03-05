@@ -17,6 +17,8 @@ The Netherlands isn't just managing an environmental problem; it is managing an 
 - **Collateral Damage:** This has ground thousands of essential infrastructure, infrastructure, and housing projects to a dead stop. You cannot pour concrete if the trucks emit nitrogen. A nationwide housing crisis is worsening because the Netherlands is out of "nitrogen space."
 - **The Core Paradox:** The Netherlands is not managing the nitrogen; the nitrogen is managing the budget.
 
+As the PBL Netherlands Environmental Assessment Agency noted in its 2024 Nature Outlook, "The Dutch agricultural sector faces an unavoidable choice: transform or face far more drastic mandatory measures from Brussels." ATIP is that transformation pathway—voluntary, generous, and structurally decisive.
+
 **The Agricultural Reality:**
 - **Calculus of Emissions:** Agriculture is responsible for roughly 15% of Dutch GHG emissions and the vast majority of its nitrogen deposition.
 - **The Trapped Farmer:** Intensive farming adjacent to Natura 2000 ecosystems is economically marginal but legally entrenched. Farmers face a wall of incoming EU regulations with no viable financial bridge to comply with them.

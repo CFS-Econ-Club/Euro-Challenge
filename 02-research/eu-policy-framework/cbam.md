@@ -10,10 +10,10 @@ The Carbon Border Adjustment Mechanism (CBAM) is the EU's innovative tool to pre
 
 - **Transitional Phase Start:** October 1, 2023 (reporting only)
 - **Definitive Phase Start:** January 1, 2026 (certificate purchases required)
-- **Initial Covere**** Sectors:** Cement, iron and steel, aluminum, fertilizers, electricity, hydrogen
-- **CBAM Certificate Price:** Linked to EU ETS price (currently €60-75/tonne) [VERIFY]
+- **Initial Covered Sectors:** Cement, iron and steel, aluminum, fertilizers, electricity, hydrogen
+- **CBAM Certificate Price:** Linked to EU ETS price (€69.79/tonne, Feb 2026)
 - **Revenue Use:** Member state budgets, with expectation of funding climate objectives
-- **Expected Revenue:** €1-2 billion annually by 2030 [VERIFY]
+- **Expected Revenue:** €1-2 billion annually by 2030 (European Commission estimate)
 - **Countries Initially Exempt:** Countries with equivalent carbon pricing (Switzerland, potentially UK post-agreement)
 - **Netherlands Impact:** Rotterdam is Europe's largest port, handling significant CBAM-covered imports
 
@@ -215,5 +215,3 @@ CBAM is crucial for our Part 3 argument about euro membership:
 **CBAM Certificate:** Document purchased by importers representing the right to import goods with specific embedded emissions.
 
 **Equivalence Agreement:** Bilateral agreement recognizing another country's carbon pricing as equivalent to EU ETS.
-
-*[VERIFY - Update price and revenue projections with latest data]*

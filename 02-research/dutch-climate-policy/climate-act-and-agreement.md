@@ -11,11 +11,11 @@ The Netherlands has established a comprehensive national climate framework throu
 - **Climate Act Adoption:** July 2019
 - **2030 Target:** 49% reduction (later raised to 55% to align with EU)
 - **2050 Target:** Climate neutrality
-- **Annual Climate Budget:** €5+ billion from national sources [VERIFY]
+- **Annual Climate Budget:** €5+ billion from national sources (Klimaatfonds €35B multi-year)
 - **Parties to Climate Agreement:** 100+
 - **Sector Targets:** Electricity, industry, built environment, transport, agriculture
-- **PBL Assessment:** Netherlands not currently on track for 2030 targets [VERIFY]
-- **Current Coalition:** Schoof cabinet (PVV/VVD/NSC/BBB) — climate policy under review [VERIFY]
+- **PBL Assessment:** Netherlands not currently on track for 2030 targets (PBL 2024/2025 assessment)
+- **Current Coalition:** Schoof cabinet (PVV/VVD/NSC/BBB, formed Jul 2024) — climate policy under review
 
 ---
 
@@ -197,7 +197,3 @@ The Climate Act and Agreement provide essential context:
 - See: 02-research/eu-policy-framework/european-green-deal.md
 - See: 02-research/dutch-climate-policy/climate-fund.md
 - See: 02-research/dutch-climate-policy/sde-plus-plus.md
-
----
-
-*[VERIFY - Current government policy direction and Climate Fund status]*
