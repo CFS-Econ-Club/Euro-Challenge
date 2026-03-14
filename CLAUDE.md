@@ -130,3 +130,9 @@ Since this is a document project:
 - Follow the folder structure defined in README.md
 - Track progress using CHECKLIST.md status markers
 - Maintain consistency with existing document formats
+
+Before making any recommendations, always read relevant project files first to understand context. Never suggest approaches without exploring the codebase.
+
+When running iterative improvement cycles, document the cycle count, what changed, and measurable outcomes in a CYCLES.md or similar tracking file.
+
+For factory/engine patterns (like EMAIL-ENGINE.md, STATE-ENGINE.md), always verify all generated files exist and are complete before marking task done.

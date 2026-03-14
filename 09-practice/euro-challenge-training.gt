@@ -1,0 +1,767 @@
+# Euro Challenge 2026 — Team Training Program
+## Adaptive Diagnostics & Learning Pathways
+
+*This GuidedTrack program adapts to each team member's performance, providing personalized remediation and advancement.*
+
+---
+
+## PROGRAM METADATA
+
+```
+title: Euro Challenge 2026 — Team Training Program
+description: Adaptive diagnostics and learning pathways for Dutch climate policy mastery
+author: Team Leader
+version: 1.0
+estimated_time: 45-90 minutes per module
+target_audience: High school students (Euro Challenge team)
+```
+
+---
+
+## INTRODUCTION
+
+Welcome to the Euro Challenge 2026 training program! 🇪🇺🇳🇱
+
+This program will help you master the three policy recommendations we're presenting:
+1. **DCOI** — Grid congestion solution
+2. **ATIP** — Agricultural transition
+3. **Klimaatkorps** — Green jobs training
+
+**How it works:**
+- You'll answer scenario-based questions
+- If you get stuck, you'll get targeted help
+- If you excel, you'll unlock advanced challenges
+- Everything adapts to YOUR pace
+
+Let's get started!
+
+---
+
+## PRE-PROGRAM SURVEY
+
+**What's your name?**
+- text_input: participant_name
+
+**Which speaker role are you preparing for?**
+- dropdown: 
+  - Speaker 1 (Euro Area Macro)
+  - Speaker 2 (Netherlands Economy)
+  - Speaker 3 (Climate Challenge)
+  - Speaker 4 (Policies 1 & 2)
+  - Speaker 5 (Policy 3 & Euro)
+
+**How confident do you feel about our policies right now?**
+- scale: 1 (Not confident at all) to 10 (Very confident)
+
+**Have you reviewed the policy documents before starting?**
+- yes_no
+
+**How much time can you commit to training today?**
+- multiple_choice:
+  - 30 minutes
+  - 45-60 minutes
+  - 90+ minutes
+
+---
+
+## MODULE 1: GRID CONGESTION & DCOI POLICY
+
+### Introduction Screen
+
+**Module 1: Grid Congestion & DCOI** ⚡
+
+The Netherlands has a problem: 14,000+ renewable energy projects are stuck waiting 8-10 years to connect to the grid. Our policy (DCOI) solves this without building new power lines.
+
+Let's see what you already know!
+
+---
+
+### DIAGNOSTIC 1 — FOUNDATION LEVEL
+
+#### Scenario 1: The Solar Farmer's Frustration
+
+**Jan is a Dutch farmer in Gelderland. He wants to install solar panels on his barn roofs. He has the money, the permits, and the panels ready. But when he applies to connect to the grid, Stedin (the regional grid operator) says: "Sorry, you're on the waiting list. Come back in 8-10 years."**
+
+**Why is Jan being told to wait?**
+
+- multiple_choice:
+  - A) The government doesn't want more solar power
+  - B) The physical electricity wires are at full capacity — they can't handle more power without upgrades ✓
+  - C) Solar panels are too expensive for the Netherlands
+  - D) Jan didn't fill out the right forms
+
+**FEEDBACK:**
+- If B: ✅ Correct! Grid congestion means the physical infrastructure is at capacity.
+- If A, C, or D: ❌ Not quite. The issue is physical — the wires literally can't carry more electricity right now.
+
+**LEARNING RESOURCE (if wrong):**
+Watch: "What is Grid Congestion?" (5 min)
+Read: GLOSSARY.md — "Grid Congestion" entry
+
+---
+
+#### Scenario 2: The Two Solutions
+
+**The Dutch government has two options to help Jan:**
+
+- **Option A:** Build new high-voltage power lines (takes 8-10 years, costs €30 billion)
+- **Option B:** Use smart software and market incentives to manage when Jan's solar panels send power to the grid (takes 2-3 years, costs €600 million)
+
+**Our policy (DCOI) chooses Option B. Why?**
+
+- multiple_choice:
+  - A) It's cheaper and faster, even if it's not perfect ✓
+  - B) Building new wires is impossible, so we have no choice
+  - C) Software is always better than hardware
+  - D) The EU requires us to use software solutions
+
+**FEEDBACK:**
+- If A: ✅ Correct! Option B is 50x cheaper and 4x faster.
+- If B, C, or D: ❌ Option B is chosen because it's dramatically cheaper (€600M vs €30B) and faster (2-3 years vs 8-10 years).
+
+**LEARNING RESOURCE (if wrong):**
+Read: policy-1-grid-modernization.md — "The Problem This Solves" section
+
+---
+
+#### Scenario 3: The Non-Firm Contract
+
+**Jan is offered a "non-firm" grid connection. He can connect TODAY instead of waiting 10 years. But there's a catch: 5% of the time (during peak demand), the grid operator can tell him to reduce his solar output to zero.**
+
+**Should Jan accept this deal?**
+
+- multiple_choice:
+  - A) No — he should demand a "firm" connection with 100% guaranteed access
+  - B) Yes — because 5% curtailment is better than 100% curtailment (waiting 10 years = 0 revenue) ✓
+  - C) No — the grid operator is being unfair
+  - D) Yes — but only if the government pays him extra
+
+**FEEDBACK:**
+- If B: ✅ Correct! 95% of something now beats 100% of nothing in a decade.
+- If A, C, or D: ❌ Think about it: waiting 10 years = 0 revenue. A non-firm connection means earning 95% starting TODAY.
+
+**LEARNING RESOURCE (if wrong):**
+Read: policy-1-grid-modernization.md — "Pillar 2: The Non-Firm Contract Revolution"
+
+---
+
+#### Scenario 4: The GOPACS Market
+
+**It's a cold, windy Tuesday afternoon. The grid is congested — too much wind power, too much demand. TenneT (the grid operator) uses GOPACS, a marketplace where companies bid to reduce their electricity use.**
+
+**What happens in GOPACS?**
+
+- multiple_choice:
+  - A) The government forces companies to shut down
+  - B) Companies voluntarily offer to reduce consumption in exchange for payment ✓
+  - C) The grid operator buys electricity from Germany
+  - D) Households are told to turn off their lights
+
+**FEEDBACK:**
+- If B: ✅ Correct! GOPACS is a voluntary market solution.
+- If A, C, or D: ❌ GOPACS is a voluntary market — companies choose to reduce usage in exchange for payment.
+
+**LEARNING RESOURCE (if wrong):**
+Read: policy-1-grid-modernization.md — "Pillar 1: Supercharging GOPACS"
+
+---
+
+#### Scenario 5: The DLR Sensor
+
+**Dynamic Line Rating (DLR) sensors are installed on power lines in North Brabant. On a cold, windy winter day, the sensors detect that the wires are being cooled by the wind.**
+
+**What does this allow?**
+
+- multiple_choice:
+  - A) The grid operator to reduce power flow (to be safe)
+  - B) The grid operator to increase power flow by 30-50% (because cooled wires can carry more) ✓
+  - C) The grid operator to charge higher prices
+  - D) Nothing — DLR is just for monitoring
+
+**FEEDBACK:**
+- If B: ✅ Correct! Wind cools wires like wind chill cools skin — allowing more capacity.
+- If A, C, or D: ❌ DLR sensors measure actual temperature, allowing more power to flow safely when conditions permit.
+
+**LEARNING RESOURCE (if wrong):**
+Read: policy-1-grid-modernization.md — "Pillar 3: Dynamic Line Ratings"
+
+---
+
+### FOUNDATION LEVEL SCORING
+
+**Let's calculate your score...**
+
+```
+foundation_score = count_correct_answers(scenario_1 through scenario_5)
+```
+
+**Your Foundation Score: {{foundation_score}}/5**
+
+---
+
+### BRANCHING LOGIC — FOUNDATION RESULTS
+
+**IF foundation_score >= 4:**
+
+🎉 Great job! You've mastered the basics. Unlocking **Application Level**...
+
+[PROCEED TO APPLICATION LEVEL]
+
+**IF foundation_score < 4:**
+
+No worries! Let's build your foundation first. You'll complete some targeted learning, then retry.
+
+---
+
+### REMEDIATION PATHWAY (for scores < 4)
+
+#### Step 1: Core Concepts Video (20 min)
+
+**Watch this Khan Academy video:**
+
+"Market Failure and Externalities"
+URL: https://www.khanacademy.org/economics-finance-domain/ap-macroeconomics/market-failure-and-the-role-of-government
+
+**While watching, answer this:**
+What is a negative externality?
+
+- text_input: (short answer)
+
+**FEEDBACK:**
+A negative externality is a cost that affects third parties who didn't choose to incur it. Grid congestion is a market failure because the current system doesn't efficiently allocate scarce grid capacity.
+
+---
+
+#### Step 2: Policy Deep Dive (25 min)
+
+**Read the policy document:**
+
+Open: policy-1-grid-modernization.md
+Read: "The Problem This Solves" + "Mechanism" sections ONLY
+
+**Complete this table (fill in the blanks):**
+
+| Problem | Our Solution |
+|---------|--------------|
+| 14,000 projects stuck on waiting list | |
+| Grid is "full on paper but empty in reality" | |
+| Physical buildout takes 8-10 years | |
+
+- text_input: Problem 1 solution
+- text_input: Problem 2 solution
+- text_input: Problem 3 solution
+
+**FEEDBACK:**
+✅ The solutions are:
+1. GOPACS flexibility market + non-firm contracts unlock connections now
+2. Dynamic Line Ratings + smart management use existing capacity better
+3. Market mechanisms take 2-3 years vs 8-10 years for physical buildout
+
+---
+
+#### Step 3: Flashcard Creation (10 min)
+
+**Create 5 flashcards (physical or digital):**
+
+1. Grid Congestion
+2. Curtailment
+3. TenneT
+4. Non-Firm Connection
+5. DLR (Dynamic Line Rating)
+
+**For each, write a one-sentence definition:**
+
+- text_input: Grid Congestion definition
+- text_input: Curtailment definition
+- text_input: TenneT definition
+- text_input: Non-Firm Connection definition
+- text_input: DLR definition
+
+**SAMPLE ANSWERS:**
+- Grid Congestion: When electricity wires are at full capacity, blocking new connections
+- Curtailment: Being told to reduce power output when the grid is congested
+- TenneT: The state-owned high-voltage grid operator in the Netherlands
+- Non-Firm Connection: Grid access that can be reduced during peak times (but connects now)
+- DLR: Sensors that measure actual wire temperature to unlock hidden capacity
+
+---
+
+#### Step 4: Retry Diagnostic
+
+**Now let's try again! You'll see 3 new scenarios (not repeats).**
+
+---
+
+### REMEDIATION SCENARIOS
+
+#### Scenario R1: The Battery Storage Developer
+
+**A battery company wants to build a 100 MW storage facility. They're offered a non-firm connection in 6 months, or a firm connection in 9 years.**
+
+**What should they choose and why?**
+
+- multiple_choice:
+  - A) Non-firm — batteries are designed for flexible operation, and 6 months vs 9 years is an easy business decision ✓
+  - B) Firm — batteries need guaranteed access
+  - C) Neither — wait for better terms
+  - D) Ask the government to build them a dedicated line
+
+**FEEDBACK:**
+- If A: ✅ Perfect! Batteries thrive on flexibility — they charge when power is cheap/abundant and discharge when it's scarce. Non-firm is ideal.
+
+---
+
+#### Scenario R2: The Industrial Consumer
+
+**A data center needs 50 MW of power. They're told: "We can give you 50 MW firm connection in 8 years, or 70 MW non-firm connection today (but we might curtail you 5% of the time)."**
+
+**What's the key tradeoff?**
+
+- multiple_choice:
+  - A) Cost vs. quality
+  - B) Certainty now vs. uncertainty later ✓
+  - C) Government vs. private control
+  - D) Dutch vs. German electricity
+
+**FEEDBACK:**
+- If B: ✅ Correct! Non-firm means accepting some uncertainty today in exchange for not waiting 8 years.
+
+---
+
+#### Scenario R3: The DLR Advantage
+
+**Two identical power lines run through different areas:**
+- **Line A:** Has DLR sensors
+- **Line B:** No DLR sensors (uses static ratings)
+
+**It's a cold, windy winter day. Which line can carry more power?**
+
+- multiple_choice:
+  - A) Line A — DLR detects the cooling effect and allows more flow ✓
+  - B) Line B — static ratings are more conservative and safer
+  - C) Both carry the same — they're identical lines
+  - D) Neither — winter reduces capacity
+
+**FEEDBACK:**
+- If A: ✅ Exactly! DLR reveals hidden capacity that static assumptions miss.
+
+---
+
+### REMEDIATION FINAL SCORE
+
+```
+remediation_score = count_correct_answers(scenario_r1 through scenario_r3)
+```
+
+**Your Remediation Score: {{remediation_score}}/3**
+
+**IF remediation_score >= 2:**
+✅ Great improvement! You're ready for Application Level.
+
+**IF remediation_score < 2:**
+Let's review once more. Re-read the "Mechanism" section in policy-1-grid-modernization.md, then try one more time.
+
+---
+
+## APPLICATION LEVEL
+
+### Introduction
+
+🎯 **Application Level** — Now you'll apply your knowledge to tougher challenges: counterarguments, evidence use, and policy integration.
+
+---
+
+#### Scenario 6: The Judge's Challenge
+
+**You're presenting your policy to judges. One judge says: "This is deeply unsafe. N-1 redundancy exists for a reason. You're going to cause blackouts."**
+
+**What's your best response?**
+
+- multiple_choice:
+  - A) "The government has insured against minor outages, so it's okay."
+  - B) "We're not operating blindly — DLR sensors give us real-time data. We're replacing worst-case assumptions with actual measurements." ✓
+  - C) "Blackouts are rare in the Netherlands, so we'll be fine."
+  - D) "The EU requires us to take more risks with the grid."
+
+**FEEDBACK:**
+- If B: ✅ Perfect! The rebuttal isn't "safety doesn't matter" — it's "we're actually safer with real data than with conservative assumptions."
+- If A, C, or D: ❌ The key insight: DLR sensors measure actual conditions, not worst-case scenarios. This is SAFER, not riskier.
+
+**LEARNING RESOURCE (if wrong):**
+Read: counterarguments-and-rebuttals.md — Counterargument 1 (Tier 1)
+
+---
+
+#### Scenario 7: The Cost Comparison
+
+**A judge asks: "€600 million sounds like a lot. Why should taxpayers fund this?"**
+
+**What's your best response?**
+
+- multiple_choice:
+  - A) "It's actually cheap — only 2% of the €30B physical buildout cost."
+  - B) "The EU is paying for it, not Dutch taxpayers."
+  - C) "Grid congestion costs €2-3 billion annually in delayed projects. Our €600M over 5 years prevents far larger losses."
+  - D) Both A and C are strong answers ✓
+
+**FEEDBACK:**
+- If D: ✅ Correct! Both arguments work together — it's 2% of the alternative, AND it prevents much larger losses.
+- If A or C alone: Partial credit! Both are strong arguments — use them together.
+
+**LEARNING RESOURCE (if wrong):**
+Read: counterarguments-and-rebuttals.md — Counterargument 1 ("€8.1 Billion Is Too Expensive")
+
+---
+
+#### Scenario 8: The German Comparison
+
+**A skeptical judge says: "Your timeline is fantasy. Permitting reform takes decades."**
+
+**What evidence do you cite?**
+
+- multiple_choice:
+  - A) "The Netherlands has always been fast at building infrastructure."
+  - B) "Germany approved 2,000 km of power lines in 2025 — a 45% increase over 2024. Permitting acceleration is proven." ✓
+  - C) "We don't need permitting reform for this policy."
+  - D) "The court will force the government to act."
+
+**FEEDBACK:**
+- If B: ✅ Excellent! This is specific, recent, and from a comparable country. Germany's Grid Acceleration Act cut permitting from 10 years to 4 years.
+- If A, C, or D: ❌ You need specific evidence. Germany proved permitting acceleration works — 2,000 km approved in 2025, a 45% increase.
+
+**LEARNING RESOURCE (if wrong):**
+Read: counterarguments-and-rebuttals.md — Counterargument 3 ("You Can't Hit These Targets")
+
+---
+
+#### Scenario 9: The Euro Connection
+
+**A judge asks: "What does the euro have to do with grid congestion? Couldn't the Netherlands do this alone?"**
+
+**What's your best response?**
+
+- multiple_choice:
+  - A) "The euro makes everything cheaper for everyone."
+  - B) "Actually, you're right — the euro doesn't matter for this policy."
+  - C) "The EU's Single Allocation Platform enables cross-border redispatch. German industrial demand can relieve Dutch congestion when prices align — but only with a common currency eliminating exchange rate risk." ✓
+  - D) "The ECB is funding this policy directly."
+
+**FEEDBACK:**
+- If C: ✅ Perfect! This is specific and accurate. Cross-border flexibility requires currency stability.
+- If A, B, or D: ❌ The euro enables cross-border energy trading without exchange rate risk. The EU's Single Allocation Platform lets German demand relieve Dutch congestion.
+
+**LEARNING RESOURCE (if wrong):**
+Read: policy-1-grid-modernization.md — "Single Currency Angle" section
+
+---
+
+#### Scenario 10: The Tradeoff
+
+**You have €600 million to spend. An alternative proposal says: "Use this for direct solar subsidies instead of grid management."**
+
+**Why is DCOI the better choice?**
+
+- multiple_choice:
+  - A) Solar subsidies are wasteful.
+  - B) Grid congestion is the binding constraint — 14,000 projects are stuck waiting. Subsidizing solar doesn't help if you can't connect. ✓
+  - C) The EU requires grid spending first.
+  - D) Solar panels are too expensive right now.
+
+**FEEDBACK:**
+- If B: ✅ Exactly! This is about identifying the bottleneck. You can subsidize solar all you want, but if the grid is full, the panels can't connect.
+- If A, C, or D: ❌ The key insight: grid congestion is the BINDING CONSTRAINT. Remove the bottleneck first.
+
+---
+
+### APPLICATION LEVEL SCORING
+
+```
+application_score = count_correct_answers(scenario_6 through scenario_10)
+```
+
+**Your Application Score: {{application_score}}/5**
+
+---
+
+### BRANCHING LOGIC — APPLICATION RESULTS
+
+**IF application_score >= 4:**
+
+🌟 Excellent! You're ready for the Challenge Level — the toughest questions judges might ask.
+
+[PROCEED TO CHALLENGE LEVEL]
+
+**IF application_score < 4:**
+
+Good effort! Let's strengthen your counterargument skills before advancing.
+
+---
+
+## COUNTERARGUMENT REMEDIATION
+
+### Step 1: Study the Rebuttals (25 min)
+
+**Read: counterarguments-and-rebuttals.md**
+
+Focus on:
+- Tier 1 Counterarguments 1, 2, 3
+- The "Concession + Pivot + Defense" structure
+- The specific evidence cited in each rebuttal
+
+**For each counterargument, identify:**
+1. The "Attack" quote
+2. The "Concession" (what we acknowledge)
+3. The "Pivot" (how we reframe)
+4. The "Defense" (our evidence)
+
+- text_input: Counterargument 1 — Concession
+- text_input: Counterargument 1 — Pivot
+- text_input: Counterargument 1 — Defense
+
+**SAMPLE ANSWERS:**
+- Concession: "Wilders is right that public spending must be carefully justified..."
+- Pivot: "However, the cost of inaction is far higher and much more damaging."
+- Defense: "A January 2025 Dutch court ordered €10M fines... Grid congestion costs €2-3B annually..."
+
+---
+
+### Step 2: Practice Responses (15 min)
+
+**Record yourself answering this question (60 seconds max):**
+
+*"But what if TenneT can't deliver even with accelerated permits?"*
+
+- audio_input: (record your response)
+
+**Self-evaluate:**
+- Did I use specific evidence? (yes/no)
+- Did I acknowledge uncertainty honestly? (yes/no)
+- Was my answer under 60 seconds? (yes/no)
+
+---
+
+### Step 3: Retry Application Scenarios
+
+**Try 3 new application scenarios:**
+
+---
+
+#### Scenario A-R1: The Market Liquidity Question
+
+**A judge asks: "GOPACS only works if companies participate. What if they don't? What if the market has no liquidity?"**
+
+**What's your response?**
+
+- multiple_choice:
+  - A) "We'll force them to participate."
+  - B) "The €500M Flexibility Fund creates strong financial incentives. And we're not betting on breakthroughs — Germany's Redispatch 2.0 proved this works at scale." ✓
+  - C) "Companies will participate because it's patriotic."
+  - D) "The government will operate the market directly."
+
+**FEEDBACK:**
+- If B: ✅ Correct! Financial incentives + proven precedents = credible response.
+
+---
+
+#### Scenario A-R2: The NIMBY Objection
+
+**A judge says: "You talk about DLR sensors and smart grids, but communities will still oppose new transmission infrastructure. What then?"**
+
+**What's your best response?**
+
+- multiple_choice:
+  - A) "DLR and GOPACS mean we need LESS new infrastructure, not more. We're unlocking hidden capacity in existing lines." ✓
+  - B) "NIMBY opposition is always a problem."
+  - C) "The government can use eminent domain."
+  - D) "We'll build underground lines instead."
+
+**FEEDBACK:**
+- If A: ✅ Perfect! This is the key insight — our policy REDUCES the need for new infrastructure.
+
+---
+
+#### Scenario A-R3: The Timing Question
+
+**A judge asks: "Even if this works, how quickly can you scale GOPACS from its current size to what you need?"**
+
+**What's your response?**
+
+- multiple_choice:
+  - A) "It's already scalable — GOPACS exists, we're just removing financial barriers and overhauling the incentive structure." ✓
+  - B) "We'll phase it in over 20 years."
+  - C) "We'll replace it with a different system."
+  - D) "Scale isn't important."
+
+**FEEDBACK:**
+- If A: ✅ Correct! The infrastructure exists — we're changing the rules, not building from scratch.
+
+---
+
+## CHALLENGE LEVEL
+
+### Introduction
+
+🏆 **Challenge Level** — These are the nightmare questions that separate winning teams from good ones. Take your time.
+
+---
+
+#### Scenario 11: The Nightmare Question
+
+**A judge leans forward and says: "Let me play devil's advocate. What if TenneT and the DSOs can't deliver even with your reforms? What if GOPACS doesn't have enough liquidity? You've built your entire policy on assumptions about market behavior that might not hold."**
+
+**What's the strongest response?**
+
+- multiple_choice:
+  - A) "We have guarantees from TenneT that they can deliver."
+  - B) "That's a risk, but our policy has multiple pillars. Even if GOPACS underperforms, DLR and non-firm contracts still unlock capacity. And we're not betting on breakthroughs — Germany and Denmark have proven these tools work." ✓
+  - C) "The court will force them to comply."
+  - D) "We've done extensive research and we're confident it will work."
+
+**FEEDBACK:**
+- If B: ✅ Outstanding! This acknowledges uncertainty (honest) while pointing to: (1) redundancy in design (multiple pillars), and (2) real-world precedents.
+- If A, C, or D: ❌ The best response acknowledges uncertainty while showing: multiple policy pillars (redundancy) + proven precedents (Germany, Denmark).
+
+---
+
+#### Scenario 12: The Political Economy
+
+**A judge says: "The current coalition agreement rules out 'forced reduction of livestock' and opposes wind on land. Your policy requires grid expansion and agricultural transition. Isn't this politically dead on arrival?"**
+
+**What's your best response?**
+
+- multiple_choice:
+  - A) "The coalition is wrong and should change their minds."
+  - B) "Our policy is voluntary — farmers choose to participate. The coalition agreement explicitly supports voluntary approaches. And grid investment has broad support from VVD, CDA, and the business community." ✓
+  - C) "We'll wait for the next election."
+  - D) "The court will force the coalition to accept it."
+
+**FEEDBACK:**
+- If B: ✅ Perfect! This shows you understand the political landscape and have designed around it.
+- If A, C, or D: ❌ Show you understand the politics: voluntary approaches align with the coalition's stated principles.
+
+---
+
+#### Scenario 13: The Carbon Price Objection
+
+**An economics-focused judge asks: "Why not just raise the carbon tax? That's more efficient than complex market mechanisms. If carbon is priced correctly, the market will solve congestion on its own."**
+
+**What's your response?**
+
+- multiple_choice:
+  - A) "Carbon taxes are politically unpopular."
+  - B) "The Netherlands already has one of the highest effective carbon prices in the world (~€150-180/tonne). Grid congestion persists anyway. No carbon price can fix a transmission line that doesn't exist." ✓
+  - C) "The EU won't allow higher carbon taxes."
+  - D) "We do support higher carbon taxes, but this is separate."
+
+**FEEDBACK:**
+- If B: ✅ Excellent! This is the key insight: carbon pricing addresses externalities, but it doesn't fix structural bottlenecks.
+- If A, C, or D: ❌ The Netherlands already has very high carbon prices — yet 14,000 projects are still stuck. The problem is physical/infrastructure, not just pricing.
+
+---
+
+#### Scenario 14: The Regional Comparison
+
+**A judge shows you this table:**
+
+| Country | Flexibility Market | DLR Deployed | Non-Firm Connections |
+|---------|-------------------|--------------|---------------------|
+| Netherlands (DCOI) | GOPACS €500M | €60M investment | Mandatory for large-scale |
+| Germany | Redispatch 2.0 €2.6B | Pilot on 12 circuits | Voluntary program |
+| UK | Dynamic Containment £400M | Limited | 2 GW connected |
+
+**What's the key insight from this comparison?**
+
+- multiple_choice:
+  - A) The Netherlands is spending the least, so it's the most efficient.
+  - B) The Netherlands is combining the best elements of multiple approaches — UK market innovation, German scale, and Danish DLR leadership — at lower cost than Germany's approach. ✓
+  - C) Germany's approach is better because they're spending more.
+  - D) The UK's approach is best because they have the most non-firm connections.
+
+**FEEDBACK:**
+- If B: ✅ Exactly! We're synthesizing proven approaches from neighbors, adapted to Dutch context, at a fraction of Germany's cost.
+- If A, C, or D: ❌ The insight: we're combining the best of multiple approaches at lower cost.
+
+---
+
+#### Scenario 15: The Integration Test
+
+**You have 60 seconds to explain DCOI to a skeptic. What's your pitch structure?**
+
+- multiple_choice:
+  - A) Start with the cost (€600M), then explain each pillar, then cite Germany.
+  - B) Start with the problem (14,000 projects stuck, 8-10 year wait), then the insight (grid is full on paper but empty in reality), then the solution (3 pillars), then the proof (Germany/Denmark precedents). ✓
+  - C) Start with the technical details of DLR sensors, then explain GOPACS, then mention the cost.
+  - D) Start with the euro connection, then work backward to the policy.
+
+**FEEDBACK:**
+- If B: ✅ Perfect! Problem → Insight → Solution → Proof. This creates urgency, reframes the issue, offers a fix, and shows it's achievable.
+- If A, C, or D: ❌ The persuasive structure is: Problem → Insight → Solution → Proof.
+
+---
+
+### CHALLENGE LEVEL SCORING
+
+```
+challenge_score = count_correct_answers(scenario_11 through scenario_15)
+```
+
+**Your Challenge Score: {{challenge_score}}/5**
+
+---
+
+### FINAL MASTERY ASSESSMENT
+
+**IF challenge_score >= 4:**
+
+🎖️ **MASTERY ACHIEVED!**
+
+You are now "Policy 1 Certified" — you can lead Q&A prep on grid topics for the team.
+
+**Your achievements:**
+- ✅ Foundation Level: {{foundation_score}}/5
+- ✅ Application Level: {{application_score}}/5
+- ✅ Challenge Level: {{challenge_score}}/5
+
+**Next steps:**
+1. Move to Module 2 (ATIP)
+2. Or practice your 60-second pitch with a teammate
+
+---
+
+**IF challenge_score < 4:**
+
+You're very close! Here's what to do:
+
+1. Review counterarguments-and-rebuttals.md one more time
+2. Practice with a teammate (have them ask you Challenge questions)
+3. Retry the Challenge Level
+
+---
+
+## MODULE 1 COMPLETE
+
+**Total Score: {{foundation_score + application_score + challenge_score}}/15**
+
+**Time Spent: {{estimated_time}} minutes**
+
+---
+
+## PROGRESS TO MODULE 2
+
+Ready to continue to Module 2: Agricultural Transition (ATIP)?
+
+- yes_no
+
+**IF yes:**
+[LOAD MODULE 2]
+
+**IF no:**
+You can save your progress and return later. Your scores have been recorded.
+
+---
+
+## END OF MODULE 1
+
+---
+
+*[Note: Modules 2 and 3 follow the same structure — I can expand them fully. Let me know if you want the complete 3-module GuidedTrack program.]*
